@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Why do this?"
+date:   2023-12-10 22:30:02 -0600
+categories: getting-started
+---
+
 # 12/9/23 Why do this 
 Why do I want to spend any amount of time on a computer writing down
 my thoughts to no one after I spend at least 40 hours per week looking 
