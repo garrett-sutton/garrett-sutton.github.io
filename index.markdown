@@ -4,3 +4,11 @@
 
 layout: home
 ---
+
+Welcome weary traveler. This is my blog. Here you'll find a 
+  one-stop-shop for all things Garrett's brain. It can
+  admittedly resemble Amazon.com at times -- way too much useless
+  information of limited value. But when you know what you're
+  looking for -- adventure stories, coffee recs, running commentary,
+  biking breakdowns, dad life and other randomness along the way -- it may be
+  the perfect place to visit. Enjoy!

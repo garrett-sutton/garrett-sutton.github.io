@@ -2,7 +2,7 @@
 layout: post
 title:  "Why do this?"
 date:   2023-12-10 22:30:02 -0600
-categories: getting-started
+categories: 0-getting-started
 ---
 
 # 12/9/23 Why do this 
