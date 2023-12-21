@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## About this blog
+This blog aims to tell my stories and learnings about:
+- my hobbies
+- my travels
+- my journey as a husband and dad
 
 
-[jekyll-organization]: https://github.com/jekyll
+## About me
+I'm a Catholic. I'm a husband to Grace and dad to Gwen.
+I run a lot and love riding my bike when I have the 
+time. I'm a diehard Steelers fan, also a Badger fan, and 
+a sports fan in general. I currenly live in 
+Madison, WI and work as a software developer at Epic 
+(look up our campus if you haven't heard of it ;)). 
