@@ -64,6 +64,10 @@ that far (peak 10).
 We must have gotten on the Peak 8 superchair somehow from Peak 9 
 to make the ultra long run down through the village and to the parking lot.
 
+Below, I put together a map that generally looks like the path for the day. It's not supposed to be an exact representation of our day. In addition to giving context to my account from above, I'm using it as a platform to complain a little bit. The high terrain at Breck is super cool, but the lift situation is tough. The longest lifts on the mountain take you up over a lot of mellow terrain to (I'm guestimating) 80% of the way to the top. There are then other much shorter lifts that get you to the highest points. the problem with this is twofold:
+1. The expert level runs are pretty short and if you want a long run, you'll have to take multiple lifts to get back to the very top. This makes the navigation between peaks pretty slow. Lesson to learned - If you're looking to get to a certain spot, don't mess around in getting there.
+1. The lift lines at these expert level lifts are sort of long. This happens when everyone looking for the expert level terrain ends up lapping these short (but steep) runs. 
+
 TODO: 
 - mention the altitude 
 - mention opinions on teh various areas (maybe this goes down below with
