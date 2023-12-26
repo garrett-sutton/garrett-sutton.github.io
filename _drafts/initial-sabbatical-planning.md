@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Start planning sabbatical"
+title:  "Initial plan for the Olympics"
 date:   2023-12-19 22:30:02 -0600
 categories: [ travel, sabbatical-2023 ]
 ---
@@ -9,6 +9,8 @@ categories: [ travel, sabbatical-2023 ]
 Trip starts: 7/17
 Sabby technically ends: 7/30
 -------------------------------------------------------------------------------
+
+
 What I got:
 7/27	|M/W Rowing Heats		|ROW01 (4hr@9AM)
 7/28	|M/W Prelim Beach Volleyball	|VBV05(3hrPM)
