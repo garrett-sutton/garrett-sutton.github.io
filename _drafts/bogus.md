@@ -27,11 +27,19 @@ The skiing and terrain were a lot of fun though. And if the snow is right, it wo
 ## The day
 Describe how this day went.
 
+Our day started in the Bogus Parking lot (#4 I believe) TODO CHECK THIS. We slept in the car the night before and were nicely positioned to basically ski out from the car down to the ticket window. 
+
 
 ## The skiing
 Describe mountain stats.
+1800' vert
+2600 acres 
+
 ### The snow
 Describe the snow
+
+We got a decently warm day of skiing. At the beginning of the day there was some ice and hard spots from freezing overnight. As the day wore on and the sun got higher, the snow softened up. At lower elevations, there was even a hint of slush/spring corn in the snow. By the end of the day,
+cold air and some high winds moved in, rendering all of that soft/wet snow to ice pretty quickly.
 
 ### The mountain
 Describe the different areas of the mount
