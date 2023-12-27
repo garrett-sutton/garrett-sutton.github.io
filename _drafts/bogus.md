@@ -27,7 +27,7 @@ The skiing and terrain were a lot of fun though. And if the snow is right, it wo
 ## The day
 Describe how this day went.
 
-Our day started in the Bogus Parking lot (#4 I believe) TODO CHECK THIS. We slept in the car the night before and were nicely positioned to basically ski out from the car down to the ticket window. 
+Our day started in the Bogus Parking lot (specifically #4 - Bitterroot & Buttercup). We slept in the car the night before and were nicely positioned to basically ski out from the car down to the ticket window.
 
 
 ## The skiing
