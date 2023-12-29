@@ -44,6 +44,12 @@ cold air and some high winds moved in, rendering all of that soft/wet snow to ic
 ### The mountain
 Describe the different areas of the mount
 
+TODO: add link to map.
+
+Bogus Basin felt like an atypical mountain given how it is set up. It's difficult to understand other than by saying that a 2d map isn't great at portraying the layers/ridgelines. It's aptly named a basin. But there is also a backside area off of the basin that took some looking at the maps to really understand and navigate. 
+
+This backside area had a lot of fun and fairly steep terrain. The actual basin part of the mountain seemed to collect a lot of people. It's also where the terrain park was at. We didn't spend all that much time in the basin - especially the area above the terrain park. 
+
 ## The human element
 Describe the vibe
  
