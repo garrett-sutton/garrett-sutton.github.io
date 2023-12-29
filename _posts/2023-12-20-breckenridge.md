@@ -33,13 +33,20 @@ It's a nearly indescribable feeling as you float on 2 pieces of
 wood. There were a few rocks that poped up along the descent 
 that brought me back to reality though. There were several other
 runs off of Kenosho that had a similar vibe -- steep open and covered
-in largely untracked snow.
+in largely untracked snow. 
+
+During our time in the Peak 6 area, I also 
+had the embarrassing blunder of stopping
+emphatically next to someone on the hill that
+I thought was my buddy and his girlfriend. Oops.
+I'm pretty sure we coincidentally found him at
+the bottom of that run though.
 
 After a few runs in this area, I imagine it was getting to be closer 
 to lunch time and we still had a long way to go to keep hitting
 new areas. To make the traverse faster, we hit up the infamous t-bar.
 Dan was not so fortunate with the t-bar. He fell, got yelled at by
-the lifty, but cheered on my all of the howling onlookers to never
+the lifty, but cheered on by all of the howling onlookers to never
 let go. He eventually had to let go. 
 
 Off of the t-bar, we made our way to the area of Imperial and chair 6. 
