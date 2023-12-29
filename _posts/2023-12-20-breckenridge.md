@@ -88,10 +88,7 @@ you're looking to get to a certain spot, don't mess around in getting there.
 when everyone looking for the expert level terrain ends up lapping these 
 short (but steep) runs. 
 
-TODO: 
-- mention the altitude 
-- mention opinions on teh various areas (maybe this goes down below with
-the mountain synopsis)
+
 
 ## The skiing
 Describe mountain stats.
@@ -100,6 +97,18 @@ Describe the snow
 
 ### The mountain
 Describe the different areas of the mount
+
+TODO: 
+- mention opinions on teh various areas (maybe this goes down below with
+the mountain synopsis)
+
+W.R.T. the altitude. Breck is way up there - the Imperial lift tops out at 12,840 ft. For me as a midwesterner, this means I'm spending an entire day of skiing at a really high altitude compared to what I'm used to. Combine that with this being day 1 of our trip, I think I had some issues with altitude, though hard to explain and maybe a bit different from how I have heard of altitude
+sickness manifesting in others. I tried to drink a ton of water to prevent feeling anything, but then I ended up needing to pee a ton throughout the morning. This also could have been due to stoke. I also think I got hungry, tried to eat too much too fast and felt weird after eating too. It almost felt like gravity wasn't helping
+my digestive tract as much as I'm used to. I'm 
+under the impression that altitude sickness 
+hits people in a variety of ways though. And 
+altitude sickness doesn't distinguish based
+on your fitness. It's a wait and see sort of thing on how your both might react.
 
 ## The human element
 Describe the vibe
