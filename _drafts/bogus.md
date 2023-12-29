@@ -62,3 +62,5 @@ We definitely waited in lines for most of the day. However, I don't think that a
 
 ### The Amenities
 Descrie what this place has that isn't skiing.
+
+I alluded to them earlier, but there are a good amount of on mountain dining/beverage options at Bogus Basin. The lodges that I went into were modern and well kept too. I believe they had some on mountain music going at a spot with a few food/beverage stands too. We ate at our car, but I think it's fair to say that if you got hungry you could find food pretty quickly. As far as I'm aware, there wasn't any lodge or picnic area at a high point with a big view though. 
