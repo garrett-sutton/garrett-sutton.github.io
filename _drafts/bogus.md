@@ -52,9 +52,13 @@ This backside area had a lot of fun and fairly steep terrain. The actual basin p
 
 ## The human element
 Describe the vibe
- 
+
+Bogus Basin had a family friendly vibe to it. Especially on a Saturday, you can tell there are a lot of families that make the trip up from Boise. There's also several beer / waffle stands on the mountain that would be appealing to a party crowd. Theres a good variety of terrain to accommodate a good variety of people. 
+
 ### The Crowds
 Describe how crowded it was
+
+We definitely waited in lines for most of the day. However, I don't think that any of them could have been longer than 10 minutes. Upon getting off any lifts, I don't remember a lot of crowds on the actual mountain though. Generally speaking, it feels fair to say that you can get away during your runs. People seem to spread out pretty well. I should mention that this observation may be a bit shortsighted. Grace and I were definitely doing more difficult runs which combined with the fact that many people don't venture into these areas anyway and the family atmosphere, this may just be unique to these runs on the mountain. Other easier parts of the mountain may in fact feel busy.
 
 ### The Amenities
 Descrie what this place has that isn't skiing.
