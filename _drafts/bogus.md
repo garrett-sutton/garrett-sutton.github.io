@@ -39,6 +39,12 @@ Our day started in the Bogus Parking lot
 the night before and were nicely positioned to basically ski out 
 from the car down to the ticket window.
 
+We headed to the areas around the Superior Express lift and Pine Creek
+Express lifts to start the day. By midday, we ventured into the Basin to
+hit up the lifts near Deer Point. We ate lunch at the car and then finished
+off the day with some more laps in the Pine Creek, Superior and 
+Bitterroot areas.
+
 
 ## The skiing
 - 1800' vert
