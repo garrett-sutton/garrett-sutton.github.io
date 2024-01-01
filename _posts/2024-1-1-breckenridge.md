@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Breckenridge, Colorado - March 2023"
-date:   2023-12-20 22:30:02 -0600
+date:   2024-1-1 00:30:02 -0600
 categories: [ skiing ]
 ---
 
 ## The TLDR
 We went to Breckenridge as part of a big family/friend
 ski trip in March 2023. This was day 1 of 4 days of skiing on 
-our trip. I think my tone around Breckenridge will be generally
+our trip. I think my tone around Breckenridge will be somewhat
 critical.
 
 ### The would I go back?
@@ -88,23 +88,58 @@ you're looking to get to a certain spot, don't mess around in getting there.
 1. The lift lines at these expert level lifts are sort of long. This happens 
 when everyone looking for the expert level terrain ends up lapping these 
 short (but steep) runs. 
-
-
+1. Separately, the terrain below treeline has (from what I discovered) a 
+pretty limited amount of actual tree skiing. I ran into one set of trees 
+around the lower part of peak 7 that was actually kind of sketchy. Once
+you got into them, you were pretty much stuck with no way out. Many of 
+the open runs at Breck are lined with trees and it looked like most all of
+the trees were super close together and likely not a great idea to venture
+into.
 
 ## The skiing
-Describe mountain stats.
+- 2,900 acres of skiing  
+- 3,300 feet of vert  
+- [Complete mountain stats]
+
 ### The snow
-Describe the snow
+There was a wide variety of snow at Breck - all pretty good too. There are a lot 
+of groomers that are hard and fast. In the high alpine areas, there was definitely
+untracked snow that gets refilled pretty quickly due to the high winds. This can
+also lead to a good amount of bare spots / risk of rocks in some areas. In the 
+trees, the snow was also nice. Given we were there in March, the trees were holding a
+good amount of snow and seemed to have limited bare spots.
 
 ### The mountain
-Describe the different areas of the mount
+I mentioned a lot of the details on how I felt about areas that we skiied above. My
+high level of each peak would be:
+#### **Peak 6** 
+- Way up there and out of the way
+- Really nice open bowl skiing at the top
+- Longish runout to get back to the lift
+#### **Peak 7**
+- A lot of nice and long blue runs
+- Some trees to the north end
+- Otherwise not a lot of variation from one blue to the next
+#### **Peak 8**
+- Home of Imperial
+- T-Bar is an experience and difficult for someone who has never done it before
+- Pretty much all above treeline
+- Fun and pretty open trees down to 6 chair (which is a slow lift)
+#### **Peak 9**
+- Similar to peak 7, but mixes in some black runs and green runs
+- Trees were not as tight and may allow you to go in and out some
+- A few terrain parks
 
-TODO: 
-- mention opinions on teh various areas (maybe this goes down below with
-the mountain synopsis)
-
-W.R.T. the altitude. Breck is way up there - the Imperial lift tops out at 12,840 ft. For me as a midwesterner, this means I'm spending an entire day of skiing at a really high altitude compared to what I'm used to. Combine that with this being day 1 of our trip, I think I had some issues with altitude, though hard to explain and maybe a bit different from how I have heard of altitude
-sickness manifesting in others. I tried to drink a ton of water to prevent feeling anything, but then I ended up needing to pee a ton throughout the morning. This also could have been due to stoke. I also think I got hungry, tried to eat too much too fast and felt weird after eating too. It almost felt like gravity wasn't helping
+#### W.R.T. Altitude
+Breck is way up there - the Imperial lift tops out at 12,840 ft. For 
+me as a midwesterner, this means I'm spending an entire day of skiing at a really high 
+altitude compared to what I'm used to. Combine that with this being day 1 of our trip, I 
+think I had some issues with altitude, though hard to explain and maybe a bit different 
+from how I have heard of altitude
+sickness manifesting in others. I tried to drink a ton of water to prevent feeling 
+anything, but then I ended up needing to pee a ton throughout the morning. This also 
+could have been due to stoke. I also think I got hungry, tried to eat too much too fast 
+and felt weird after eating too. It almost felt like gravity wasn't helping
 my digestive tract as much as I'm used to. I'm 
 under the impression that altitude sickness 
 hits people in a variety of ways though. And 
@@ -112,10 +147,26 @@ altitude sickness doesn't distinguish based
 on your fitness. It's a wait and see sort of thing on how your both might react.
 
 ## The human element
-Describe the vibe
+Breck feels like it has a family friendly vibe to it - albiet a rich family. 
+There are tons and tons of long blue runs that can accomodate just about anyone.
+There's a good amount of high alpine terrain that makes Breck unique for more
+advanced skiiers. 
  
 ### The Crowds
-Describe how crowded it was
+We went to Breckenridge on a Thursday, and there were certainly a lot of people there.
+As I stated above, it feels like all of the experts end up waiting at the same few 
+lifts and that can make it feel crowded. But I will acknowledge that we never encountered
+any of the nightmarish long lines that Vail resorts have become known for. In retrospect,
+I would wager that the longest line we waited in was 15 minutes. That 15 minute line can
+be a hard sell when it's for a short (but steep) run though.
 
 ### The Amenities
-Descrie what this place has that isn't skiing.
+Breckenridge has it all. If you're willing to pay an arm and a leg, I imagine you can
+easily stay here. They also have a ton of on mountain dining options. You could probably
+stop to eat or drink at the top or bottom of just about every lift, if that's what you're
+into. 
+
+For year 2023, if you had an Epic pass (even one of the day passes), you could get a discount on the food (I think 25% off) at any of the dining areas. With the discount,
+the food starts to feel a bit more affordable. 
+
+[Complete mountain stats]: https://www.breckenridge.com/the-mountain/about-the-mountain/mountain-info.aspx
