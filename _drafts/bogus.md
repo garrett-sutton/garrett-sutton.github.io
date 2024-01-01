@@ -10,7 +10,7 @@ In February 2023, Grace and I packed our bags
 for Idaho to hit up Brundage Mountain and Bogus 
 Basin (subject of this post) to take advantage of free lift tickets
 as part of the Mount Bohemia season pass. 
-Bogus is a pretty big resort with a decent variety of terrain - wide 
+Bogus is a pretty big resort with a decent variety of terrain-wide 
 open groomers, some steeps, moguls, and technical terrain. It's 
 located just North of Boise, Idaho. 
 We had a nice day of skiing when we were there, albeit a bit warm for most of it.
@@ -28,21 +28,21 @@ to some pretty big crowds. In particular, we noticed a lot
 of ski clubs arriving at night.
 The skiing and terrain were a lot of fun though. And if the snow 
 is right, it would be even more fun. Mentioning the snow seems 
-worthwhile because I'm not sure they actually end up with "that" 
+worthwhile because I'm not sure they end up with "that" 
 much snow on average. A group of people may find it to be a fun 
 spot for a trip too. There's almost nothing that everyone can't 
-ski and plenty of on mountain amenities. 
+ski and plenty of on-mountain amenities. 
 
 ## The day
 Our day started in the Bogus Parking lot 
 (specifically #4 - Bitterroot & Buttercup). We slept in the car 
-the night before and were nicely positioned to basically ski out 
+the night before and were nicely positioned to ski out 
 from the car down to the ticket window.
 
 We headed to the areas around the Superior Express lift and Pine Creek
 Express lifts to start the day. By midday, we ventured into the Basin to
 hit up the lifts near Deer Point. We ate lunch at the car and then finished
-off the day with some more laps in the Pine Creek, Superior and 
+off the day with some more laps in Pine Creek, Superior and 
 Bitterroot areas.
 
 
@@ -52,7 +52,7 @@ Bitterroot areas.
 - [Complete mountain stats] 
 
 ### The snow
-We got a decently warm day of skiing. At the beginning of the day 
+We got a decently warm day of skiing. At the beginning of the day, 
 there was some ice and hard spots from freezing overnight. As the 
 day wore on and the sun got higher, the snow softened up. At lower 
 elevations, there was even a hint of slush/spring corn in the snow. 
@@ -63,10 +63,10 @@ rendering all of that soft/wet snow to ice pretty quickly.
 [Link to Bogus Basin Trail Map]
 
 Bogus Basin felt like an atypical mountain given how it is set up. 
-It's difficult to understand other than by saying that a 2d map isn't 
+It's difficult to understand other than by saying that a 2D map isn't 
 great at portraying the layers/ridgelines. It's aptly named a basin. 
 But there is also a backside area off of the basin that took some 
-looking at the maps to really understand and navigate. If you're 
+looking at the maps to fully understand and navigate. If you're 
 looking at a map, I am calling the backside the areas 
 with the Pine Creek Express and Superior Express lifts.
 
@@ -78,29 +78,28 @@ spend all that much time in the basin - especially the area
 above the terrain park. 
 
 ## The human element
-Bogus Basin had a family friendly vibe to it. Especially on a 
+Bogus Basin had a family-friendly vibe to it. Especially on a 
 Saturday, you can tell there are a lot of families that make 
-the trip up from Boise. There's also several beer/waffle 
+the trip up from Boise. There are also several beer/waffle 
 stands on the mountain that would be appealing to a party crowd. 
-Theres a good variety of terrain to accommodate a good variety of people. 
+There's a good variety of terrain to accommodate a good variety of people. 
 
 ### The Crowds
-We definitely waited in lines for most of the day. However, I 
+We waited in lines for most of the day. However, I 
 don't think that any of them could have been longer than 10 minutes. 
 Upon getting off any lifts, I don't remember a lot of crowds on the 
 actual mountain though. Generally speaking, it feels fair to say 
 that you can get away during your runs. People seem to spread out 
 pretty well. I should mention that this observation may be a bit 
-shortsighted. Grace and I were definitely doing more difficult runs 
+shortsighted. Grace and I were doing more difficult runs 
 which combined with the fact that many people don't venture into 
-these areas anyway and the family atmosphere, this may just be unique 
-to these runs on the mountain. Other easier parts of the mountain may 
-in fact feel busy.
+these areas anyway and the family atmosphere, may just be unique 
+to these runs on the mountain. Other easier parts of the mountain could feel busy.
 
 ### The Amenities
-I alluded to them earlier, but there are a good amount of on mountain 
+I alluded to them earlier, but there are a good amount of on-mountain 
 dining/beverage options at Bogus Basin. The lodges that I went into 
-were modern and well kept too. I believe they had some on mountain 
+were modern and well-kept too. I believe they had some on-mountain 
 music going at a spot with a few food/beverage stands too. We ate at 
 our car, but I think it's fair to say that if you got hungry you could 
 find food pretty quickly. As far as I'm aware, there wasn't any lodge 
