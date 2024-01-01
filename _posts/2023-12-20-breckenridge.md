@@ -75,6 +75,7 @@ Below, I put together a map that generally looks like the path for the day.
 It's not supposed to be an exact representation of our day. In addition to 
 giving context to my account from above, I'm using it as a platform to complain a 
 little bit. 
+![Breck Day map](/assets/images/BreckMap.PNG)
 The high terrain at Breck is super cool, but the lift situation is tough. 
 The longest lifts on the mountain take you up over a lot of mellow terrain
 to (I'm guestimating) 80% of the way to the top. There are then other much
