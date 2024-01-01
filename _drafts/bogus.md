@@ -1,66 +1,104 @@
 ---
 layout: post
 title:  "Bogus Basin, Idaho"
-date:   2023-12-19 22:30:02 -0600
+date:   2024-1-1 12:30:02 -0600
 categories: [ skiing ]
 ---
 
 ## The TLDR
-Describe when we were there and the super high
-level (i.e. where it is, etc)
-
 In February 2023, Grace and I packed our bags 
-for Idaho to hit up Brundage Mountain and Bogus Basin (subject of this post) to take advantage of free lift tickets
+for Idaho to hit up Brundage Mountain and Bogus 
+Basin (subject of this post) to take advantage of free lift tickets
 as part of the Mount Bohemia season pass. 
-Bogus is a pretty big resort with a decent variety of terrain - wide open groomers, some steeps, moguls, and technical terrain. It's located just North of Boise, Idaho. 
+Bogus is a pretty big resort with a decent variety of terrain - wide 
+open groomers, some steeps, moguls, and technical terrain. It's 
+located just North of Boise, Idaho. 
 We had a nice day of skiing when we were there, albeit a bit warm for most of it.
 
 ### The would I go back?
-Describe if I'd want to go back and why?
-
 I would consider going back to Bogus Basin. I'm
-not sure that I would like to spend an entire trip here. There aren't many other resorts 
-close by though, so you'd almost have to do this as part of a trip that stays in multiple places. Part of my rationale here is that you almost have to stay in Boise and make the trip up the super windy road every day. The proximity to Boise is a plus for traveling in, but also feels like it could lend to some pretty big crowds. In particular, we noticed a lot of ski clubs arriving 
-at night.
-The skiing and terrain were a lot of fun though. And if the snow is right, it would be even more fun. Mentioning the snow seems worthwhile because I'm not sure they actually end up with "that" much snow on average. A group of people may find it to be a fun spot for a trip too. There's almost nothing that everyone can't ski and plenty of on mountain amenities. 
+not sure that I would like to spend an entire trip here. 
+There aren't many other resorts 
+close by though, so you'd almost have to do this as part
+of a trip that stays in multiple places. Part of my rationale 
+here is that you almost have to stay in Boise and make the 
+trip up the super windy road every day. The proximity to Boise 
+is a plus for traveling in, but also feels like it could lend 
+to some pretty big crowds. In particular, we noticed a lot 
+of ski clubs arriving at night.
+The skiing and terrain were a lot of fun though. And if the snow 
+is right, it would be even more fun. Mentioning the snow seems 
+worthwhile because I'm not sure they actually end up with "that" 
+much snow on average. A group of people may find it to be a fun 
+spot for a trip too. There's almost nothing that everyone can't 
+ski and plenty of on mountain amenities. 
 
 ## The day
-Describe how this day went.
-
-Our day started in the Bogus Parking lot (specifically #4 - Bitterroot & Buttercup). We slept in the car the night before and were nicely positioned to basically ski out from the car down to the ticket window.
+Our day started in the Bogus Parking lot 
+(specifically #4 - Bitterroot & Buttercup). We slept in the car 
+the night before and were nicely positioned to basically ski out 
+from the car down to the ticket window.
 
 
 ## The skiing
-Describe mountain stats.
-1800' vert
-2600 acres 
+- 1800' vert
+- 2600 acres
+- [Complete mountain stats] 
 
 ### The snow
-Describe the snow
-
-We got a decently warm day of skiing. At the beginning of the day there was some ice and hard spots from freezing overnight. As the day wore on and the sun got higher, the snow softened up. At lower elevations, there was even a hint of slush/spring corn in the snow. By the end of the day,
-cold air and some high winds moved in, rendering all of that soft/wet snow to ice pretty quickly.
+We got a decently warm day of skiing. At the beginning of the day 
+there was some ice and hard spots from freezing overnight. As the 
+day wore on and the sun got higher, the snow softened up. At lower 
+elevations, there was even a hint of slush/spring corn in the snow. 
+By the end of the day, cold air and some high winds moved in, 
+rendering all of that soft/wet snow to ice pretty quickly.
 
 ### The mountain
-Describe the different areas of the mount
+[Link to Bogus Basin Trail Map]
 
-TODO: add link to map.
+Bogus Basin felt like an atypical mountain given how it is set up. 
+It's difficult to understand other than by saying that a 2d map isn't 
+great at portraying the layers/ridgelines. It's aptly named a basin. 
+But there is also a backside area off of the basin that took some 
+looking at the maps to really understand and navigate. If you're 
+looking at a map, I am calling the backside the areas 
+with the Pine Creek Express and Superior Express lifts.
 
-Bogus Basin felt like an atypical mountain given how it is set up. It's difficult to understand other than by saying that a 2d map isn't great at portraying the layers/ridgelines. It's aptly named a basin. But there is also a backside area off of the basin that took some looking at the maps to really understand and navigate. 
 
-This backside area had a lot of fun and fairly steep terrain. The actual basin part of the mountain seemed to collect a lot of people. It's also where the terrain park was at. We didn't spend all that much time in the basin - especially the area above the terrain park. 
+This backside area had a lot of fun and fairly steep terrain. 
+The actual basin part of the mountain seemed to collect a lot 
+of people. It's also where the terrain park was at. We didn't 
+spend all that much time in the basin - especially the area 
+above the terrain park. 
 
 ## The human element
-Describe the vibe
-
-Bogus Basin had a family friendly vibe to it. Especially on a Saturday, you can tell there are a lot of families that make the trip up from Boise. There's also several beer / waffle stands on the mountain that would be appealing to a party crowd. Theres a good variety of terrain to accommodate a good variety of people. 
+Bogus Basin had a family friendly vibe to it. Especially on a 
+Saturday, you can tell there are a lot of families that make 
+the trip up from Boise. There's also several beer/waffle 
+stands on the mountain that would be appealing to a party crowd. 
+Theres a good variety of terrain to accommodate a good variety of people. 
 
 ### The Crowds
-Describe how crowded it was
-
-We definitely waited in lines for most of the day. However, I don't think that any of them could have been longer than 10 minutes. Upon getting off any lifts, I don't remember a lot of crowds on the actual mountain though. Generally speaking, it feels fair to say that you can get away during your runs. People seem to spread out pretty well. I should mention that this observation may be a bit shortsighted. Grace and I were definitely doing more difficult runs which combined with the fact that many people don't venture into these areas anyway and the family atmosphere, this may just be unique to these runs on the mountain. Other easier parts of the mountain may in fact feel busy.
+We definitely waited in lines for most of the day. However, I 
+don't think that any of them could have been longer than 10 minutes. 
+Upon getting off any lifts, I don't remember a lot of crowds on the 
+actual mountain though. Generally speaking, it feels fair to say 
+that you can get away during your runs. People seem to spread out 
+pretty well. I should mention that this observation may be a bit 
+shortsighted. Grace and I were definitely doing more difficult runs 
+which combined with the fact that many people don't venture into 
+these areas anyway and the family atmosphere, this may just be unique 
+to these runs on the mountain. Other easier parts of the mountain may 
+in fact feel busy.
 
 ### The Amenities
-Descrie what this place has that isn't skiing.
+I alluded to them earlier, but there are a good amount of on mountain 
+dining/beverage options at Bogus Basin. The lodges that I went into 
+were modern and well kept too. I believe they had some on mountain 
+music going at a spot with a few food/beverage stands too. We ate at 
+our car, but I think it's fair to say that if you got hungry you could 
+find food pretty quickly. As far as I'm aware, there wasn't any lodge 
+or picnic area at a high point with a big view though. 
 
-I alluded to them earlier, but there are a good amount of on mountain dining/beverage options at Bogus Basin. The lodges that I went into were modern and well kept too. I believe they had some on mountain music going at a spot with a few food/beverage stands too. We ate at our car, but I think it's fair to say that if you got hungry you could find food pretty quickly. As far as I'm aware, there wasn't any lodge or picnic area at a high point with a big view though. 
+[Complete mountain stats]: https://bogusbasin.org/your-mountain/maps-statistics/
+[Link to Bogus Basin Trail Map]: https://media.bogusbasin.org/uploads/2022/11/09115523/Winter-_Trail_Map_Web-02-1-scaled.jpg
