@@ -111,21 +111,25 @@ good amount of snow and seemed to have limited bare spots.
 
 ### The mountain
 I mentioned a lot of the details on how I felt about areas that we skiied above. My
-high level of each peak would be:
-#### **Peak 6** 
+take of each peak that we skiied: 
+#### Peak 6 
 - Way up there and out of the way
 - Really nice open bowl skiing at the top
 - Longish runout to get back to the lift
-#### **Peak 7**
+
+#### Peak 7
 - A lot of nice and long blue runs
 - Some trees to the north end
-- Otherwise not a lot of variation from one blue to the next
-#### **Peak 8**
+- Otherwise not a lot of variation from one blue 
+to the next
+
+#### Peak 8
 - Home of Imperial
 - T-Bar is an experience and difficult for someone who has never done it before
 - Pretty much all above treeline
 - Fun and pretty open trees down to 6 chair (which is a slow lift)
-#### **Peak 9**
+
+#### Peak 9
 - Similar to peak 7, but mixes in some black runs and green runs
 - Trees were not as tight and may allow you to go in and out some
 - A few terrain parks
