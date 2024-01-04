@@ -101,7 +101,10 @@ I think everyone we were with had a lot of fun.
 
 
 ## The skiing
-Describe mountain stats.
+- 2700' of vert
+- 2500 skiable acres 
+- [Copper Mountain stats]
+
 ### The snow
 Describe the snow
 
@@ -119,3 +122,4 @@ Descrie what this place has that isn't skiing.
 
 
 [Copper Mountain maps]:https://www.coppercolorado.com/the-mountain/trail-area-maps/winter-trail-map
+[Copper Mountain stats]:https://www.coppercolorado.com/the-mountain/mountain-stats/winter-mountain-stats
