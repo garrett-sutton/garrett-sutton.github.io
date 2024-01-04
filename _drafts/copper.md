@@ -135,13 +135,34 @@ terrain. If you wanted to ski some real steeps in either of those
 bowls, I think you'd have plenty of skiing. 
 
 ## The human element
-Describe the vibe
- 
+Copper has a bit of a rich bro vibe.
+- rich: Given it's an ikon pass
+resort, you can tell a lot of pass holders fill the
+mountian. It has a lot of amenities (see below) in addition to 
+it's 3 base villages. There are lots of places for you to spend money.
+- bro: They have a super-pipe  
+
 ### The Crowds
-Describe how crowded it was
+Copper was crowded on a Saturday. We got in line early and waited in a 
+short line to get on the Super Bee lift at the start of the day. I think
+the lines would have definitely been bad from the 
+villages for a good portion of the morning. When the bowl lifts opened, 
+there were some good lines there too. This is maybe excacerbated by the fact
+that the lift holds 3 people, is not high speed and they intentionally
+don't use each chair all the time. We encountered a really long
+lift at Timberline near midday that we decided to skip to go all the way down
+to the Center Village.
+
+With the lines everywhere, I think we probably still never waited in a line
+for more than 15 minutes. It just ends up feeling like a lot of waiting
+when it seems like you're waiting in lines more than you're skiing. 
 
 ### The Amenities
-Descrie what this place has that isn't skiing.
+Copper has a lot of non-skiing to offer. There are a few spots on the front
+of the mountain where you could find sustenance. However,
+the base villages are easily the best places to hang out. From the 
+Center Village in particular, you can watch folks come down the 
+superpipe and listen to live music while enjoying food or a beverage. 
 
 
 [Copper Mountain maps]:https://www.coppercolorado.com/the-mountain/trail-area-maps/winter-trail-map
