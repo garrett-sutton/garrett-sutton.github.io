@@ -84,7 +84,24 @@ late September 2023!
 - [Complete Vail mountain stats]
 
 ### The snow
-Describe the snow
+Any of the groomers we hit during our day were well covered
+hard packed snow and no ice at all. I think you can
+generally count on 0 or a very small amount of ice in the 
+West given the amount of snow they get in a year. This is 
+probably especially true in areas of high altitude (like Vail)
+where it's more likely to stay consistently cold.
+
+During the morning in the Back Bowls, the snow was 
+pretty cruddy. The sun seemingly melts some of the top layer
+of snow during the day and it freezes over night. In some
+areas, we even encountered an inch thick ice crust. In other
+areas, the snow varied widely - from frozen bumps to snow that
+hadn't completely frozen over night.
+
+Then the afternoon rolled around. I estimate that it snowed as
+as 6 inches and we got dreamy blower pow for a few hours. 
+There's not much else to it. It was like being a kid on 
+Christmas.
 
 ### The mountain
 Describe the different areas of the mount
