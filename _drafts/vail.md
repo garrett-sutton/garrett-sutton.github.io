@@ -79,7 +79,10 @@ late September 2023!
 ![Baby Reveal]
 
 ## The skiing
-Describe mountain stats.
+- 3400' of vert
+- 5300 skiable acres
+- [Complete Vail mountain stats]
+
 ### The snow
 Describe the snow
 
@@ -97,3 +100,4 @@ Descrie what this place has that isn't skiing.
 
 [Vail maps]:https://www.vail.com/the-mountain/about-the-mountain/trail-map.aspx
 [Baby Reveal]:/assets/images/vailBabyReveal2023.PNG
+[Complete Vail mountain stats]:https://www.vail.com/the-mountain/about-the-mountain/mountain-info.aspx
