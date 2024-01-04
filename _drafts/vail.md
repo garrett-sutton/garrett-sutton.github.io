@@ -95,8 +95,8 @@ During the morning in the Back Bowls, the snow was
 pretty cruddy. The sun seemingly melts some of the top layer
 of snow during the day and it freezes over night. In some
 areas, we even encountered an inch thick ice crust. In other
-areas, the snow varied widely - from frozen bumps to snow that
-hadn't completely frozen over night.
+areas, the snow varied widely - from frozen bumps to heavier 
+snow that hadn't completely frozen over night.
 
 Then the afternoon rolled around. I estimate that it snowed as
 as 6 inches and we got dreamy blower pow for a few hours. 
