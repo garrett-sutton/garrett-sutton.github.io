@@ -6,9 +6,6 @@ categories: [ skiing ]
 ---
 
 ## The TLDR
-Describe when we were there and the super high
-level (i.e. where it is, etc)
-
 We went to Copper Mountain on a Saturday in March 2023
 as part of a big family/friend ski trip. This was day
 3 of our trip. Though a lot of fun (because by default,
@@ -16,24 +13,22 @@ skiing just is), I feel like some of our tactics
 around the day leave me with more to be desired.
 
 ### The would I go back?
-Describe if I'd want to go back and why?
-
 I would most definitely like to go back to Copper under
-2 stipuations.
+2 stipulations.
 1. We have a smaller group for the day. We were probably
 running a group of about 10 people with a wide
 variety of abilities.  Couple that with the fact that
-only 2 people in our group really knew their way around,
+only 2 people in our group knew their way around,
 we spent a lot of time making sure we could keep people
 together.
 1. We don't go on a Saturday. I'll get into it more later on
 but Copper is probably always going to be busy on a 
 weekend.
 
-On a positive note, Copper definitely has a lot of 
-difficult, varying, and fun terrain. With it's elevation being
+On a positive note, Copper has a lot of 
+difficult, varying, and fun terrain. With its elevation being
 so high, the snow is probably pretty consistently reliable.
-It is likely big enough to accomodate multiple days of 
+It is likely big enough to accommodate multiple days of 
 skiing too. 
 
 ## The day
@@ -48,7 +43,7 @@ bus over to the East Village base area.
 It took a little bit of time for the back bowl areas to 
 get cleared of avalanches, so we did a few laps on the 
 Excelerator list before getting on the Storm King t-bar.
-It was cool to actually see the explosions going off in
+It was cool to see the explosions going off in
 Spaulding Bowl as ski patrol did their avalanche clearance
 work. 
 
@@ -61,28 +56,28 @@ times that they keep several chairs empty because of
 wind/weight reasons (I assume). We probably didn't take
 full advantage of this area when we got to the top. Each
 time we went off the lift to skiers right and did this 
-long flatish traverse into a hellish wind. Coupled with
+long flattish traverse into a hellish wind. Coupled with
 some snowboarders, this routinely took a while. The actual
-run off of this was a lot of untouched snow and fun though.
+run out of this was a lot of untouched snow and fun though.
 
 We eventually didn't go down to Three Bears and cut off at 
-Mountain Chief - another decently long lift line, slow lift
+Mountain Chief - another decently long lift line, slow lift,
 and only a 2 person chair. There was some pretty steep and
 rocky terrain off of the top of this. Given it being
-almost lunch time, I think we did a few (maybe only 1) run
+almost lunchtime, I think we did a few (maybe only 1) run
 off of this lift. This is the lift where I broke the news
 to Will that Grace and I were expecting a baby!
 
-We evetually made a really long run down to the Center Village
+We eventually made a lengthy run down to the Center Village
 from the top by way of going under the Timberline Express
-lift. From Center Village, I belive we hit up the 
+lift. From Center Village, I believe we hit up the 
 American Flyer and American Eagle
 lifts before getting to the top of Super Bee (East Village). 
-There were a few really fun groomers with trees intermingled 
+There were a few fun groomers with trees intermingled 
 during this sequence. 
 
 At the top of Super Bee, our group got mixed up. Two of us
-ended at the bottom of Resolution chair - a long straight-as-an-arrow 
+ended at the bottom of the Resolution chair - a long straight-as-an-arrow 
 grueling set of moguls. Everyone else ended up at the bottom
 of Alpine. The group eventually ended up at the bottom of 
 Alpine was in way over their skis. With no service in the 
@@ -116,11 +111,11 @@ were still a lot of fun. Coverage on the whole was
 very good - in groomed areas and not. 
 
 ### The mountain
-Copper is a mix of a lot of terrain. 
+Copper is a mix of a lot of terrains. 
 
 The front side of the mountain has several 
 long and fast lifts that give access to long runs
-that mix between green, blue and black. This has just 
+that mix between green, blue, and black. This has just 
 about everything you could want. It's also got some 
 nice skiable trees too. The far East side of the mountain 
 (Alpine and Resolution lifts) has some tough, steep, and
@@ -129,28 +124,28 @@ We barely touched the far West side - namely the areas
 around the Sierra and Timberline lifts.  
 
 I don't think we made it into the Spaulding Bowl, but I imagine
-it being a similar/tougher version of the far back Copper Bowl. 
+it being a similar/tougher version of the far-back Copper Bowl. 
 The Copper Bowl had some easily accessible outs from the truly gnarly
 terrain. If you wanted to ski some real steeps in either of those 
 bowls, I think you'd have plenty of skiing. 
 
 ## The human element
 Copper has a bit of a rich bro vibe.
-- rich: Given it's an ikon pass
+- Rich: Given it's an ikon pass
 resort, you can tell a lot of pass holders fill the
-mountian. It has a lot of amenities (see below) in addition to 
-it's 3 base villages. There are lots of places for you to spend money.
-- bro: They have a super-pipe  
+mountain. It has a lot of amenities (see below) in addition to 
+its 3 base villages. There are lots of places for you to spend money.
+- Bro: They have a super-pipe  
 
 ### The Crowds
 Copper was crowded on a Saturday. We got in line early and waited in a 
 short line to get on the Super Bee lift at the start of the day. I think
-the lines would have definitely been bad from the 
+the lines would have certainly been bad from the 
 villages for a good portion of the morning. When the bowl lifts opened, 
-there were some good lines there too. This is maybe excacerbated by the fact
+there were some good lines there too. This may be exacerbated by the fact
 that the lift holds 3 people, is not high speed and they intentionally
-don't use each chair all the time. We encountered a really long
-lift at Timberline near midday that we decided to skip to go all the way down
+don't use each chair all the time. We encountered a long
+lift line at Timberline near midday that we decided to skip to go all the way down
 to the Center Village.
 
 With the lines everywhere, I think we probably still never waited in a line
