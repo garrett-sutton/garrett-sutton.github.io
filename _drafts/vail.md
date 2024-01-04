@@ -21,10 +21,62 @@ and hoity-toity nature.
 
 I'll commentate through more below, but this notion of 
 wanting to go back is heavily influenced by the 
-dream of a storm we encountered while skiing Vail.  
+dream of a storm we encountered while skiing Vail. We also
+barely touched most of the mountain in the day we were here.
 
 ## The day
-Describe how this day went.
+__It may be best to read about the day with the [Vail maps]__
+__open to to give context on the landmarks and lifts that__
+__are referenced.__
+
+We started our day from a parking garage in Vail Village
+and quickly made it to the top of the mountain. As soon
+as the Legendary Back Bowls were open, we started navigating
+through the - Sun Up Bowl, Sun Down Bowl.
+
+In the Sun Down Bowl in particular, runs were quite long,
+bumpy and covered in cruddy snow. Some of the snow even had
+an inch thick layer of ice on top of it. It was pretty sunny
+during this time of the day. 
+
+We stayed in the Back Bowls until eating lunch at Buffalos. 
+After lunch, we headed back to the Blue Sky Basin. To get there,
+Grace and I took a run through Sun up Bowl, up Sun up Express and
+down generally under the Tea Cup Express to arrive at Skyline Express.
+Others in our group took a long wavering route over with no lift but 
+I believe with some pushing to get to the same spot. I only call this
+out because those others called out it was not a fun way. Grace and
+I enjoyed just making 2 runs of it. The snow was great along our 
+path. 
+
+This is when the real fun started. Seemingly on queue, it started 
+nuking. We got a few laps in on Earl's Express Lift and then
+a few longer runs on the Skyline Express Lift. Both had a beautiful
+mix of open space and glade skiing that was simply immaculate
+as this storm dumped it on us. I let out several child-like
+yips as we ventured through the trees on each run. And to add to it,
+there was literally no one anywhere during this time. This is 
+what you dream of.
+
+Of note, we really only skiied to skiers left of the Skyline Express 
+Lift in the Blue Sky Basin to avoid the potential of pushing from
+the bottom of Pete's Express Lift back to the Skyline Express/TeaCup 
+Express lift areas. Given it's so remote, Blue Sky Basin has to close early, so we 
+headed back over into the Back Bowls. In Tea Cup Bowl, got knee deep
+runs as the storm kept hammering. 
+
+Eventually the Back Bowls closed 
+and we did a couple runs on the Northwoods Express lift. This just
+so happens to be where all of the people were at. On return to the top,
+we took a run to the base of Wildwood Express to position ourselves
+at the top of Wildwood. Fro there, we
+navigated blowing snow and steep/hard groomers for 2700 vertical feet
+all the way back down to Vail Village. 
+
+TOOD: ADD PICTURE
+And the fun didn't stop there. Just before we all got packed up 
+for the day, Grace and I announced Baby Sutton was to arrive in
+late September 2023!
 
 ## The skiing
 Describe mountain stats.
@@ -42,3 +94,5 @@ Describe how crowded it was
 
 ### The Amenities
 Descrie what this place has that isn't skiing.
+
+[Vail maps]:https://www.vail.com/the-mountain/about-the-mountain/trail-map.aspx
