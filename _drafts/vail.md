@@ -73,10 +73,10 @@ at the top of Wildwood. Fro there, we
 navigated blowing snow and steep/hard groomers for 2700 vertical feet
 all the way back down to Vail Village. 
 
-TOOD: ADD PICTURE
 And the fun didn't stop there. Just before we all got packed up 
 for the day, Grace and I announced Baby Sutton was to arrive in
 late September 2023!
+![Baby Reveal]
 
 ## The skiing
 Describe mountain stats.
@@ -96,3 +96,4 @@ Describe how crowded it was
 Descrie what this place has that isn't skiing.
 
 [Vail maps]:https://www.vail.com/the-mountain/about-the-mountain/trail-map.aspx
+[Baby Reveal]:/assets/images/vailBabyReveal2023.PNG
