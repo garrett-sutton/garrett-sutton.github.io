@@ -12,8 +12,8 @@ level (i.e. where it is, etc)
 We went to Copper Mountain on a Saturday in March 2023
 as part of a big family/friend ski trip. This was day
 3 of our trip. Though a lot of fun (because by default,
-skiing just is), Copper was probably my least favorite
-day of our trip.
+skiing just is), I feel like some of our tactics
+around the day leave me with more to be desired.
 
 ### The would I go back?
 Describe if I'd want to go back and why?
@@ -106,10 +106,33 @@ I think everyone we were with had a lot of fun.
 - [Copper Mountain stats]
 
 ### The snow
-Describe the snow
+We got lucky that a small storm rolled through the day
+before we went to Copper. This led to a fair amount of fresh
+snow that was untouched in some areas. Given the high altitude
+and cold temps, the snow here seemed to be pretty light 
+and fluffy. The freshies that we 
+found weren't necessarily on the steepest terrain, but they
+were still a lot of fun. Coverage on the whole was 
+very good - in groomed areas and not. 
 
 ### The mountain
-Describe the different areas of the mount
+Copper is a mix of a lot of terrain. 
+
+The front side of the mountain has several 
+long and fast lifts that give access to long runs
+that mix between green, blue and black. This has just 
+about everything you could want. It's also got some 
+nice skiable trees too. The far East side of the mountain 
+(Alpine and Resolution lifts) has some tough, steep, and
+mogul runs. 
+We barely touched the far West side - namely the areas 
+around the Sierra and Timberline lifts.  
+
+I don't think we made it into the Spaulding Bowl, but I imagine
+it being a similar/tougher version of the far back Copper Bowl. 
+The Copper Bowl had some easily accessible outs from the truly gnarly
+terrain. If you wanted to ski some real steeps in either of those 
+bowls, I think you'd have plenty of skiing. 
 
 ## The human element
 Describe the vibe
