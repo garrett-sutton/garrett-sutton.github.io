@@ -43,7 +43,9 @@ There's no on-site lodging, so people are showing up
 with their eyes set on skiing. 
 
 ### The Crowds
-Describe how crowded it was
+We went to Loveland on a very windy Sunday. A lot of lifts were put on wind holds and eventually closed for the day. I imagine this isn't an all too uncommon occurrence since Loveland is situated on the Continental Divide. All of this is to say that by the end of the day, there were no crowds at all. We consistently skied down and right onto the lift. Even in the morning when some lifts were put on hold, it didn't seem like that many people ended up all congregated in a certain area. 
+
+I think the forecasted high winds and the fact that said winds ended up coming to fruition certainly played a role in the limited amount of people we encountered. Additionally, Loveland not being classified as a destination resort like some of its neighbors - Breck, Keystone, Copper, etc - has to be considered as a consistent crowd limiter.
 
 ### The Amenities
 Descrie what this place has that isn't skiing.
