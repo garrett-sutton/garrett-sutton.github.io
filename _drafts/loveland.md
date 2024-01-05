@@ -37,8 +37,11 @@ Describe the snow
 Describe the different areas of the mount
 
 ## The human element
-Describe the vibe
- 
+Loveland gives off a ragtag family vibe. It has terrain for everyone, with an affordable lift ticket and food. The latter two are almost unheard of 
+at a ski resort circa 2023. 
+There's no on-site lodging, so people are showing up 
+with their eyes set on skiing. 
+
 ### The Crowds
 Describe how crowded it was
 
