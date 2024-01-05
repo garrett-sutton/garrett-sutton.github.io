@@ -6,8 +6,14 @@ categories: [ skiing ]
 ---
 
 ## The TLDR
-Describe when we were there and the super high
-level (i.e. where it is, etc)
+We went to Loveland on the last day of our
+4 day family/friend trip to Colorado in March 2023. 
+I had previously been to Loveland in
+March 2021 and left feeling like there was more
+to be desired. A former local even described it
+to me as a "niche" resort prior to our trip. This day, however, completely flipped the 
+script for me. Loveland was a close second to my favorite day of the trip (behind an absolutely
+dreamy day at Vail).  
 
 ### The would I go back?
 Describe if I'd want to go back and why?
