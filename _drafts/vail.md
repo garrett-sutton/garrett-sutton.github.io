@@ -104,7 +104,69 @@ There's not much else to it. It was like being a kid on
 Christmas.
 
 ### The mountain
-Describe the different areas of the mount
+Vail has 3 distinct parts of the mountain. See [Vail maps] for
+trail maps and a deeper look into what I talk through below.
+
+#### Front Side
+This part of the mountain has ton of groomed trails of easy,
+intermediate and even some expert terrain. You could most
+definitely spend an entire day in this area and not do the same
+run twice. 
+
+This is also how you get on the mountain. We started at
+Vail Village, but there is also a separte Lionshead Village
+with another gondola that gets up really high on the mountain
+as well. The gondola from Lionshead village is also the fastest 
+way to get to the Game Creek Bowl. Prior to this post, I didn't
+even know this was a part of the mountain. 
+
+I would bet that lines could get pretty long on the Front Side 
+largely because the terrain can accomodate literally everyone.
+The runs on the front can be very long too. From Vail Village,
+you could take Gondola One and then Mountain Top or Wildwood
+to up to ~11,000' and take a single run (with many trail 
+combinations) back down to Vail Village at 8200'. From Lionshead,
+you could take Eagle Bahn Gondola up to 10,350' and go all the
+way back down to 8210'. Both of these examples are to emphasize
+the fact that you can go top-to-bottom on the Front Side and 
+hit a near limitless number of trails in doing so. 
+
+#### Back Bowls
+The Legendary Back Bowls. There are seven bowls that make up the
+Back Bowls. Though you may think bowl skiing is bowl skiing, 
+each of the bowls has its
+own unique flavor - from the level of terrain, to the type
+of terrain, to the snow that fills it. Some of the bowls had
+an easy blue way down. Others have sustained steep pitches. 
+Some areas are groomed. Others have bumps. And still others have
+some trees to navigate through. And finally, the snow in each bowl
+depends on how the sun hits it throughout the day. 
+
+I would argue the back bowls are
+one of the coolest areas in any ski resort. There is endless 
+potential for fun and you could most definitely spend an entire day
+in this area and not cover it all.
+
+#### Blue Sky Basin
+The Blue Sky Basin takes forever to get to. It is at least
+3 lift rides from the Vail Village (and I'd argue the
+better way to do it is with 4 lifts). But it is so worth it. This
+remoteness might even help to limit the lines in this area. There's
+only one place for food/drink and you have to work through difficult
+terrain to actually get there. I think the trek to get
+there, lack of amenities, and difficult terrain keep a decent amount
+of people away. 
+
+__Take all of this crowd talk with a grain of salt.__
+__We happened to get there after lunch on a Friday and there were very__
+__few people around. That's purely anecdotal evidence that this area__
+__isn't as busy as others on the mountain.__
+
+Like the other parts of Vail, this could be a resort all on it's 
+own. It's largely expert level terrain with a few easy-way-out 
+blue runs that can act as a run-out to lifts. The highlights
+of this area include some gnarly entrances to steep terrain, awesome
+tree skiing, and playful open spaces.
 
 ## The human element
 Describe the vibe
