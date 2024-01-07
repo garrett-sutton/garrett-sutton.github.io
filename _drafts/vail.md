@@ -9,39 +9,39 @@ categories: [ skiing ]
 We went to Vail as part of a big family/friend
 trip in March 2023. The day at Vail was day 
 2 of 4 for our trip. This day will go down
-as one of the my favorite and most memorable 
+as one of my favorite and most memorable 
 days of skiing ever. 
 
 ### The would I go back?
 Without hesitation, yes. From very early in the 
-day, I was saying "this place lives up to the hype."
+day, I was saying "This place lives up to the hype."
 It's also worth noting that I was initially 
 hesitant to go to Vail because of the cost, crowds,
 and hoity-toity nature. 
 
-I'll commentate through more below, but this notion of 
+I'll commentate more below, but this notion of 
 wanting to go back is heavily influenced by the 
 dream of a storm we encountered while skiing Vail. We also
-barely touched most of the mountain in the day we were here.
+barely touched most of the mountain on the day we were there.
 
 ## The day
 _It may be best to read about the day with the [Vail maps]_
-_open to to give context on the landmarks and lifts that_
+_open to give context on the landmarks and lifts that_
 _are referenced._
 
-We started our day from a parking garage in Vail Village
+We started our day at a parking garage in Vail Village
 and quickly made it to the top of the mountain. As soon
 as the Legendary Back Bowls were open, we started navigating
-through the - Sun Up Bowl, Sun Down Bowl.
+through the Sun Up Bowl, and Sun Down Bowl.
 
-In the Sun Down Bowl in particular, runs were quite long,
-bumpy and covered in cruddy snow. Some of the snow even had
-an inch thick layer of ice on top of it. It was pretty sunny
+In the Sun Down Bowl particular, runs were quite long,
+bumpy, and covered in cruddy snow. Some of the snow even had
+an inch-thick layer of ice on top of it. It was pretty sunny
 during this time of the day. 
 
 We stayed in the Back Bowls until eating lunch at Buffalos. 
 After lunch, we headed back to the Blue Sky Basin. To get there,
-Grace and I took a run through Sun up Bowl, up Sun up Express and
+Grace and I took a run through Sun Up Bowl, up Sun Up Express, and
 down generally under the Tea Cup Express to arrive at Skyline Express.
 Others in our group took a long wavering route over with no lift but 
 I believe with some pushing to get to the same spot. I only call this
@@ -55,23 +55,23 @@ a few longer runs on the Skyline Express Lift. Both had a beautiful
 mix of open space and glade skiing that was simply immaculate
 as this storm dumped it on us. I let out several child-like
 yips as we ventured through the trees on each run. And to add to it,
-there was literally no one anywhere during this time. This is 
+there was no one anywhere during this time. This is 
 what you dream of.
 
-Of note, we really only skiied to skiers left of the Skyline Express 
+Of note, we only skied to skiers left of the Skyline Express 
 Lift in the Blue Sky Basin to avoid the potential of pushing from
 the bottom of Pete's Express Lift back to the Skyline Express/TeaCup 
 Express lift areas. Given it's so remote, Blue Sky Basin has to close early, so we 
-headed back over into the Back Bowls. In Tea Cup Bowl, got knee deep
+headed back over into the Back Bowls. In Tea Cup Bowl, got knee-deep
 runs as the storm kept hammering. 
 
-Eventually the Back Bowls closed 
+Eventually, the Back Bowls closed 
 and we did a couple runs on the Northwoods Express lift. This just
-so happens to be where all of the people were at. On return to the top,
+so happens to be where all of the people were. On return to the top,
 we took a run to the base of Wildwood Express to position ourselves
-at the top of Wildwood. Fro there, we
+at the top of Wildwood. From there, we
 navigated blowing snow and steep/hard groomers for 2700 vertical feet
-all the way back down to Vail Village. 
+back down to Vail Village. 
 
 And the fun didn't stop there. Just before we all got packed up 
 for the day, Grace and I announced Baby Sutton was to arrive in
@@ -84,19 +84,18 @@ late September 2023!
 - [Complete Vail mountain stats]
 
 ### The snow
-Any of the groomers we hit during our day were well covered
-hard packed snow and no ice at all. I think you can
+Any of the groomers we hit during our day were well-covered
+hard-packed snow and no ice at all. I think you can
 generally count on 0 or a very small amount of ice in the 
 West given the amount of snow they get in a year. This is 
 probably especially true in areas of high altitude (like Vail)
 where it's more likely to stay consistently cold.
 
 During the morning in the Back Bowls, the snow was 
-pretty cruddy. The sun seemingly melts some of the top layer
-of snow during the day and it freezes over night. In some
-areas, we even encountered an inch thick ice crust. In other
+pretty cruddy. The sun seemingly melts some of the surface snow during the day and it freezes overnight. In some
+areas, we even encountered an inch-thick ice crust. In other
 areas, the snow varied widely - from frozen bumps to heavier 
-snow that hadn't completely frozen over night.
+snow that hadn't completely frozen overnight.
 
 Then the afternoon rolled around. I estimate that it snowed as
 as 6 inches and we got dreamy blower pow for a few hours. 
@@ -108,35 +107,34 @@ Vail has 3 distinct parts of the mountain. See [Vail maps] for
 trail maps and a deeper look into what I talk through below.
 
 #### Front Side
-This part of the mountain has ton of groomed trails of easy,
-intermediate and even some expert terrain. You could most
+This part of the mountain has a ton of groomed trails of easy,
+intermediate and even some expert terrain. You could
 definitely spend an entire day in this area and not do the same
 run twice. 
 
 This is also how you get on the mountain. We started at
-Vail Village, but there is also a separte Lionshead Village
-with another gondola that gets up really high on the mountain
-as well. The gondola from Lionshead village is also the fastest 
-way to get to the Game Creek Bowl. Prior to this post, I didn't
+Vail Village, but there is also a separate Lionshead Village
+with another gondola that gets up high on the mountain
+as well. The gondola from Lionshead Village is also the fastest 
+way to get to the Game Creek Bowl. Before this post, I didn't
 even know this was a part of the mountain. 
 
 I would bet that lines could get pretty long on the Front Side 
-largely because the terrain can accomodate literally everyone.
+largely because the terrain can accommodate literally everyone.
 The runs on the front can be very long too. From Vail Village,
 you could take Gondola One and then Mountain Top or Wildwood
 to up to ~11,000' and take a single run (with many trail 
 combinations) back down to Vail Village at 8200'. From Lionshead,
-you could take Eagle Bahn Gondola up to 10,350' and go all the
-way back down to 8210'. Both of these examples are to emphasize
+you could take Eagle Bahn Gondola up to 10,350' and go back down to 8210'. Both of these examples emphasize
 the fact that you can go top-to-bottom on the Front Side and 
-hit a near limitless number of trails in doing so. 
+hit a near-limitless number of trails in doing so. 
 
 #### Back Bowls
-The Legendary Back Bowls. There are seven bowls that make up the
+The Legendary Back Bowls. Seven bowls make up the
 Back Bowls. Though you may think bowl skiing is bowl skiing, 
 each of the bowls has its
-own unique flavor - from the level of terrain, to the type
-of terrain, to the snow that fills it. Some of the bowls had
+unique flavor - from the level of terrain to the type
+of terrain to the snow that fills it. Some of the bowls had
 an easy blue way down. Others have sustained steep pitches. 
 Some areas are groomed. Others have bumps. And still others have
 some trees to navigate through. And finally, the snow in each bowl
@@ -162,8 +160,8 @@ _We happened to get there after lunch on a Friday and there were very_
 _few people around. That's purely anecdotal evidence that this area_
 _isn't as busy as others on the mountain._
 
-Like the other parts of Vail, this could be a resort all on it's 
-own. It's largely expert level terrain with a few easy-way-out 
+Like the other parts of Vail, this could be a resort all on its 
+own. It's largely expert-level terrain with a few easy-way-out 
 blue runs that can act as a run-out to lifts. The highlights
 of this area include some gnarly entrances to steep terrain, awesome
 tree skiing, and playful open spaces.
@@ -173,16 +171,16 @@ Vail is a really special place. It certainly gives off a hoity-toity
 vibe - especially in the base areas. And that seems fitting based on
 what you can read about Vail.
 The part of Vail that I feel like I never knew is that it
-is phenomenal for advanced skiiers. There is simply so much good skiing
+is phenomenal for advanced skiers. There is simply so much good skiing
 that it's easy to ignore Vail's affluent ambiance.
  
 ### The Crowds
-In 2023, Vail is known for it's extraordinarily long lift lines. Rumour
+In 2023, Vail is known for its extraordinarily long lift lines. Rumour
 has it that some have been up to 2 hours long. On our Friday visit,
-I never saw such a line (longest line was maybe 5 minutes),
+I never saw such a line (the longest line was maybe 5 minutes),
 but we largely avoided the Front Side of 
 the mountain (where I expect such lines could exist). Generally speaking,
-it didn't even feel all that busy while we were there. If I was to guess,
+it didn't even feel all that busy while we were there. If I were to guess,
 Vail's sheer mass naturally disperses even a lot of people pretty quickly. 
 
 This might be an entirely different story on a weekend, but even so,
@@ -194,16 +192,16 @@ Vail has all that you could want in a ski resort and more. There
 are a variety of dining and beverage options at various parts of
 the mountain (base areas, part way up, top). It's worth noting that
 you should probably plan at least a little bit around food in your day
-if you wish to maximize your time skiiing.Vail is big enough that 
+if you wish to maximize your time skiing. Vail is big enough that 
 even though there are a lot of food options, it
-could take a while to actually get to food.
+could take a while to get to food. 
 
 In addition to food/beverage, the Vail base areas have whatever
 you might want. 
 - `Lodging -> check.`  
-- `World-class 5 star meal -> check`
+- `World-class 5-star meal -> check`
 - `Spa -> check.`
-- `Shooping -> check.`
+- `Shopping -> check.`
 - `Ice skating -> check.`
 - `Live music -> check.`
 - `European style architecture -> check.`
