@@ -169,10 +169,25 @@ of this area include some gnarly entrances to steep terrain, awesome
 tree skiing, and playful open spaces.
 
 ## The human element
-Describe the vibe
+Vail is a really special place. It certainly gives off a hoity-toity
+vibe - especially in the base areas. And that seems fitting based on
+what you can read about Vail.
+The part of Vail that I feel like I never knew is that it
+is phenomenal for advanced skiiers. There is simply so much good skiing
+that it's easy to ignore Vail's affluent ambiance.
  
 ### The Crowds
-Describe how crowded it was
+In 2023, Vail is known for it's extraordinarily long lift lines. Rumour
+has it that some have been up to 2 hours long. On our Friday visit,
+I never saw such a line (longest line was maybe 5 minutes),
+but we largely avoided the Front Side of 
+the mountain (where I expect such lines could exist). Generally speaking,
+it didn't even feel all that busy while we were there. If I was to guess,
+Vail's sheer mass naturally disperses even a lot of people pretty quickly. 
+
+This might be an entirely different story on a weekend, but even so,
+it feels like you could make an effort to avoid people for the day,
+be successful and have a lot of fun doing so. 
 
 ### The Amenities
 Descrie what this place has that isn't skiing.
