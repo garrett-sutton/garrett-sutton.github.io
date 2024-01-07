@@ -25,9 +25,9 @@ dream of a storm we encountered while skiing Vail. We also
 barely touched most of the mountain in the day we were here.
 
 ## The day
-__It may be best to read about the day with the [Vail maps]__
-__open to to give context on the landmarks and lifts that__
-__are referenced.__
+_It may be best to read about the day with the [Vail maps]_
+_open to to give context on the landmarks and lifts that_
+_are referenced._
 
 We started our day from a parking garage in Vail Village
 and quickly made it to the top of the mountain. As soon
@@ -157,10 +157,10 @@ terrain to actually get there. I think the trek to get
 there, lack of amenities, and difficult terrain keep a decent amount
 of people away. 
 
-__Take all of this crowd talk with a grain of salt.__
-__We happened to get there after lunch on a Friday and there were very__
-__few people around. That's purely anecdotal evidence that this area__
-__isn't as busy as others on the mountain.__
+_Take all of this crowd talk with a grain of salt._
+_We happened to get there after lunch on a Friday and there were very_
+_few people around. That's purely anecdotal evidence that this area_
+_isn't as busy as others on the mountain._
 
 Like the other parts of Vail, this could be a resort all on it's 
 own. It's largely expert level terrain with a few easy-way-out 
@@ -190,7 +190,23 @@ it feels like you could make an effort to avoid people for the day,
 be successful and have a lot of fun doing so. 
 
 ### The Amenities
-Descrie what this place has that isn't skiing.
+Vail has all that you could want in a ski resort and more. There
+are a variety of dining and beverage options at various parts of
+the mountain (base areas, part way up, top). It's worth noting that
+you should probably plan at least a little bit around food in your day
+if you wish to maximize your time skiiing.Vail is big enough that 
+even though there are a lot of food options, it
+could take a while to actually get to food.
+
+In addition to food/beverage, the Vail base areas have whatever
+you might want. 
+- `Lodging -> check.`  
+- `World-class 5 star meal -> check`
+- `Spa -> check.`
+- `Shooping -> check.`
+- `Ice skating -> check.`
+- `Live music -> check.`
+- `European style architecture -> check.`
 
 [Vail maps]:https://www.vail.com/the-mountain/about-the-mountain/trail-map.aspx
 [Baby Reveal]:/assets/images/vailBabyReveal2023.PNG
