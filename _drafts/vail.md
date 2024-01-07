@@ -43,11 +43,11 @@ We stayed in the Back Bowls until eating lunch at Buffalos.
 After lunch, we headed back to the Blue Sky Basin. To get there,
 Grace and I took a run through Sun Up Bowl, up Sun Up Express, and
 down generally under the Tea Cup Express to arrive at Skyline Express.
-Others in our group took a long wavering route over with no lift but 
-I believe with some pushing to get to the same spot. I only call this
-out because those others called out it was not a fun way. Grace and
-I enjoyed just making 2 runs of it. The snow was great along our 
-path. 
+Others in our group took a long wavering route with no lift that
+required some pushing to get to the same spot. I only call this
+out because in hindsight, those others said avoiding the lift wasn't 
+worth it. Grace and I enjoyed just making 2 runs of it. 
+The snow was great along our path. 
 
 This is when the real fun started. Seemingly on queue, it started 
 nuking. We got a few laps in on Earl's Express Lift and then
@@ -62,7 +62,7 @@ Of note, we only skied to skiers left of the Skyline Express
 Lift in the Blue Sky Basin to avoid the potential of pushing from
 the bottom of Pete's Express Lift back to the Skyline Express/TeaCup 
 Express lift areas. Given it's so remote, Blue Sky Basin has to close early, so we 
-headed back over into the Back Bowls. In Tea Cup Bowl, got knee-deep
+headed back over into the Back Bowls. In Tea Cup Bowl, we got knee-deep
 runs as the storm kept hammering. 
 
 Eventually, the Back Bowls closed 
@@ -71,7 +71,7 @@ so happens to be where all of the people were. On return to the top,
 we took a run to the base of Wildwood Express to position ourselves
 at the top of Wildwood. From there, we
 navigated blowing snow and steep/hard groomers for 2700 vertical feet
-back down to Vail Village. 
+back down to Vail Village to finish the day. 
 
 And the fun didn't stop there. Just before we all got packed up 
 for the day, Grace and I announced Baby Sutton was to arrive in
@@ -85,20 +85,21 @@ late September 2023!
 
 ### The snow
 Any of the groomers we hit during our day were well-covered
-hard-packed snow and no ice at all. I think you can
+hard-packed snow with no ice at all. I think you can
 generally count on 0 or a very small amount of ice in the 
 West given the amount of snow they get in a year. This is 
 probably especially true in areas of high altitude (like Vail)
 where it's more likely to stay consistently cold.
 
 During the morning in the Back Bowls, the snow was 
-pretty cruddy. The sun seemingly melts some of the surface snow during the day and it freezes overnight. In some
+pretty cruddy. The sun seemingly melts some of the 
+surface snow during the day and it freezes overnight. In some
 areas, we even encountered an inch-thick ice crust. In other
 areas, the snow varied widely - from frozen bumps to heavier 
 snow that hadn't completely frozen overnight.
 
 Then the afternoon rolled around. I estimate that it snowed as
-as 6 inches and we got dreamy blower pow for a few hours. 
+much as 6 inches. We got dreamy blower pow for a few hours. 
 There's not much else to it. It was like being a kid on 
 Christmas.
 
@@ -108,7 +109,7 @@ trail maps and a deeper look into what I talk through below.
 
 #### Front Side
 This part of the mountain has a ton of groomed trails of easy,
-intermediate and even some expert terrain. You could
+intermediate and expert terrain. You could
 definitely spend an entire day in this area and not do the same
 run twice. 
 
@@ -125,7 +126,8 @@ The runs on the front can be very long too. From Vail Village,
 you could take Gondola One and then Mountain Top or Wildwood
 to up to ~11,000' and take a single run (with many trail 
 combinations) back down to Vail Village at 8200'. From Lionshead,
-you could take Eagle Bahn Gondola up to 10,350' and go back down to 8210'. Both of these examples emphasize
+you could take Eagle Bahn Gondola up to 10,350' and go back 
+down to 8210'. Both of these examples emphasize
 the fact that you can go top-to-bottom on the Front Side and 
 hit a near-limitless number of trails in doing so. 
 
@@ -170,8 +172,8 @@ tree skiing, and playful open spaces.
 Vail is a really special place. It certainly gives off a hoity-toity
 vibe - especially in the base areas. And that seems fitting based on
 what you can read about Vail.
-The part of Vail that I feel like I never knew is that it
-is phenomenal for advanced skiers. There is simply so much good skiing
+The underrated part of Vail is the phenomenal terrain 
+for advanced skiers. There is simply so much good skiing
 that it's easy to ignore Vail's affluent ambiance.
  
 ### The Crowds
@@ -196,7 +198,7 @@ if you wish to maximize your time skiing. Vail is big enough that
 even though there are a lot of food options, it
 could take a while to get to food. 
 
-In addition to food/beverage, the Vail base areas have whatever
+In addition to food/beverage, the villages at Vail have whatever
 you might want. 
 - `Lodging -> check.`  
 - `World-class 5-star meal -> check`
