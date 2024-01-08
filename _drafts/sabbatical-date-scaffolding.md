@@ -28,8 +28,8 @@ On Friday, July 26 we will want to make our way to Paris.
 
 ## Paris
 We want to see a few Olympic events while in Paris and maybe some other sites too. As of 12/2023, we have tickets to events on:
-- Saturday July 27 (Rowing)
-- Sunday July 28 (Beach Volleyball)
+- Saturday July 27 @ 9 AM (Rowing)
+- Sunday July 28 @ 3 PM (Beach Volleyball)
 
 Given the event dates, I expect we'll need to have lodging in Paris for (at least):
 - Friday July 26
