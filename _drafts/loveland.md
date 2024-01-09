@@ -48,4 +48,10 @@ We went to Loveland on a very windy Sunday. A lot of lifts were put on wind hold
 I think the forecasted high winds and the fact that said winds ended up coming to fruition certainly played a role in the limited amount of people we encountered. Additionally, Loveland not being classified as a destination resort like some of its neighbors - Breck, Keystone, Copper, etc - has to be considered as a consistent crowd limiter.
 
 ### The Amenities
-Descrie what this place has that isn't skiing.
+Loveland doesn't have much for amenities compared to other ski resorts. At the base area there is a ticket office, bar, cafeteria, and locker room.
+It's reminds me of the place I grew up skiing - Blue Knob - 
+in Central Pa.  The food was good and 
+on par for the course, pretty cheap too. 
+We got to listen to some live music in the bar area too. 
+
+There's not a whole lot else here, but I think if you're going to Loveland, that's part of the reason why. People come here to ski a really fun mountain at an affordable price.
