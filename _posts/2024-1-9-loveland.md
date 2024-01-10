@@ -33,6 +33,9 @@ seen in all of skiing but lacks the fancy amenities of
 other big resorts. You can tell skiing is the priority there! 
 
 ## The day
+If you'd like a visual of our path
+for the day, I'd encourage reading along with the [Loveland map].
+
 Even on a very windy - and consequently cold - day when 
 the high elevation lifts were put on perpetual hold, we had a blast.
 It was Sunday, so we went to church in Silverthorne before
@@ -191,4 +194,5 @@ the ticket window in the morning. This takes you out
 across the continental divide where you can drop in and 
 let the fall line navigate you back to a lift.
 
+[Loveland map]:https://skiloveland.com/wp-content/uploads/2022/10/Loveland-Ski-Resort-Trail-Map-web.jpg
 [Complete mountain stats]:https://skiloveland.com/the-mountain/trail-map-mountain-stats/
