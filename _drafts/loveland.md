@@ -33,7 +33,65 @@ seen in all of skiing, lacks the fancy amenities of
 other big resorts. You can tell skiing is the priority here! 
 
 ## The day
-Describe how this day went.
+Even on a very windy - and consequently cold - day when 
+the high lifts were put on perpetual hold, we had a blast.
+It was Sunday, so we went to church in Silverthrone before
+skiing. This got us a late start, but with it being
+day 4 in-a-row of skiing, almost everyone was talking about 
+how they were only going to ski for a part of the day.
+
+We started by taking a few runs and eventually getting to 
+lift 8. This was awesome, albeit very windy at the top of
+the lift. The wind was so bad that the chair would go flying
+when you got off. It even hit my friend one time as he
+was getting off the lift. Not fun for him.
+The freezing wind was so worth it though. We lapped this lift
+until lunchtime. While there, my brother-in-law found a huge 
+jump that he kept trying to hit and do a 360 off of. I swear
+the first time he did it, the wind carried him an extra 15 feet
+that he never seemed to get on subsequent tries. At we kept going
+off and skiing due east, it seemed like we were getting
+freshies with every single run and it wasn't even snowing. My
+speculation is that the wind was blowing so hard that it 
+was just continuously depositing a ton of snow on east-facing 
+slopes. The trees that get you back down to this lift were 
+also a blast - open enough that you could feel comfortable moving
+quickly and mellow enough that you weren't constanly worried 
+about going too fast in tight quarters.
+
+After lunch, the wind was even worse and the group's will to 
+continue skiing was wavering. I think that by the end of the day,
+only Chet's Dream, and Chair 2 were reliably open. Chair 6 seemed to
+be going on temporary wind holds every so often. This isn't the end of the
+world, but it's a risk you take that you might still be on the lift
+to sit in the cold for a little bit. Not skiing stinks. Not skiing
+and sitting on a freezing cold lift in 50 mph wind gusts sucks. 
+
+We took intermittent laps on 6, checking out terrain parks and the
+other runs that area had to offer. It was nice that you could do a 
+run off of 6, and hit trees on-and-off all the way back down the valley
+to Chet's dream. Of note, I absolutely wiped out on a run from Chair 6.
+In essense, I went over a really steep (maybe inverted) roll that wasn't
+marked and ended up on a near flat landing. My ski tips went right into
+the ground and I ejected. Luckily, no injuries or ever real pains to 
+report back on. 
+
+I think the majority of our skiing after lunch was off of Chet's Dream. 
+And it felt like nearly every time we got to the top, we'd be 
+saying "this might be my last one" and we ended up going until 
+closing. This lift has that affect on you. It's a fast lift with
+long and short runs to get back to it. We would to off skiers 
+left, and combine a bunch of different trails with trees as you come
+back down the valley to the base again. And we'd make a few runs straight
+down the really steep and bumpy areas right under the lift*. There 
+was good snow everywhere and no crowds anywhere. Simply put, 
+a fantastic capper to a phenomenal trip.
+
+*I conned my dad into doing this with us just as he'd been
+saying "this might be my last one." We ended up having to watch 
+him make his way down for a little while - maybe a fall and popped
+off ski along the way.
+
 
 ## The skiing
 - 1800 skiable acres
