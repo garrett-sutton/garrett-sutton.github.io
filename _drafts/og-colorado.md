@@ -48,6 +48,12 @@ March 12-13
 ```
 
 ## Additional story telling
+### Skiing A-basin
+I won't write a full review of A-Basin here because it's been nearly 3 years since I was there. In short, A-Basin was wicked - in wind and in terrain.  I'd be hard pressed to believe a day ever goes by at the top of A-Basin where you aren't at risk of being blown away and then sliding uncontrollably down it's wind swept high alpine terrain. It felt like almost every run was steep, had bumps or rocks! One run in particular sticks out - the Steep Gullies.
+
+The Steep Gullies are wicked steep, exposed, and narrow. Will lost a ski going down and in retrospect, I still think it was a lot more dangerous than we understood in the moment. It took quite a while just to get a ski back on because of the rocks, narrowness and steepness. All of this is to say this is probably the toughest run I've skiied to date.
+The kicker to the Steep Gullies is the "15-minute" walk back to the lift at the bottom. As relatively fit 24 year-olds, we anticipated this 15-minutes was an estimate for your grandma. In reality, walking uphill in ski boots on snow while carrying skis at over 11000' is no joke. We probably walked for a least 20 minutes 
+
 TODO 
 Clarify/add some details about:
 - Getting stuck including eating dinner at that hotel bar each night
