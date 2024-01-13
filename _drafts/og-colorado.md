@@ -63,13 +63,16 @@ Thinking we still had a chance to get out of might as well be prepared to, we le
 
 We eventually made it back to the hotel, where it was getting pretty late with not a lot of food options available. Enter the Tower Tap and Grill at the Hilton next to our hotel. We got seated and had a nice meal on this Saturday night.
 
-After dinner, the storm had really intensified. It was dumping snow really fast as we walked across the parking lot. Then, Will realized he didn't have his ID and determined it was back at the airport. oof. It was a next morning problem. At this point, I started my own 2 hour journey on hold with Frontier. When I finally got situated, I had a flight for early Monday morning. 
+After dinner, the storm had intensified. It was dumping snow really fast as we walked across the parking lot. Then, Will realized he didn't have his ID and determined it was back at the airport. oof. It was a next morning problem. At this point, I started my own 2 hour journey on hold with Frontier. When I finally got situated, I had a flight for early Monday morning. 
 
-SUNDAY
+On Sunday morning, it was still snowing and somehow snowing harder. Will found a ride to the airport via the airport shuttle to get his ID. I looked up where I could find Sunday mass and by what might be a miracle, there was a Church only a quarter of a mile from the hotel. I emailed the priest to see that mass was still on and got lucky that he responded to say Mass was on despite the weather. After trudging through a borderline blizzard, I arrived at a shopping plaza and what looked like an old Verizon store where the Church was supposed to be. I got over the confusion and went inside fully expecting to be in the wrong place. Turns out, this was the place - a small repurposed retail space. Mass was filled by a small number of people that obviously all knew each other, including the priest. It was different but really nice to share that mass with them. 
 
-TODO 
-Clarify/add some details about:
-- Getting stuck including eating dinner at that hotel bar each night
-    - The miracoulous Church that appeared on Sunday morning
-    - The context of this being a month before wedding
-- skiing the steep gullies at abasin
+By the time Sunday evening rolled around, I think it was still snowing, my flight had been cancelled and I was scheduled to get out on Tuesday. We were on the lookout for a place to eat again. There was no restaurant in our hotel and no sane person was going out to work or eat in this storm. So Tower Tap & Grill round 2. On arrival, we found a sign saying Hilton guests only, but out of desperation and the only real consequence being they turn us away, we put our name in at the host stand and managed to get a table. Dinner - success! Night time TV - maybe not so much. I recall us watching the Grammy's and seeing Cardi B and Megan Thee Stallion performing WAP. Yikes. 
+
+On Monday, it was like the apocalypse outside. Still nothing was open, the sun was out and suddenly the over foot of snow was melting like crazy. Before Will headed to the airport, we tried to go to Ruby Tuesdays. The manager there told us they might open for dinner. But in our journey around this area of airport hotels, it was like people were just wandering like zombies from one restaurant to another in hopes of it being open. I'm pretty sure we only got chocolate milk and chips ahoy from our hotel convenience area. Wild. 
+
+Will left and I was on my own with the my flight not being until Tuesday. Given it's proximity and fear no where else was open, I naturally made my way back to the Tower Tap & Grill that was still only serving Hilton guests. Three nights in a row at the same place. That feels like some sort of record. To reminisce, we did go here at the end of our ski trip in 2023. 
+
+Finally, Tuesday came and I managed to make it back to Madison in one piece. What a whirlwind of a trip. I look back on this and it really was a ton of fun. It stunk to get holed up in a hotel room for 2+ days, but it's fun story to look back on. 
+
+the end.
