@@ -7,12 +7,14 @@ categories: [ travel, skiing ]
 
 ## Background
 The contents of this post are based on and include
-a note that I wrote on my phone after this trip
+a note that I wrote on my phone after a trip
 to Colorado in March 2021. 
 
 To set the stage, my friend Will and I planned this trip
-at the last minute. We planned to fly
-into Denver on the evening of Thursday March 11 and stay
+at the last minute. Direct flights from Madison (for me)
+and Pittsburgh (for Will) were too cheap to pass up. 
+We planned to fly
+into Denver on a Thursday evening and stay
 in Idaho Springs, CO (just off I70) on Thursday and 
 Friday night. After finishing skiing on Saturday, we'd
 drive back to Denver and stay at an airport hotel to
@@ -64,19 +66,19 @@ uncontrollably down it's wind swept high alpine terrain.
 It felt like almost every run was steep, had bumps or 
 rocks! One run in particular sticks out - the Steep Gullies.
 
-The Steep Gullies are wicked steep, exposed, and narrow. It's
+The Steep Gullies are steep, exposed, and narrow. It's
 the type of run you want to avoid falling on at all costs.
-Will lost a ski going down and in retrospect, I still think 
+Will lost a ski going down and in retrospect, I think 
 it was a lot more dangerous than we understood in the moment. 
 It took quite a while just to get a ski back on because of 
 the rocks, narrowness and steepness. All of this is to say 
-this is probably the toughest run I've skiied to date.
+this is probably the toughest run I've skiied.
 The kicker to the Steep Gullies is the "15-minute" walk 
 back to the lift at the bottom. As relatively fit 24 
 year-olds, we anticipated this 15-minutes was an estimate 
 for your grandma. In reality, walking uphill in ski boots 
 on snow while carrying skis at over 11000' is no joke. We 
-probably walked for a least 20 minutes 
+probably walked for a least 20 minutes.
 
 ### The Storm
 Our initial plan was to fly into Denver on a Thursday night, 
@@ -88,33 +90,35 @@ on Sunday.
 I first got wind of this storm as I was talking to the 
 lady sitting next to me on the plane. As one does, I mostly 
 nodded and smiled and didn't think much else of it. I was 
-really hoping for this storm to come and to maybe even come 
-a little early so we could get some goods during our skiing. 
+really hoping for this storm to come early so we could 
+get some goods during our skiing. 
 I didn't quite get what I wished for (though it did start 
-dumping at Loveland by the end of our day of skiing), but 
-that lady on the plane's concerns quickly became reality. 
+dumping at Loveland by the end of our day of skiing). 
+That lady on the plane's concerns quickly became reality. 
 Before we even started skiing on Saturday morning, Will 
 was notified his flight was cancelled. I got my flight 
 cancellation notification when we finished skiing.
 
-Thinking we still had a chance to get out of might as well 
-be prepared to, we left Loveland on Saturday afternoon and 
-headed to the airport hotel we were staying at. At that point, 
-I recall Will got on hold with United to figure out his 
-flight home. We took our car back to the rental center, 
+Thinking we still had a chance to get out or might as well 
+be prepared to, we left Loveland on Saturday afternoon for
+the airport hotel we were staying at. At that point, 
+Will got on hold with United to figure out his 
+flight home. We unloaded our bags at the hotel and
+took our car back to the rental center, 
 rode the rental bus over to the airport and then waited 
 what felt like forever for our hotel shuttle to pick us 
-up and bring us back to the hotel. While waiting, I think 
+up and bring us back to the hotel. While waiting, 
 Will just handled his flight situation by going into the 
 airport and talking with the United folks. He was set to 
-fly out Monday afternoon. 
+fly out Monday afternoon. Also during this waiting phase,
+the snow had definitely picked it up another notch.
 
 We eventually made it back to the hotel, where it was getting 
 pretty late with not a lot of food options available. Enter 
 the Tower Tap and Grill at the Hilton next to our hotel. We 
 got seated and had a nice meal on this Saturday night.
 
-After dinner, the storm had intensified. It was dumping snow 
+After dinner, the storm had intensified even more. It was dumping snow 
 really fast as we walked across the parking lot. Then, Will 
 realized he didn't have his ID and determined it was back at 
 the airport. oof. It was a next morning problem. At this point, 
@@ -138,24 +142,27 @@ each other, including the priest. It was different but really
 nice to share that mass with them. 
 
 By the time Sunday evening rolled around, I think it was still 
-snowing, my flight had been cancelled and I was scheduled to get 
+snowing, my flight had been cancelled again and I was scheduled to get 
 out on Tuesday. We were on the lookout for a place to eat again. 
 There was no restaurant in our hotel and no sane person was going 
 out to work or eat in this storm. So Tower Tap & Grill round 2. On 
 arrival, we found a sign saying Hilton guests only, but out of 
 desperation and the only real consequence being they turn us away, 
 we put our name in at the host stand and managed to get a table. 
-Dinner - success! Night time TV - maybe not so much. I recall us 
-watching the Grammy's and seeing Cardi B and Megan Thee Stallion 
-performing WAP. Yikes. 
+Dinner - success! Night time TV - maybe not so much. We 
+watched the Grammy's where Cardi B and Megan Thee Stallion 
+performed WAP. Yikes. 
 
 On Monday, it was like the apocalypse outside. Still nothing was 
 open, the sun was out and suddenly the over foot of snow was melting 
-like crazy. Before Will headed to the airport, we tried to go to 
-Ruby Tuesdays. The manager there told us they might open for dinner. 
-But in our journey around this area of airport hotels, it was like 
+like crazy. Before Will headed to the airport, we tried to get out 
+for lunch. We tried Ruby Tuesdays, but the manager there told us
+they might open for dinner. Our journey for lunch continued
+in this area of airport hotels. It was like 
 people were just wandering like zombies from one restaurant to 
-another in hopes of it being open. I'm pretty sure we only got 
+another in hopes of it being open. Any restaurant that was open
+had a line that was 15 people deep outside the place and growing
+as more zombies filed in. I'm pretty sure we only got 
 chocolate milk and chips ahoy from our hotel convenience area. 
 Wild. 
 
