@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Colorado skiing - March 2021"
-date:   2023-12-19 22:30:02 -0600
+date:   2024-1-14 12:30:02 -0600
 categories: [ travel, skiing ]
 ---
 
@@ -72,13 +72,21 @@ Will lost a ski going down and in retrospect, I think
 it was a lot more dangerous than we understood in the moment. 
 It took quite a while just to get a ski back on because of 
 the rocks, narrowness, and steepness. All of this is to say 
-this is probably the toughest run I've skied.
-The kicker to the Steep Gullies is the "15-minute" walk 
+this is probably the toughest run I've skied. Below is a
+picutre of the Steep Gullies from the top and another from 
+below Will while he's getting his ski back on. They might do
+my description some justice.
+
+![Top Steep Gullies]
+
+![Will Steep Gullies]
+
+The real kicker to the Steep Gullies is the "15-minute" walk 
 back to the lift at the bottom. As relatively fit 24 
 year-olds, we anticipated this 15 minutes was an estimate 
 for your grandma. In reality, walking uphill in ski boots 
 on snow while carrying skis at over 11000' is no joke. Humbled, we 
-probably walked for a least 20 minutes.
+probably walked for a least 20 minutes. 
 
 ### The Storm
 Our initial plan was to fly into Denver on a Thursday night, 
@@ -155,7 +163,11 @@ performed WAP. Yikes.
 
 On Monday, it was like the apocalypse outside. Still, nothing was 
 open, the sun was out and suddenly the over foot of snow was melting 
-like crazy. Before Will headed to the airport, we tried to get out 
+like crazy. 
+
+![Calm after the storm]
+
+Before Will headed to the airport, we tried to get out 
 for lunch. We tried Ruby Tuesdays, but the manager there told us
 they might open for dinner. Our journey for lunch continued
 in this area of airport hotels. It was like 
@@ -179,3 +191,7 @@ and it was a ton of fun. It stunk to get holed up in a
 hotel room for 2+ days, but it's a fun story to look back on. 
 
 the end.
+
+[Top Steep Gullies]:\assets\images\topSteepGullies2021.jpg
+[Will Steep Gullies]:\assets\images\willSteepGullies2021.jpg
+[Calm after the storm]:\assets\images\denverSnowstorm2021.jpg
