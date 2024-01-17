@@ -5,6 +5,7 @@ date:   2023-12-19 22:30:02 -0600
 categories: [ travel, sabbatical-2023 ]
 ---
 
+## Early vision
 Early on in my time of working at Epic, I started 
 dreaming up where we would go for sabbatical. At
 5 years of tenure, employees at Epic can take a 
