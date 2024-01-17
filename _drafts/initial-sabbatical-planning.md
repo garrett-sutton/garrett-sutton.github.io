@@ -45,6 +45,32 @@ the 2024 Summer Olympics (usually starting in late July or early
 August) would be held in Paris. From here on out, France
 was my dream destination given the perfect coincidence.
 
+## Closer vision
+A lot has happened since those days in the summer of 2020,
+working in my dark apartment while watching the Tour 
+de France. For one, the world is no longer in a pandemic, and 
+I go to the office every day. I got married to my 
+wonderful wife Grace. And we now have a beautiful baby
+girl, Gwen.
+And because of the Olymics, the Tour isn't going to finish in 
+Paris for the first time since 1905. Instead, it will finish
+in Nice with a Time Trial rather than the 8 ceremonious loops
+of the Champs.
+
+It's certainly a bright spot to not have a pandemic to worry
+about for traveling. It's fantastic to have my favorite 
+person locked in to travel with. But a taking what will be a 
+nine-month old on any travels, let alone internationally
+presents a whole new set of challenges. And so does the 
+Tour finishing in an unusual way that is many hours from
+Paris.
+
+TODO: 
+- gwen
+- 2 week trip
+
+scaffolding
+
 Trip starts: 7/17
 Sabby technically ends: 7/30
 -------------------------------------------------------------------------------
