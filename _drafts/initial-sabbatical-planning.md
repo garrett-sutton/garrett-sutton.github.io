@@ -105,7 +105,7 @@ Nice area.
 |-|-|-|-|-|
 | Friday July 19 |      Stage 19 | North to South. 3 Mtn passes (1. Col de Vars 2. Cime de la Bonette 3. Isola 2000) |90 min| -- |
 | Saturday July 20 |     Stage 20 | South to North. 4 Mtn passes (1. Col de Braus 2. Col de Turini 3. Col de la Colmiane 4. Col de la Couillole) Nice into Mtns  |90 min|60 min|
-| Sunday July 21 |       Stage 21 | Monaco to Nice TT |0|90 min|
+| Sunday July 21 |       Stage 21 | Monaco to Nice TT |--|90 min|
 
 ### The Alps
 Go to a town in the Alps on Sunday after the 
