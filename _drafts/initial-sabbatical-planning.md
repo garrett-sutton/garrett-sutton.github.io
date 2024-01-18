@@ -84,9 +84,9 @@ trip plan. And then we have the flexibility to take another
 trip a year after this one!
 
 ## High level plan
-Trip Start: 7/17
-Trip technically ends: 7/30
-I plan to go back to work: 8/5
+- Trip Start: 7/17
+- Trip technically ends: 7/30
+- I plan to go back to work: 8/5
 
 ### Travel to France
 Plan to fly into Nice, France.
@@ -101,7 +101,7 @@ we'd want to try to see the last 3 stages of
 the Tour de France in and around the 
 Nice area.
 
-| Date|TdF Stage |Stage detail | End time from Nice | End time from previous end |
+| Date|TdF Stage |Stage detail | End location time from Nice | End location time from previous end location |
 |-|-|-|-|-|
 | Friday July 19 |      Stage 19 | North to South. 3 Mtn passes (1. Col de Vars 2. Cime de la Bonette 3. Isola 2000) |90 min| -- |
 | Saturday July 20 |     Stage 20 | South to North. 4 Mtn passes (1. Col de Braus 2. Col de Turini 3. Col de la Colmiane 4. Col de la Couillole) Nice into Mtns  |90 min|60 min|
