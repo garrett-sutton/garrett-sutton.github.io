@@ -187,7 +187,7 @@ us too.
 getting back vs wanting to see/do as much as possible
 with the trip
 
-
+### Appendix
 #### Olympic Ticket Priorities
 ##### Priorities by SPORT
 1. Gymnastics
@@ -196,27 +196,32 @@ with the trip
 1. Beach Volleyball
 1. Swimming
 
-##### Sessions we wanted 
+Below are the sessions that were our top priority.  
+
 |Date   |Event Common Name      |Session Code|
 |-|-|-|
 |7/27   |M/W Rowing Heats       |ROW01 (4hr@9AM)|
 |7/28   |W Gymnastics Quals     |GAR05(2:30PM)|
 |7/29   |M MTB Race         |MTB02|
 
-##### Gymnastics events
+Here are the `Gymnastic` events that we would consider.
+
 |Date   |Event Common Name      |Session Code|
 |-|-|-|
 |7/28   |W Gymnastics Quals     |GAR05(2:30PM), GAR04 (9:30AM-1:20PM),  GAR06, GAR07|
 |7/30   |W Gymnastics Team Final    |GAR09|
 
-##### Beach Volleyball
+Here are the `Beach Volleyball` sessions that we
+would consider.
+
 |Date   |Event Common Name      |Session Code|
 |-|-|-|
 |7/27   |M/W Prelim Beach Volleyball    |VBV01(2hrPM),VBV02(2hrPM),VBV03(2hrPM)|
 |7/28   |M/W Prelim Beach Volleyball    |VBV04(4hrAM),VBV05(3hrPM),VBV06(3hrPM)|
 |7/29   |M/W Prelim Beach Volleyball    |VBV07(4hrAM),VBV08(3hrPM),VBV09(3hrPM)|
 
-##### Swimming
+Here are the `Swimming` sessions that we would consider.
+
 |Date   |Event Common Name      |Session Code|
 |-|-|-|
 |7/27   |M/W Swimming Heats     |SWM01 (2hr@11AM)|
@@ -228,7 +233,8 @@ with the trip
 |7/30   |M/W Swimming Heats     |SWM07 (2hr@11AM)|
 |7/30   |M/W Swimming Semis / Finals    |SWM08 (2hr@8:30PM)|
 
-##### Rowing
+Here are the `Rowing` sessions we would consider.
+
 |Date   |Event Common Name      |Session Code|
 |-|-|-|
 |7/27   |M/W Rowing Heats       |ROW01 (4hr@9AM)|
@@ -237,13 +243,17 @@ with the trip
 |7/30   |M/W Rowing Heats       |ROW04|
 |7/31   |M/W Rowing Final       |ROW04|
 
-##### MTB
+Here are the `Mountain Bike` races.
+
 |Date   |Event Common Name      |Session Code|
 |-|-|-|
 |7/28   |W MTB Race         |MTB01|
 |7/29   |M MTB Race         |MTB02|
 
-##### Likely NO
+These are things we were no longer considering after
+discussing cost and what else we wanted to do with the
+trip. 
+
 |Date   |Event Common Name      |Session Code|
 |-|-|-|
 |7/26   |Opening Ceremony       |OOC01|
