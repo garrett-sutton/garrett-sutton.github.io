@@ -131,7 +131,7 @@ the Olympics could even be affordable for normal people.
 Then I lucked into looking over the Olympics website in late 
 November 2023 to find new ticket sales would be
 available on 11/30. We talked about what events we
-were interested in (see `Olympic Ticket Priorities`) and I woke
+were interested in (see [Olympic Ticket Priorities](#olympic-ticket-priorities)) and I woke
 up at 2:30 AM CT to get online for the 10 AM Paris time
 ticket drop. Once it was my turn at the ticket exchange,
 I managed to get the following tickets.
