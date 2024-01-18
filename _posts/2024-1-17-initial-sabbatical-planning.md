@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Initial Sabbatical Planning"
-date:   2023-12-19 22:30:02 -0600
+date:   2024-1-17 12:30:02 -0600
 categories: [ travel, sabbatical-2023 ]
 ---
 
