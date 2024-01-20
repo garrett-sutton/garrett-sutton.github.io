@@ -218,5 +218,29 @@ McDonalds for feeding. Grace was able to sit and nurse
 in a booth with no problem. 
 
 ### Time Spent with family and friends
+It doesn't feel like there is a point to travel just
+for the sake of travel. It's the people and activities
+that come along the way that really make it worth it.
 
-### Takehome (potentially move to TL;DR at top of section)
+#### NY
+It was really nice to be with Grace's family
+for the better part of a week. Though I'd be hard
+pressed to say Pawling is rural NY (it's common
+for people to ride a train to NYC for work), it 
+can really feel like we are way out there. Grace's 
+parents live in an older farm house on top of a hill
+with a big fireplace that is always ablaze. There is 
+virtually no cell service (they do have good wifi), so I 
+tend to put my phone
+on airplane mode unless we go into town.
+
+It's nice to get away from work, the constant stream of 
+phone content, the normal routine of 
+day-to-day life at home. Instead, I was able to run in 
+the middle of the day, hang out with a book in hand, and 
+have good conversations with whoever was around. Grace 
+and I were able to do
+our first run together in months because someone was at
+the house to take care of Gwen for a little bit. 
+
+## Takehome (potentially move to TL;DR at top of section)
