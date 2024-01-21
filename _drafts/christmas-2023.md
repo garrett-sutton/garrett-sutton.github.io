@@ -86,6 +86,11 @@ all of Gwen's stuff into it. We could roll this up and
 put it in a bag. Then we could stay organized on our 
 travels by having it hang on the back of our door.
 
+Here is Gwen's packing list that eventually manifest
+into the bag total below.
+
+![Packing List](/assets/images/packingListChristmas2023.jpg)
+
 #### Bag total:
 1. Garrett carry-on
 1. Garretty backpack (personal item)
