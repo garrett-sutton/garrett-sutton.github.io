@@ -2,10 +2,22 @@
 layout: post
 title:  "Christmas 2023 - traveling like crazy people"
 date:   2024-1-6 12:30:02 -0600
-categories: [ travel ]
+categories: [ travel, parenting ]
 ---
 
 # Christmas 2023
+
+## TL;DR
+For Christmas 2023, Grace and I undertook the 
+challenge of flying to New York for Christmas 
+and attending a wedding in Georgia on the same
+trip with a 3-month old Gwen. It was definitely
+a stressful experience - from assessing risk
+of travel, to planning, to executing on our plans.
+But at the end of the day, evertthing worked out
+and I'm glad we made the trip. It's always 
+fulfilling to spend time with family and
+friends.
 
 ## Traveling with a 3-month old is crazy right?
 Gwen was born October 3. And before we could
@@ -301,5 +313,3 @@ to support a friend on the happiest day of his life,
 watch football, complain about football,  
 talk about things in the 814. All of it felt like
 we hadn't missed a beat.
-
-## Takehome (potentially move to TL;DR at top of section)
