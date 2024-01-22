@@ -248,4 +248,58 @@ and I were able to do
 our first run together in months because someone was at
 the house to take care of Gwen for a little bit. 
 
+#### GA
+A group of my friends from high school
+made a couple of awesome trips happen during our 
+college summers. And from those trips, the Trip to XYZ 
+group chat was formed. When a trip is on the radar,
+the chat becomes Trip to that place. Otherwise, it's 
+Trip to SPANKS -- named after the local bar back
+home.
+
+Now that we've all graduated, there's still good
+banter in the group chat, but it's been increasingly 
+difficult to get everyone together. At 
+this point, this group of 5 friends is strewn across 4 
+states and all at various stages in life. Weddings
+have a convienent way of bringing everyone together
+though. I'm pretty sure the last time all of us were
+together was for Grace and I's wedding in April 2021.
+
+The group chat became Trip to ATLANTA for Dan's wedding. 
+As always, getting the gang together was good for the
+soul. There's always a good mix of sharing what's
+new and indulging in nostalgia. Though we are all in 
+different places, there's never any warming up to do. 
+We spent nearly every day from 6th grade until high 
+school graduation in the same classroom. That 
+familiarity persists throughout the years.
+
+One example highlights this familiarity to a T. To
+preface this, I've been an easy target to pick on 
+amongst my friends. So even before the trip started, 
+I was being messed with. I can be controlling,
+a bit selfish and pessimistic about other ideas. I'm
+trying to get ahead of everyone by presenting that
+we should fly into Atlanta for this trip even though
+Augusta and Charleston would be closer. This is largely
+based on cost and Atlanta would be a direct flight. 
+As soon as I present this, one friend responds he wants
+to fly into Augusta. The other responds he wants to fly
+into Charleston. And then several hours later, another
+creates a new group chat and suggests flying into
+Nashville. I later find out that friend 1 immediately
+texted the other 2 to answer such that they wanted
+to do something different from me. 
+
+All of this rambling is to say that I really enjoyed
+seeing the group over this weekend. Grace and I got
+to introduce them to Gwen even though she wasn't all that 
+welcoming -- giving a 
+mean stink eye during the ceremony. We got to be there
+to support a friend on the happiest day of his life,
+watch football, complain about football,  
+talk about things in the 814. All of it felt like
+we hadn't missed a beat.
+
 ## Takehome (potentially move to TL;DR at top of section)
