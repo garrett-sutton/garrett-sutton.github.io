@@ -234,6 +234,21 @@ at a Truett's Grill (a sit down Chick-fil-A, whaa?) and
 McDonalds for feeding. Grace was able to sit and nurse
 in a booth with no problem. 
 
+#### Hindsight is 20/20
+Looking back, there's a lot that went into making the 
+travels that were a part of this trip happen. It
+was stressful to plan and it was stressful to do. There 
+is a lot of learning on the fly because it's impossible 
+to know how your baby is going to react to the myriad 
+of situations you're presented with. I don't think we 
+would have done this if Gwen was much younger. Having 
+her first round of shots definitely provided some peace of mind. 
+But it doesn't fully alleviate the stress of traveling with
+a little one. At the end of the day, I think this trip 
+went pretty smoothly. Like many things in parenting,
+the age old advice of "you'll figure it out" hold true
+here too. 
+
 ### Time Spent with family and friends
 It doesn't feel like there is a point to travel just
 for the sake of travel. It's the people and activities
@@ -313,3 +328,8 @@ to support a friend on the happiest day of his life,
 watch football, complain about football,  
 talk about things in the 814. All of it felt like
 we hadn't missed a beat.
+
+
+### In hindsight, how crazy was it?
+I think traveling with Gwen being 3 months
+old borders crazy. 
