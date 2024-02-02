@@ -33,7 +33,7 @@ out my post about this [here](../_posts/2023-12-12-idaho-feb-23.md).
    Emily (sister) Roberts.
    * Check out some my resort reviews under "skiing" for a 
    peek into the gnarly details.
-* After the day of skiing at Vail, we reveled to everyone that
+* After the day of skiing at Vail, we revealed to everyone that
    we were expecting a baby! 
 
 ## April
@@ -64,6 +64,8 @@ Fam in Milwaukee, and PNC in Pittsburgh. We also went
 to the Starbucks Roastery and it was
 not as big of a thing as I expected it to be.
 
+![The bean!](/assets/images/chicagoBean2023.jpg)
+
 * In late June, I undertook the overly ambitious 
 journey of driving to Toledo, Ohio for a weekend
 to do Bike MS. 
@@ -74,6 +76,8 @@ to do Bike MS.
    * Joe, Justin, and my Dad rode this year. We slept on 
    a gym floor and missed lunch on day 1. It was a fun 
    time.
+   
+![Bike MS 2023](/assets/images/bikeMs2023.jpg)
 
 ## July
 * A week after Bike MS in Toledo, I drove from home in 
