@@ -24,17 +24,17 @@ and ...she PASSED. A lot of emotions ensued.
 
 ## February
 * Grace and I went on a quick skiing trip to Idaho. Check
-out my post about this [here](../_posts/2023-12-12-idaho-feb-23.md). 
+out my post about this [here]({% link _posts/2023-12-12-idaho-feb-23.md %}). 
 
 ## March
 * We went skiing in Colorado with family and friends
    * Grace's family minus David, my family, my cousins 
    Travis and Elliot, and friends Will, Kayla, Dan & 
    Emily (sister) Roberts.
-   * Check out some my resort reviews under "skiing" for a 
-   peek into the gnarly details.
+   * Check out some my resort reviews under "[skiing]({% link categories.html %})" for a 
+   peek into the *gnarly* details.
 * After the day of skiing at Vail, we revealed to everyone that
-   we were expecting a baby! 
+   we were expecting a baby! I wrote about here [my post about it here]({% link _posts/2024-1-6-vail.md %})
 
 ## April
 * I continued my likely unsustainable tradition of running
@@ -123,4 +123,4 @@ this time. They headed back to PA on Saturday.
 
 ## December
 * We flew to NY for Christmas, then to Georgia for Dan's
-wedding and back to MKE. See [my post about it here](../_posts/2024-1-23-christmas-2023.md)
+wedding and back to MKE. See [my post about it here]({% link _posts/2024-1-23-christmas-2023.md %})
