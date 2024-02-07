@@ -53,11 +53,11 @@ at nearly 3 months pregnant.
 * We found out baby Sutton would be baby girl Sutton
 via a reveal cake from McKinney & Doyle at Grace's
 parents.
-   * My parents say the gender first - a few weeks 
+   * My parents saw the gender first - a few weeks 
    prior - and then called in the cake color. 
 * We went to Chicago for a weekend to watch a Cubs
-game at Wrigley and hang out with Eric, Jordan (college
-roommate), Anna, and Blake. Wrigley was quite 
+game at Wrigley and hang out with Eric, Jordan, 
+Anna, and Blake. Wrigley was quite 
 possibly the coolest ballpark I have ever been to - an
 admittedly small sample of Progressive in Cleveland, Am 
 Fam in Milwaukee, and PNC in Pittsburgh. We also went
@@ -114,7 +114,7 @@ transferred into the software developer role at Epic.
 * Gwen arrived on October 3, 2023 at 3:48 AM. 
 * Gwen was baptized on October 21, 2023 at Saint
 Maria Goretti Catholic Church. All of her grandparents
-and Maddie & Conner (Godparents) were able to make it.
+and Maddie & Connor (Godparents) were able to make it.
 
 ## November
 * My mom came for an extended stay around Thanksgiving. 
