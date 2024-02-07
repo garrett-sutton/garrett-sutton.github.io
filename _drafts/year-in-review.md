@@ -132,6 +132,10 @@ and Maddie & Connor (Godparents) were able to make it.
 She got here on Tuesday November 14. My Dad and Neil 
 arrived the day before Thanksgiving. Neil met Gwen during
 this time. They headed back to PA on Saturday.
+* I ran my one and only race of the year too -- the
+Berbee Derby 10k. It was nice to be able to warm up and cool
+down from home. For my fitness level, it went
+pretty good. I ran ~39:00.
 
 ## December
 * We flew to NY for Christmas, then to Georgia for Dan's
