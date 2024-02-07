@@ -55,6 +55,8 @@ via a reveal cake from McKinney & Doyle at Grace's
 parents.
    * My parents saw the gender first - a few weeks 
    prior - and then called in the cake color. 
+   * Also during this weekend - Henry's high school
+   graduation and the Maxham family party.
 * We went to Chicago for a weekend to watch a Cubs
 game at Wrigley and hang out with Eric, Jordan, 
 Anna, and Blake. Wrigley was quite 
@@ -88,6 +90,9 @@ central PA.
     gravel/road bike ride that climbed up Lilly Mountain
     and Cresson Mountain. It was hard, beautiful, and
     so fun. I hope I never forget it.
+
+![Route Map](/assets/images/lillyAndCressonMountainRideJuly2023.png)
+
 * Baby talk became more and more real. We went back to 
 Pawling for a baby shower. It was nice to get to see
 Grace's family, a few friends and the few that traveled 
@@ -105,6 +110,9 @@ a little weird to be rooting against them.
 Fickell's first game as the Badger head coach. I 
 believe it was also the hottest game in the history
 of Camp Randall Stadium. 
+
+![Go Badgers!](/assets/images/badgersHomeOpener2023.jpg)
+
 * Gwen was due on September 28.  
 * After a few long years of hard work (3+ to
 be exact), I officially
@@ -112,13 +120,17 @@ transferred into the software developer role at Epic.
 
 ## October
 * Gwen arrived on October 3, 2023 at 3:48 AM. 
+
+![We're heading home](/assets/images/gwenLeavingHospitalOct2023.jpg)
+
 * Gwen was baptized on October 21, 2023 at Saint
 Maria Goretti Catholic Church. All of her grandparents
 and Maddie & Connor (Godparents) were able to make it.
 
 ## November
 * My mom came for an extended stay around Thanksgiving. 
-She got here on Tuesday November 14. My Dad and Neil arrived the day before Thanksgiving. Neil met Gwen during
+She got here on Tuesday November 14. My Dad and Neil 
+arrived the day before Thanksgiving. Neil met Gwen during
 this time. They headed back to PA on Saturday.
 
 ## December
