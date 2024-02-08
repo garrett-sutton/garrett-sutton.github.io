@@ -81,7 +81,7 @@ to do Bike MS.
    a gym floor and missed lunch on day 1. It was a fun 
    time.
    
-<center><img src="/assets/images/bikeMs2023.jpg" alt="Bike MS 2023" height="auto" width="66%"></center>
+<p align="center"><img src="/assets/images/bikeMs2023.jpg" alt="Bike MS 2023" height="auto" width="66%"></p>
 
 ## July
 * A week after Bike MS in Toledo, I drove from home in 
