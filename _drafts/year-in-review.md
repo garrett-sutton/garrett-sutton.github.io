@@ -66,7 +66,9 @@ Fam in Milwaukee, and PNC in Pittsburgh. We also went
 to the Starbucks Roastery and it was
 not as big of a thing as I expected it to be.
 
-![The bean!](/assets/images/chicagoBean2023.jpg)
+<p align="center">
+<img src="/assets/images/chicagoBean2023.jpg" alt="The bean!" width="50%" object-fit="contain">
+</p>
 
 * In late June, I undertook the overly ambitious 
 journey of driving to Toledo, Ohio for a weekend
@@ -79,7 +81,7 @@ to do Bike MS.
    a gym floor and missed lunch on day 1. It was a fun 
    time.
    
-![Bike MS 2023](/assets/images/bikeMs2023.jpg)
+<center><img src="/assets/images/bikeMs2023.jpg" alt="Bike MS 2023" height="auto" width="66%"></center>
 
 ## July
 * A week after Bike MS in Toledo, I drove from home in 
@@ -91,7 +93,9 @@ central PA.
     and Cresson Mountain. It was hard, beautiful, and
     so fun. I hope I never forget it.
 
-![Route Map](/assets/images/lillyAndCressonMountainRideJuly2023.png)
+<p align="center">
+<img src="/assets/images/lillyAndCressonMountainRideJuly2023.png" alt="Route Map" width="40%">
+</p>
 
 * Baby talk became more and more real. We went back to 
 Pawling for a baby shower. It was nice to get to see
@@ -104,6 +108,9 @@ Aunt Laverne, and Uncle Marty.
 * We went to a Brewers game against the Pirates. Though
 I was never a big pirates fan growing up, it felt
 a little weird to be rooting against them.
+<p align="center">
+<img src="/assets/images/brewersPiratesAug2023.jpg" alt="Go Brewers!" height="auto" width="40%">
+</p>
 
 ## September
 * Neil visited for a weekend and we went to Luke 
@@ -111,7 +118,7 @@ Fickell's first game as the Badger head coach. I
 believe it was also the hottest game in the history
 of Camp Randall Stadium. 
 
-![Go Badgers!](/assets/images/badgersHomeOpener2023.jpg)
+<p align="center"><img src="/assets/images/badgersHomeOpener2023.jpg" alt="Go Badgers!" height="auto" width="66%"></p>
 
 * Gwen was due on September 28.  
 * After a few long years of hard work (3+ to
@@ -121,7 +128,7 @@ transferred into the software developer role at Epic.
 ## October
 * Gwen arrived on October 3, 2023 at 3:48 AM. 
 
-![We're heading home](/assets/images/gwenLeavingHospitalOct2023.jpg)
+<p align="center"><img src="/assets/images/gwenLeavingHospitalOct2023.jpg" alt="Heading home!" height="auto" width="50%"></p>
 
 * Gwen was baptized on October 21, 2023 at Saint
 Maria Goretti Catholic Church. All of her grandparents
@@ -140,3 +147,12 @@ pretty good. I ran ~39:00.
 ## December
 * We flew to NY for Christmas, then to Georgia for Dan's
 wedding and back to MKE. See [my post about it here]({% link _posts/2024-1-23-christmas-2023.md %})
+
+A family Christmas picture after Christmas Eve mass:
+<p align="center"><img src="/assets/images/mcgrathsChristmas2023.JPG" alt="McGrath Family Christmas picture" width="50%"></p>
+
+Cheers to the new Mr & Mrs Roberts!
+<p align="center"><img src="/assets/images/dansWeddingDec2023.jpg" alt="The fam at Dan's wedding" width="50%"></p>
+
+Dad & daughter are COOKED by the end:
+<p align="center"><img src="/assets/images/gwenGarrettEndOfNyGaTripDec2023.jpg" alt="Gwen and Dad sleeping before driving to airport" width="50%"></p>
