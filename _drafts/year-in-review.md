@@ -6,21 +6,21 @@ categories: [ travel, parenting ]
 ---
 
 While visiting Grace's family for Christmas 2023,
-we played a game were everyone picked a song that
+we played a game where everyone picked a song that
 they identified with. After much deliberation,
 I landed on *Whole Lotta Love* by Led Zeppelin based
-solely on the title. There's not really any other way 
+solely on the title. There's no other way 
 to put it. I was so blessed with a whole lotta love 
 in 2023. 
 
 Below is mostly a list of the whole lotta love that 
-I experienced during 2023. If there is more to it 
+I experienced in 2023. If there is more to it 
 than simply the note, I'll try to provide a little bit of 
 commentary.
 
 ## January
-* On January 29, 2023, Grace took her first pregnancy test
-and ...she PASSED. A lot of emotions ensued.
+* On January 29, 2023, Grace took her first pregnancy test,
+ and ...she PASSED. A lot of emotions ensued.
 
 ## February
 * Grace and I went on a quick skiing trip to Idaho. Check
@@ -39,7 +39,7 @@ out my post about this [here]({% link _posts/2023-12-12-idaho-feb-23.md %}).
 ## April
 * I continued my likely unsustainable tradition of running
 my age in KMs on or near my birthday. This year I ran
-over 26 KM for 26 years on Saturday April 8. Grace did the 
+over 26 KM for 26 years on Saturday, April 8. Grace did the 
 first 10 with me and Eric did the whole thing.
 * My birthday - April 9 - was on Easter Sunday for the first time
 in my lifetime.
@@ -87,7 +87,7 @@ to do Bike MS.
 * A week after Bike MS in Toledo, I drove from home in 
 Madison to Erie, PA to get Grace from Maddie's and then 
 drove the rest of the way to my parent's house in 
-central PA. 
+Central PA. 
    * During this trip home, Dan and I did a 
     gravel/road bike ride that climbed up Lilly Mountain
     and Cresson Mountain. It was hard, beautiful, and
@@ -99,14 +99,14 @@ central PA.
 
 * Baby talk became more and more real. We went back to 
 Pawling for a baby shower. It was nice to get to see
-Grace's family, a few friends and the few that traveled 
+Grace's family, a few friends, and the few who traveled 
 from my family - Mom & Granny, Aunt Marg, Uncle Chipper,
 Aunt Laverne, and Uncle Marty.
 
 ## August
 * Abbey and Nik visited for a weekend.
 * We went to a Brewers game against the Pirates. Though
-I was never a big pirates fan growing up, it felt
+I was never a big Pirates fan growing up, it felt
 a little weird to be rooting against them.
 <p align="center">
 <img src="/assets/images/brewersPiratesAug2023.jpg" alt="Go Brewers!" height="auto" width="40%">
@@ -130,23 +130,23 @@ transferred into the software developer role at Epic.
 
 <p align="center"><img src="/assets/images/gwenLeavingHospitalOct2023.jpg" alt="Heading home!" height="auto" width="50%"></p>
 
-* Gwen was baptized on October 21, 2023 at Saint
+* Gwen was baptized on October 21, 2023, at Saint
 Maria Goretti Catholic Church. All of her grandparents
 and Maddie & Connor (Godparents) were able to make it.
 
 ## November
 * My mom came for an extended stay around Thanksgiving. 
-She got here on Tuesday November 14. My Dad and Neil 
+She got here on Tuesday, November 14. My Dad and Neil 
 arrived the day before Thanksgiving. Neil met Gwen during
 this time. They headed back to PA on Saturday.
-* I ran my one and only race of the year too -- the
+* I ran my only race of the year too -- the
 Berbee Derby 10k. It was nice to be able to warm up and cool
 down from home. For my fitness level, it went
-pretty good. I ran ~39:00.
+pretty well. I ran ~39:00.
 
 ## December
 * We flew to NY for Christmas, then to Georgia for Dan's
-wedding and back to MKE. See [my post about it here]({% link _posts/2024-1-23-christmas-2023.md %})
+wedding, and back to MKE. See [my post about it here]({% link _posts/2024-1-23-christmas-2023.md %})
 
 A family Christmas picture after Christmas Eve mass:
 <p align="center"><img src="/assets/images/mcgrathsChristmas2023.JPG" alt="McGrath Family Christmas picture" width="50%"></p>
