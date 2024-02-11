@@ -2,7 +2,7 @@
 layout: post
 title:  "Breckenridge, Colorado - March 2023"
 date:   2024-1-1 00:30:02 -0600
-categories: [ skiing ]
+categories: [ zz_skiing ]
 ---
 
 ## The TLDR
