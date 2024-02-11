@@ -2,7 +2,7 @@
 layout: post
 title:  "Colorado skiing - March 2021"
 date:   2024-1-14 12:30:02 -0600
-categories: [ travel, skiing ]
+categories: [ travel, zz_skiing ]
 ---
 
 ## Background

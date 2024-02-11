@@ -2,7 +2,7 @@
 layout: post
 title:  "Loveland ski area, Co"
 date:   2024-1-9 2:30:02 -0600
-categories: [ skiing ]
+categories: [ zz_skiing ]
 ---
 
 ## The TLDR

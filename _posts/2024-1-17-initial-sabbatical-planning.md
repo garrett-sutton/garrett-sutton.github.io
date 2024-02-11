@@ -2,7 +2,7 @@
 layout: post
 title:  "Initial Sabbatical Planning"
 date:   2024-1-17 12:30:02 -0600
-categories: [ travel, sabbatical-2023 ]
+categories: [ travel, zz_sabbatical-2024 ]
 ---
 
 ## Early vision

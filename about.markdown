@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-## About this blog
+## this blog
 This blog aims to tell my stories and learnings about:
 - my hobbies
 - my travels
 - my journey as a husband and dad
 
 
-## About me
-I'm a Catholic. I'm a husband to Grace and dad to Gwen.
+## me
+I am Catholic. I'm a husband to Grace and dad to Gwen.
 I run a lot and love riding my bike when I have the 
 time. I'm a diehard Steelers fan, also a Badger fan, and 
 a sports fan in general. I currenly live in 
