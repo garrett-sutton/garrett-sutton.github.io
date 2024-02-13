@@ -17,19 +17,29 @@ change and how Grace and I's relationship
 would change too. But of all the things,
 I can't say I spent a ton of time thinking
 about her actually coming out into the world.
-I think I spent a long time thinking aboout
+I think I spent a lot more time thinking aboout
 being a parent to a child rather than 
 the hours before and first few days of
 becoming a parent to a newborn. I was really
 only aware of the fact that we had a due 
 date and even that is sort of arbitrary. 
 
-In early September, Grace informed me that
+In early September, Grace let me know that
 she could schedule an induction. So we go 
 from "this baby might come any day" to 
 "you can schedule when this baby comes." 
-So we scheduled an induction a few days
+So we scheduled an induction for October 2 at 
+5 a.m. - a few days
 after the due date per doctor's recommendations.
+For whatever reason, I was pretty convinced 
+that Gwen was not going to come out without
+some coaxing. We spent the days leading up to
+the induction date doing pretty normal things - 
+dinner at Novanta on Friday night, a long run
+on Saturday while Grace went to mass, and 
+lunch at Buffalo Wild Wings with friends
+while watching the Steelers get boatraced
+by the Texans (sadface). 
 
 ===================
 
