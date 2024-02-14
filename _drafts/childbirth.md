@@ -5,6 +5,7 @@ date:   2024-2-7 12:30:02 -0600
 categories: [ parenting ]
 ---
 
+## Months before
 You have many thoughts as you're prepping 
 to become a parent. There are nine months
 of anxious anticipation and excitement. 
@@ -40,6 +41,16 @@ on Saturday while Grace went to mass, and
 lunch at Buffalo Wild Wings with friends
 while watching the Steelers get boatraced
 by the Texans (sadface). 
+
+### Aside - How did we come to Gwen?
+
+
+## 10/2/2023 - Induction day
+
+## 10/3/2023
+
+## The hospital & coming home
+
 
 ===================
 
