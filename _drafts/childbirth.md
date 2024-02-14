@@ -42,8 +42,29 @@ lunch at Buffalo Wild Wings with friends
 while watching the Steelers get boatraced
 by the Texans (sadface). 
 
-### Aside - How did we come to Gwen?
+### Aside - How did we come to Gwen Maria?
+Grace and I spent a good amount of time combing
+through lists of girl names when we found out we
+were expecting a little girl. Girl names felt
+hard. We were trying find a name that was unique
+that balanced strength and elegance. 
+Names came and went, but nothing really stuck. 
+Grace was also telling everyone we didn't want a 
+"G" name for obvious reasons. But then one day
+we were looking through a list of saints and 
+found Gwen. We discussed Gwenyth or Gwendlynn
+but after thinking we wanted her to only be 
+known by one name, Gwen it was. Of divine 
+intervention or, at the very least, a beautiful
+coincidence, Saint Gwen's feast day falls
+on October 3!
 
+For her middle name, we considered Goretti
+for Saint Maria Goretti (our parish, the church
+Grace and I were married in, and Grace's 
+confirmation name). Grace worried Gwen could
+end up as G.G. rather than Gwen because of this
+though, so we landed on Maria instead.
 
 ## 10/2/2023 - Induction day
 
