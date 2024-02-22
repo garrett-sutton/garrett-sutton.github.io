@@ -37,7 +37,8 @@ that Gwen was not going to come out without
 some coaxing. We spent the days leading up to
 the induction date doing pretty normal things - 
 dinner at Novanta on Friday night, a long run
-on Saturday while Grace went to mass, and 
+on Saturday while Grace went to Saturday
+morning mass, mass on Sunday morning, and 
 lunch at Buffalo Wild Wings with friends
 while watching the Steelers get boatraced
 by the Texans (sadface). 
@@ -67,6 +68,26 @@ end up as G.G. rather than Gwen because of this
 though, so we landed on Maria instead.
 
 ## 10/2/2023 - Induction day
+We woke up at 4 am on a Monday morning, got a 
+few final things together, some food and hit
+the road by about quarter til 5. We arrived
+at the hospital to dark halls and very few
+people. They got us into a triage room, where  
+we realized Grace's phone was still at home. 
+Once they got Grace got going with some 
+induction things and nurses assured me I had
+time to go home for the phone. I was only 
+slightly nervous.
+
+After I got back, the doctor came into the 
+room for the first time. She mentioned she
+expected the induction to take between 24 &
+48 hours for a first time mom. I realized 
+my nerviousness from my trip home was
+completely unfounded and my estimate of Gwen
+arriving by 2 pm on 10/2 was equally ludacris.
+
+
 
 ## 10/3/2023
 
