@@ -97,9 +97,85 @@ was still somewhat unsure of what to expect of
 childbirth. When you really think about it,
 it's even a bit insensitive to what Grace was
 going to go through later on in the day. 
- 
+
+Around 7 AM, we got moved up to a delivery room
+from the triage room. After that, we spent a 
+good portion of the day just hanging out. Other
+than the fact we weren't in the comforts of our
+own home, it resembled a lazy day. I listened
+to some of the Pittsburgh radio reaction to the
+Steelers loss from the day before. We both read
+books, played on our phones and played cards
+for a little while. Gwen still wasn't super
+anxious to make an appearance. Of note, we did
+not sleep at all during the day after getting
+up at 4 am.
+
+Eventually a shift change happened and the next
+doctor-resident combo came in and met with us. They 
+were presenting the idea of breaking Grace's 
+water and getting things moving a bit faster. 
+Grace obliged and within a few hours, it was
+starting to feel a lot more real. I was also
+starting to feel a lot more tired. I remember we had turned
+on Monday Night Football to watch the Seahawks beat
+up on the Giants. I was dozing in-and-out of the 
+game when Grace started to get strong and more 
+frequent contractions. I got a little bit of rest
+in but was promptly woken up because Grace was really
+starting to feel some pain. Up to this point, she
+was really skeptical on whether or not she would 
+want to get an epidural. I was beat and made the
+very inopportune request for another 30 minutes
+of sleep. To which she replied, "No, I need you now."
+
+She decided on getting the epidural at the
+perfect time and until it
+actually got into her system, there were some  
+painful moments for Grace and tense moments for me as 
+I tried to do what I could to comfort her. After it 
+was placed, we were really in good shape. Grace was able
+to rest a little bit and I was also able to rest a 
+little bit. It wasn't great rest though becasue
+the nurses kept coming back in to make sure things
+were alright. They weren't quite seeing the readings
+they wanted on Gwen (I think maybe on Grace too), so 
+they'd come in to change some sensors around or some
+fluids or something like that. I say it like I was in the 
+dark because it sort of felt like we were a bit in the
+dark. There wasn't anything seriously wrong and I think 
+the nurses just didn't want to alarm us. Having a baby is
+already stressful enough. They didn't want to add to it
+any more than they had to. As I laid on the couch trying
+for sleep through these check-ins, I'd be remiss to not
+mention I prayed for most of that time. There's just not
+much else you can do at that point. Eventually midnight
+came and went. I still had no clue on what to expect 
+on how soon baby Gwen would arrive. 
 
 ## 10/3/2023
+The hours leading up to midnight on 10/2 laid the way
+for the first few hours of 10/3. Nurses checking in,
+Grace and I getting some rest here and there, and not a 
+whole lot else. Grace was pretty much just chilling with
+the epidural. No pain at all at this point. I'm quite glad
+she got it too. At maybe 2 AM, the doctor came in to do a
+check on Grace to see how far along she was. She exclaimed,
+"You're fully dialated!" After a long long day of hanging
+around, it finally felt like we were really close! We'd 
+get to meet our baby Gwen soon!
+
+After another hour, we had our beautiful baby girl!! 
+Grace was remarkable and I managed to stay upright. I did
+give everyone in the room a bit of a scare at one point,
+but based on past experiences I don't think I was even
+close to passing out. Anyway, now we have a baby! Gwen came
+out looking to eat her hands and her mom and automatically grabbed
+my finger when I placed it in her hand. It was
+amazing to see how quickly she could come into the world and
+know what she needed. And then it was awesome for me to be able 
+to interact with her so quickly.
+ 
 
 ## The hospital & coming home
 
