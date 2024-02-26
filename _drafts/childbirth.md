@@ -87,7 +87,17 @@ my nerviousness from my trip home was
 completely unfounded and my estimate of Gwen
 arriving by 2 pm on 10/2 was equally ludacris.
 
-
+While still in the triage room, Grace felt 
+her first contraction. According to her, it
+was really light, but it definitely felt like
+something. I immediately exclaimed "This is
+going to be such a fun day." I think this raw
+reaction really speaks to the fact that I 
+was still somewhat unsure of what to expect of
+childbirth. When you really think about it,
+it's even a bit insensitive to what Grace was
+going to go through later on in the day. 
+ 
 
 ## 10/3/2023
 
