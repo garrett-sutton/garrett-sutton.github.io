@@ -165,7 +165,7 @@ check on Grace to see how far along she was. She exclaimed,
 around, it finally felt like we were really close! We'd 
 get to meet our baby Gwen soon!
 
-After another hour, we had our beautiful baby girl!! 
+And at 3:48 AM, we had our beautiful baby girl!! 
 Grace was remarkable and I managed to stay upright. I did
 give everyone in the room a bit of a scare at one point,
 but based on past experiences I don't think I was even
@@ -175,10 +175,23 @@ my finger when I placed it in her hand. It was
 amazing to see how quickly she could come into the world and
 know what she needed. And then it was awesome for me to be able 
 to interact with her so quickly.
- 
 
 ## The hospital & coming home
+Nurses and doctors did what they needed to do to make sure
+Grace was alright, that Gwen was alright and got Gwen's
+measurements. That all takes time and it took additional time
+to get us up to a postpartum suite. Exhausted, we got ourselves
+situated, I took a shower, and we all took a nap. I don't 
+exagerate when I say this may have been the nicest nap of my life. 
+But it also may have been the most ominous nap of my life. 
+I came to realize that if Gwen woke up, there wasn't going to be
+anyone else to come running in to take care of her. It was up
+to Grace and I. I never gave this thought before Gwen and now we 
+were welcomed into a whole new reality. 
 
+We stayed in the hospital until
+
+We only have a few new parent scares.
 
 ===================
 
