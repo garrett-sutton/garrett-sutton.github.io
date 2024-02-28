@@ -176,7 +176,6 @@ amazing to see how quickly she could come into the world and
 know what she needed. And then it was awesome for me to be able 
 to interact with her so quickly.
 
-## The hospital & coming home
 Nurses and doctors did what they needed to do to make sure
 Grace was alright, that Gwen was alright and got Gwen's
 measurements. That all takes time and it took additional time
@@ -189,7 +188,41 @@ anyone else to come running in to take care of her. It was up
 to Grace and I. I never gave this thought before Gwen and now we 
 were welcomed into a whole new reality. 
 
-We stayed in the hospital until
+## Postpartum & coming home
+After we got to the postpartum suite, I feel like most of the
+rest of the time was spent trying to figure out how to get some
+sleep between doctors/nurses coming to check-in, Gwen's needs,
+and us eating. I will never forget the first night (night of October 3).
+We were obviously still very tired after the marathon that was
+getting through delivery and only getting a few small naps in during the 
+day. To our surprise, Gwen started cluster feeding that night.
+In the classes we'd taken, we didn't fully understand cluster
+feeding. We both took it as, after 24+ hours of life, your baby
+will start to eat basically every hour for another 24 hours. What
+we didn't realize was twofold: 1) They can start this behavior
+before 24 hours of life. It's not like they have a 24 hour clock
+that says "NOW." And 2) This cluster feeding behavior lasts much
+much longer than 24 hours. This constant feeding almost put
+both of us over the edge. Grace obviously had to be up to feed
+Gwen eat time. But I also had to be up becasue Grace was still
+recovering from labor and the effects of the epidural. Without fail, 
+every single time Gwen ate, she immediately pooped. I learned very 
+quickly about changing diapers and trying to swaddle her back
+up. With the meconium in each poop, it wasn't an easy "wipe once
+and done" deal. Each diaper routinely needed a through wiping
+to get the stickiness off too. And then there was figuring out 
+a reliable swaddle that would contain Gwen's arms and hands. 
+Put frankly, it was really hard to keep up with, not get poop 
+everywhere and execute on a double swaddle such that she didn't end 
+up out (and inevitably akes) of it in 10 minutes. Our nurses
+were gracious enough to help when they were in the room, but 
+it was largely still up to Grace and I. 
+
+Aside from the eat, poop, double swaddle flow, we only encountered
+a few other small hurdles long the day. 
+
+We stayed in the hospital until midday Thursday (after arrving
+at 5 am Monday). 
 
 We only have a few new parent scares.
 
