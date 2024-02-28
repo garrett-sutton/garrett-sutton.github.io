@@ -212,19 +212,33 @@ up. With the meconium in each poop, it wasn't an easy "wipe once
 and done" deal. Each diaper routinely needed a through wiping
 to get the stickiness off too. And then there was figuring out 
 a reliable swaddle that would contain Gwen's arms and hands. 
+
 Put frankly, it was really hard to keep up with, not get poop 
 everywhere and execute on a double swaddle such that she didn't end 
-up out (and inevitably akes) of it in 10 minutes. Our nurses
+up out (and inevitably awake) of it in 10 minutes. Our nurses
 were gracious enough to help when they were in the room, but 
-it was largely still up to Grace and I. 
+it was largely up to Grace and I. In these sitautions, 
+I felt a lot of fear. I assume it was partially driven by me
+being tired, but it kept passing through my head that this would
+never end and I would never sleep again. Dramatic - I know. But 
+it was really hard to grapple with. I'll go so far with an 
+absolute statement to say, I blatanly would just give up on
+anything else in the world that was this hard if I was this 
+tired. But you simply can't. 
 
-Aside from the eat, poop, double swaddle flow, we only encountered
-a few other small hurdles long the day. 
-
-We stayed in the hospital until midday Thursday (after arrving
-at 5 am Monday). 
-
-We only have a few new parent scares.
+By Thursday morning (after arriving at 5 AM Monday), we were
+cleared to head home. This was exciting and absolutely 
+terrifying at the same time. I was certainly looking forward
+to sleeping in my own bed and having time with just us and 
+Gwen. On the other hand, there are so many 
+things that could go "wrong" with a little one. In the 
+hospital, it was immensely reassuring to know all you needed to do
+was pull on a cord and all of the nurses would be in to help
+immediately. At home, it was going to be up to Grace and I
+to keep a close eye on baby Gwen for any signs of her not
+doing well. Again, this is one of those parenting realities
+that - I don't think - dawns on you until you're presented
+with it.
 
 ===================
 
