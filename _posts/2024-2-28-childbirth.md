@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Childbirth"
-date:   2024-2-7 12:30:02 -0600
+date:   2024-2-28 12:30:02 -0600
 categories: [ parenting ]
 ---
 
@@ -196,6 +196,8 @@ anyone else to come running in to take care of her. It was up
 to Grace and I. I never had a thought like this before Gwen, but now we 
 were in a whole new reality. 
 
+<p align="center"><img src="/assets/images/gwenBirthday2023.jpg" alt="A very tired mom and dad with with baby Gwen" height="auto" width="50%"></p>
+
 ## Postpartum & coming home
 After we got to the postpartum suite, most of the
 rest of the time at the hospital was spent 
@@ -256,5 +258,7 @@ We got Gwen into her car seat with a minor freak out, to which
 our nurse taught us the trick of swinging the seat (with her 
 fastened in of course). She fell right asleep and stayed asleep
 for the entire ride home. 
+
+<p align="center"><img src="/assets/images/gwenLeavingHospitalOct2023.jpg" alt="Heading home!" height="auto" width="50%"></p>
 
 And we all lived happily ever after. ;)
