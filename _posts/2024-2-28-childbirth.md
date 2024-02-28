@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Childbirth"
+title:  "childbirth"
 date:   2024-2-28 12:30:02 -0600
 categories: [ parenting ]
 ---
