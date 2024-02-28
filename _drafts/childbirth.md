@@ -233,12 +233,19 @@ to sleeping in my own bed and having time with just us and
 Gwen. On the other hand, there are so many 
 things that could go "wrong" with a little one. In the 
 hospital, it was immensely reassuring to know all you needed to do
-was pull on a cord and all of the nurses would be in to help
+was pull a cord and all of the nurses would be in to help
 immediately. At home, it was going to be up to Grace and I
 to keep a close eye on baby Gwen for any signs of her not
 doing well. Again, this is one of those parenting realities
-that - I don't think - dawns on you until you're presented
-with it.
+that - in my opinion - doesn't quite dawns on you until 
+you're presented with it.
+
+We got Gwen into her car seat with a minor freak out, to which
+our nurse taught us the trick of swinging the seat (with her 
+fastened in of course). She fell right asleep and stayed asleep
+for the entire ride home. 
+
+And we all lived happily ever after. ;)
 
 ===================
 
