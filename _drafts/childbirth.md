@@ -10,8 +10,7 @@ You have many thoughts as you're prepping
 to become a parent. There are nine months
 of anxious anticipation and excitement. 
 For me, I spent time 
-pondering about things like what will
-she be interested in and how to guide her
+pondering things like her interests and how to guide her
 through the Church and school and friends. 
 I thought about how much my life would
 change and how Grace and I's relationship
@@ -29,9 +28,9 @@ In early September, Grace let me know that
 she could schedule an induction. So we go 
 from "This baby might come any day" to 
 "You can schedule when this baby comes." 
-So we scheduled an induction for October 2 at 
+We scheduled an induction for October 2 at 
 5 a.m. - a few days
-after the 9/28 due date - per doctor's recommendations.
+after the 9/28 due date.
 For whatever reason, I was pretty convinced 
 that Gwen was not going to come out without
 some coaxing. We spent the days leading up to
@@ -121,23 +120,25 @@ on Monday Night Football to watch the Seahawks beat
 game when Grace started to get strong and more 
 frequent contractions. I got a little bit of rest
 in but was promptly woken up because Grace was 
-starting to feel some pain. Up to this point, she
-was skeptical about whether or not she would 
-want to get an epidural. I let my tiredness get
+starting to feel some more intense pain. I let my tiredness get
 the best of me and made the
 very inopportune request for another 30 minutes
 of sleep. To which she replied, "No, I need you now."
 
-Soon after, she decided to get the epidural. There were some  
+Up to this point, Grace
+was skeptical about whether or not she would 
+want to get an epidural. Soon after the pain had significantly
+intensified, she decided to get the epidural though. There were some  
 painful moments for Grace and tense moments for me as 
-I tried to do what I could to comfort her until the epidural was placed and taking effect. Grace was able
+I tried to do what I could to comfort her until the epidural 
+was placed and had taken effect. Once placed, Grace was able
 to rest a little bit and I was also able to rest a 
 little bit. It wasn't great rest though because
 the nurses kept coming back in to make sure things
 were alright. They weren't quite seeing the readings
 they wanted on Gwen (I think maybe on Grace too), so 
-they'd come in to change some sensors around or some
-fluids or something like that. I say it like I was in the 
+they'd come in to change some sensors around or give some
+fluids or meds. I say it like I was in the 
 dark because it sort of felt like we were a bit in the
 dark. There wasn't anything seriously wrong and I think 
 the nurses just didn't want to alarm us. Having a baby is
@@ -154,7 +155,8 @@ The hours leading up to midnight laid the way
 for the first few hours of 10/3. Nurses checking in,
 Grace and I getting some rest here and there, and not a 
 whole lot else. Grace was pretty much just chilling with
-the epidural. No pain at all at this point. I'm quite glad
+the epidural. No pain at all at this point. In hindsight,
+she's glad she got the epidural, and I'm quite glad
 she got it too. 
 
 At maybe 2 AM, the doctor came in to do a
@@ -163,7 +165,7 @@ check on Grace to see how far along she was. She exclaimed,
 around, it finally felt like we were close! We'd 
 get to meet our baby Gwen soon!
 
-And at 3:48 AM on 10/3, we had our beautiful baby girl!! 
+And by 3:48 AM on 10/3, we met our beautiful baby girl!! 
 Grace was remarkable and I managed to stay upright. I did
 give everyone in the room a bit of a scare at one point,
 but based on past experiences I don't think I was even
@@ -183,32 +185,38 @@ be fully realized.
 Nurses and doctors did what they needed to do to make sure
 Grace was alright, that Gwen was alright, and got Gwen's
 measurements. That all takes time and it took additional time
-to get us up to a postpartum suite. Exhausted, we got ourselves
+to get us up to a postpartum suite. We eventually made
+it to the new room at an unknown time to me. All I remember is
+that the sun was up. Exhausted, we got ourselves
 situated, I took a shower, and we all took a nap. I don't 
 exaggerate when I say this may have been the nicest nap of my life. 
 But it also may have been the most ominous nap of my life. 
 I came to realize that if Gwen woke up, there wasn't going to be
 anyone else to come running in to take care of her. It was up
-to Grace and I. I never gave this thought before Gwen and now we 
-were welcomed into a whole new reality. 
+to Grace and I. I never had a thought like this before Gwen, but now we 
+were in a whole new reality. 
 
 ## Postpartum & coming home
-After we got to the postpartum suite, I feel like most of the
-rest of the time was spent trying to figure out how to get some
+After we got to the postpartum suite, most of the
+rest of the time at the hospital was spent 
+trying to figure out how to get some
 sleep between doctors/nurses coming to check in, Gwen's needs,
-and us eating. I will never forget the first night (night of October 3).
+and us eating. 
+
+I will never forget the first night (night of October 3).
 We were still very tired after the marathon that was
 getting through delivery and only getting a few small naps in during the 
 day. To our surprise, Gwen started cluster feeding that night.
-In the classes we'd taken, we didn't fully understand cluster
-feeding. We both took it as, after 24+ hours of life, your baby
+From the classes we took on infant care, we understood cluster feeding
+as after 24+ hours of life, your baby
 will start to eat every hour for another 24 hours. What
 we didn't realize was twofold: 1) They can start this behavior
 before 24 hours of life. It's not like they have a 24-hour clock
 that says "NOW." And 2) This cluster-feeding behavior lasts 
 much longer than 24 hours. This constant feeding almost put
 both of us over the edge. Grace obviously had to be up to feed
-Gwen each time. But I also had to be up to change her and get her back to sleep because Grace was still
+Gwen each time. But I also had to be up to change her 
+and get her back to sleep because Grace was still
 recovering from labor and the effects of the epidural. Without fail, 
 every single time Gwen ate, she immediately pooped. I learned very 
 quickly about changing diapers and trying to swaddle her back
@@ -219,14 +227,14 @@ a reliable swaddle that would contain Gwen's arms and hands.
 
 Put frankly, it was really hard to keep up with, not get poop 
 everywhere and execute on a double swaddle such that she didn't end 
-up out (and inevitably awake) of it in 10 minutes. Our nurses
+up out of (and inevitably awake) in 10 minutes. Our nurses
 were gracious enough to help when they were in the room, but 
 it was largely up to Grace and me. In these situations, 
 I felt a lot of fear. I assume it was partially driven by my
 being tired, but it kept passing through my head that this would
 never end and I would never sleep again. Dramatic - I know. But 
-it was really hard to grapple with. I'll go so far with an 
-absolute statement to say, that I blatantly would just give up on
+it was really hard to grapple with. I'll go so far as saying
+I probably would just give up on
 anything else in the world that was this hard if I was this 
 tired. But you simply can't. 
 
