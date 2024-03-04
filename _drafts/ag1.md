@@ -6,7 +6,20 @@ categories: [ preoccupations ]
 ---
 To set the stage, I started looking into AG1 in mid-late
 2023 after hearing pretty much every podcast I listen 
-to offer a discount code for it. And to my pleasant
+to offer a discount code for it. 
+
+From [AG1's website](https://drinkag1.com/):
+```text
+AG1 is a daily Foundational Nutrition
+supplement that supports whole body health.
+AG1 is designed to replace multiple 
+supplements by covering nutritional gaps 
+with a comprehensive blend of nutrients. 
+Just one tasty scoop each day helps meet 
+your foundational health needs.
+```
+
+To my pleasant
 surprise, my mother-in-law gave me AG1 for 
 Christmas 2023. I drank it every morning during the month 
 of January 2024. In this post, I'll share my
