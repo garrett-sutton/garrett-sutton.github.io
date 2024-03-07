@@ -52,7 +52,36 @@ it sits for a given amount of time, the powder just
 falls to the bottom of the cup. 
 
 ## How do I feel?
-<todo>Feeling better than coffee? Any weird feelings</todo>
+I drank Mudwtr in place of coffee on a few days and 
+in addition to coffee on others. For only Mudwtr 
+instances, I think I felt fine for the day. I think I 
+was also off work at the time (just after Christmas) and
+I may have just been able to sleep enough that I didn't
+feel the need.
+
+When I drank coffee and then Mudwtr, I felt that I could
+drink the Mudwtr later in the day and not feel weird about
+having caffiene to late in the day. I think I was generally
+more awake after drinking it too.
+
+If you've made it this far, you're probably begging me 
+to get to the point. In general, Mudwtr didn't make me
+feel overly caffinated (as they market) and I probably 
+didn't drink it when I was overly tired to rely on it
+for a true boost. Since I drink about 1-2 cups of coffee
+per day, I'm likely not missing out on the caffiene in 
+the same way as someone who averages 3-4 cups of coffee
+per day.
 
 ## Would I buy it?
-<todo>Given the other pieces above, would I buy it?</todo>
+Since finishing the Mudwtr that I was gifted, I've 
+thought about buying it on several occassions. Each
+time I come to the conclusion of no because:
+- I didn't immediately fall in love with the taste.
+- It's still more expensive than coffee and I don't
+drink all that much coffee.
+- I recently discovered green tea might be an even
+better substitute to the afternoon cup of coffee.
+I can buy that for much cheaper than Mudwtr or
+get it for free at work. 
+
