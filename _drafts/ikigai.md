@@ -22,3 +22,11 @@ Zones, and provide insights to readers on how
 you also may live a long and happy life.  
 
 
+Key points:
+- save yourself from stress
+- find your passion. such that you can be busy
+in a meaningful and not too stressful way.
+   - "flows"
+- have friends
+- eat well
+- move
