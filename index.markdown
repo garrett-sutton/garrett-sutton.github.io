@@ -15,5 +15,6 @@ Welcome weary traveler. This is my blog. Here you'll find a
 
 The most recent books I've read:
 {% for post in site.categories.zz_books limit:3 %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+ <li> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
+<br>
