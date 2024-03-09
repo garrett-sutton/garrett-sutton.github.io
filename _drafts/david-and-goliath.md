@@ -109,6 +109,9 @@ fall-back school (as I percieved it at the time) may have
 been the best thing for me.
 
 ## Parenting bit
+small vs big class sizes for kids
+money - saying no because can't afford vs no because you just aren't
+
 
 ## Being in a state of challenge - doing hard things
 
