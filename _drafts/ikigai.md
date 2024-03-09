@@ -2,7 +2,7 @@
 layout: post
 title:  "Ikigai"
 date:   2024-3-6 12:30:02 -0600
-categories: [ preoccupations, zz_books ]
+categories: [ zz_books ]
 ---
 
 Ikigai was given to me out of the blue by 
