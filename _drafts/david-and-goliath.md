@@ -108,7 +108,28 @@ best school we can possibly imagine. For me, going to the
 fall-back school (as I percieved it at the time) may have
 been the best thing for me.
 
-## Parenting bit
+## Being in a state of challenge
+David and Goliath highlights that there are some cases
+where underdogs overcome because of how much of an 
+underdog they are. These stories include people who 
+grew up in lower class neighborhoods, were the children
+of single parents or immigrants, and have learning
+disabilities. Gladwell makes the point that - sometimes -
+these folks achieve great things because all they have
+ever known is struggle. Other people may give up when
+faced with problems or have the resources to avoid 
+certain problems. 
+
+I found this section of the book really interesting, 
+largely because this is a recurring theme  
+in my internet and Youtube browsing. I've never 
+explicitly said "I want to do hard things," but I have
+expressed my reservations about the idea of beach vacations 
+and the like because anyone can do them. I've wanted to do 
+things that other people just can't do. I think my favorite
+hobbies being endurance sports have probably contributed
+to that sickness.
+
 small vs big class sizes for kids
 money - saying no because can't afford vs no because you just aren't
 
