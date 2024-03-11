@@ -122,13 +122,21 @@ certain problems.
 
 I found this section of the book really interesting, 
 largely because this is a recurring theme  
-in my internet and Youtube browsing. I've never 
-explicitly said "I want to do hard things," but I have
-expressed my reservations about the idea of beach vacations 
-and the like because anyone can do them. I've wanted to do 
-things that other people just can't do. I think my favorite
-hobbies being endurance sports have probably contributed
-to that sickness.
+from my recent internet and Youtube browsing. Elsewhere, I've 
+been hearing it called out that it is good for us as
+humans to do hard things. Throughout most of human history,
+we have known constant conflict. Only recently, with 
+the development of modern technologies, modern medicine, and a 
+dramatic increase in wealth, have we started to 
+routinely experience a life that is notably easier than
+previous generations. Even still, the world isn't always
+rainbows and gumdrops. We aren't void of hard things. 
+But if we don't have experience dealing with stressful
+situations, we won't know how to handle stressful 
+situtaions that we are presented with. It's not perfect,
+but it feels fruitful to subject ourselves to voluntary
+stress to give ourselves confidence that we can do 
+actually hard things when they are presented to us. 
 
 small vs big class sizes for kids
 money - saying no because can't afford vs no because you just aren't
