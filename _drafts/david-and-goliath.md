@@ -108,7 +108,7 @@ best school we can possibly imagine. For me, going to the
 fall-back school (as I percieved it at the time) may have
 been the best thing for me.
 
-## Being in a state of challenge
+## Doing hard things
 David and Goliath highlights that there are some cases
 where underdogs overcome because of how much of an 
 underdog they are. These stories include people who 
@@ -138,10 +138,52 @@ but it feels fruitful to subject ourselves to voluntary
 stress to give ourselves confidence that we can do 
 actually hard things when they are presented to us. 
 
-small vs big class sizes for kids
-money - saying no because can't afford vs no because you just aren't
+Reading about and watching people do hard things can
+be inspiring, but I think it still takes a fair bit
+of willpower and introspection to seek it out for
+yourself. As someone who runs a fair amount, I can 
+definitely fall into the trap of thinking I do hard 
+things because I get up at 5:30, run on most 
+mornings, and other people don't do that. Yes, 
+getting up some mornings is hard. Yes, running isn't
+necessarily an easy activity. But there comes a point
+that getting up and running each morning is so
+routine that it's not necessarily a hard thing
+anymore. It feels important to be aware of this. At
+that point, you've got to find additional hard 
+things to take on. I think the answer is probably
+obvious but may take some time to accept. The next 
+hard thing is the thing you're dreading to do or
+making excuses about doing. At
+the time of writing this, that thing for me feels like
+waking up a bit earlier, running more miles and 
+introducing a workout (tempo, intervals, etc) into
+the routine each week.
+
+## Being aware of doing hard things while raising kids
+Gladwell tells an additional story about someone who 
+grew up in lower class neighborhood and has worked to 
+become one of the most successful people in Hollywood. 
+The way that he grew up is drastically different from 
+the way that his kids will grow up. The point is made
+that this guy grew up in a reality where his parents
+could tell him no because they couldn't afford it. But now, his wealth precludes him from using this same 
+logic on his own kids. The former is probably much
+simpler from the parent's standpoint. 
+
+I've heard it said that all parents hope their 
+kids have it better than they do. I think the previous 
+story adds an interesting wrinkle to this goal of 
+parents. Many self made people have worked very hard,
+overcame challenges and 
+"made it." The end goal is largely a better life for
+themselves and their family. But it is interesting that 
+now, the struggle that may have contributed heavily
+to their worldly success could be missing from their 
+children's lives. As a very young parent at this point, 
+I hope I keep this 
+in mind in the future. Though yes, I want the very best
+for my kids, Grace and I also have to keep in mind that
+overcoming adversity is important for shaping kids.
 
 
-## Being in a state of challenge - doing hard things
-
-## When goliath isn't humble
