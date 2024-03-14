@@ -16,7 +16,7 @@ There are a few exemplary communities
 in our world that have strikingly high numbers 
 of very old people. These communities are
 known as the Blue Zones. 
-Ikigai seeks to _explore_ the people of the
+Ikigai seeks to explore the people of the
 Japanese island of Okinawa, one of those Blue
 Zones, and provide insights to readers on how
 you also may live a long and happy life.  
@@ -34,3 +34,19 @@ way
    - eating only until you're 80% full
 - regular low intensity exercise
 
+## My takeaways
+### limiting stress
+I've been aware that stress is a known carcinogen.
+Reading this section was enlightening to hear that 
+importance again. I feel like this is an area for
+me to improve on.
+
+### friends
+Though maybe not emphasized as much as other 
+pieces of the book, almost every story told in the
+book invlved people doing things with their friends.
+
+
+### eating
+I've been on a tirade for the better part of a year
+now that we eat too much sugar.
