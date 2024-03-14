@@ -21,12 +21,16 @@ Japanese island of Okinawa, one of those Blue
 Zones, and provide insights to readers on how
 you also may live a long and happy life.  
 
-
-Key points:
-- save yourself from stress
-- find your passion. such that you can be busy
-in a meaningful and not too stressful way.
-   - "flows"
-- have friends
+Ikigai goes through several factors that it attributes
+to the longevity of the people of Okinawa, including:
+- limiting your stress
+- finding your passion (your ikigai) and letting it
+keep you busy in a meaningful but not too stressful
+way
+- have friends and spend time with them consistently
 - eat well
-- move
+   - lots of vegetables
+   - limited amounts of sugar
+   - eating only until you're 80% full
+- regular low intensity exercise
+
