@@ -49,7 +49,7 @@ your happiness. Similar to what I said about stress
 having a generally positive attitude helps us
 live in the moment and enjoy life more. I think that
 our attitude toward a situation likely has a heavy 
-influence on the situation.
+influence on the outcome of the situation.
 
 ### finding your ikigai
 There is a nice diagram that describes your ikigai 
@@ -61,7 +61,7 @@ the morning.
 I found it interesting how this part of the book
 wasn't encouraging people to simply follow their
 passion like we often hear in our society. I took
-It is more like seeking to understand yourself in
+it more like seeking to understand yourself in
 such a way that you can do something for
 society that you love and are good at. Because of
 the value added to society, it's easy to keep 
@@ -90,7 +90,7 @@ limiting the amount of sugar that we consume. I'll
 continue to contend that I am not anti-dessert. I'm
 just anti-sugar that exists in all of the foods 
 that you wouldn't even think have sugar in them. In 
-reality, that's most of the processed food you buy
+reality, that's most of the packaged food you buy
 at the grocery store. 
 
 The specific pieces the book attributes to a healthy
