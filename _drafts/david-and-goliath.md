@@ -23,7 +23,7 @@ in the book that provoked me and why.
 Society typically pushes kids these days to go to
 the best school they can get into. And the luster
 around going to an elite school also appeals to the
-student. However; David and Goliath make the 
+student. However; David and Goliath makes the 
 point that going to the "better" school (especially
 in the case where it is the student's reach school)
 isn't always better for every student. In fact, 
@@ -40,12 +40,12 @@ As a general sports fan wanting to "prove"
 myself, I dreamt of running at a Division 1 school.
 I had a few race results that allowed me to have
 some conversations with some Division 1 coaches,
-so I had some hope. At the same time, I was a 
+so I had hope. At the same time, I was a 
 big fish in a little pond. My high school was in the
 smaller school divisions of competition and I was 
 one of the only guys on my team that took running
 very seriously. For a while, I leaned into the fact
-that I was having a few visits at division 1 schools
+that I was having a few visits at Division 1 schools
 and neglected the later fact. In the classroom, I had
 some teachers that were saying things like "engineering
 students are best off going to bigger schools." And in 
@@ -72,8 +72,7 @@ my teammates rather than having to try to prove to myself
 every day that I wasn't the worst guy on the team.
 
 I did well in school, finished with a high GPA, and got
-the job Epic (a company that allegedly cares a lot 
-about GPA) that I'm still working at nearly 5 years later. 
+a job at Epic - the company I'm still working at nearly 5 years later. 
 I attribute at least some of my academic success to 
 still feeling like a big fish in a little pond. Given the
 smaller class sizes at Gannon, I got to know almost all of 
@@ -83,7 +82,7 @@ it was just me, just them, or all of us struggling. I
 think this access to peers was helpful for me to
 overcome any imposter syndrome I faced during college.
 The Gannon experience was far from perfect, but generally
-speaking, it worked out for me (I did meet Grace here too ;)).
+speaking, it worked out for me (& I did meet Grace here too ;)).
 
 Conversely, I've talked with those friends who went to Penn 
 State (and did really really well while there), and I'm not 
@@ -121,7 +120,7 @@ certain problems.
 I found this section of the book interesting, 
 largely because this is a recurring theme  
 from my recent internet and YouTube browsing. Elsewhere, I've 
-been hearing it called out that it is good for us as
+been hearing it called out that it is good for us
 humans to do hard things. Throughout most of human history,
 we have known constant conflict. Only recently, with 
 the development of modern technologies, modern medicine, and a 
@@ -156,7 +155,8 @@ making excuses about doing. At
 the time of writing this, that thing for me feels like
 waking up a bit earlier, running more miles and 
 introducing a workout (tempo, intervals, etc) into
-the routine each week. And the big bugaboo is to sign up for a race!
+the routine each week. And the biggest bugaboo is 
+to sign up for a race!
 
 
 ## Being aware of doing hard things while raising kids
@@ -166,7 +166,8 @@ become one of the most successful people in Hollywood.
 The way that he grew up is drastically different from 
 the way that his kids will grow up. The point is made
 that this guy grew up in a reality where his parents
-could tell him no because they couldn't afford it. But now, his wealth precludes him from using this same 
+could tell him no because they couldn't afford it. 
+But now, his wealth precludes him from using this same 
 logic on his own kids. The former is probably much
 simpler from the parent's standpoint. 
 
