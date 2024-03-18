@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "David and Goliath by Malcolm Gladwell"
-date:   2024-3-6 12:30:02 -0600
+date:   2024-3-17 12:30:02 -0600
 categories: [ zz_books ]
 ---
 I read David and Goliath over the holiday season 
