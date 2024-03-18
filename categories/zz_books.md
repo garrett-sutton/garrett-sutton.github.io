@@ -1,6 +1,6 @@
 ---
 layout: page
-title: zz_skiing
+title: zz_books
 ---
 
 <h4>Books that I have read and felt like writing about.</h4>
