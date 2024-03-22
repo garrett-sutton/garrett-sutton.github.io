@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Sabbatical Transportation and Lodging Plan"
-date:   2024-1-17 12:30:02 -0600
+title:  "Transportation and Lodging Plan"
+date:   2024-3-21 12:30:02 -0600
 categories: [ travel, zz_sabbatical-2024 ]
 ---
 
@@ -37,11 +37,12 @@ On Saturday, I think we'll be all in on the Tour.
 La Colmiane is the penultimate climb of the day. We'll
 likely hang out around our place until the race comes
 through and make our way back to Nice after the stage.
-We have a hotel booked in Nice for Saturday night. It's 
+We have a hotel booked in Nice for Saturday and
+Sunday nights. It's 
 still up in the air on whether we'll return the rental
 car or keep it and find public parking for it on 
-Saturday and Sunday night. Our hotel for Saturday and
-Sunday night doesn't have any parking. 
+Saturday and Sunday night. Our hotel in Nice
+doesn't have any parking. 
 
 For Sunday in Nice, we should be able to go to mass
 close to our hotel and then take an easy walk to 
@@ -78,7 +79,7 @@ competition on Saturday and beach volleyball
 on Sunday. For all of our Paris navigation, we'll
 use the train system. It's likely a 90-minute
 train ride to the rowing center. And about a 
-The 30-minute train ride from the hotel to the
+30-minute train ride from the hotel to the
 Eiffel Tower for Sunday. 
 
 ## Normandy
@@ -96,7 +97,9 @@ We've considered taking a train to Normandy from
 Paris, but it seems logistically harder and 
 probably more expensive because:
 - need to stay somewhere close to the train station
-in Bayeaux (unless we look for more public transit)
+in Bayeaux (unless we look for more public transit,
+but Normandy has less public transit than other
+parts of France)
 - need to carry all of our bags with us on Tuesday
 after we've already checked out of the hotel
 - probably need to find a bus tour or some other
