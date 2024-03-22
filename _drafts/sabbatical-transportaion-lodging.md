@@ -63,3 +63,54 @@ that we were looking at required renting for at least 4
 days. We were looking to do 3 days maximum. 
 
 ## Briançon / The Alps
+We'll stay in Briançon until Friday, likely making 
+small day trips from our airbnb and exploring the 
+highest altitude village in France. On Friday 
+morning, we'll start making our way to Paris.
+
+## Paris
+To get to Paris, we'll drive from Briançon to Lyon
+and catch a train from Lyon to Paris. In Paris,
+we have a hotel booked in the 6th Arrondissement
+for Friday, Saturday, and Sunday night. While in Paris,
+we're planning on going to the Olympic rowing 
+competition on Saturday and beach volleyball 
+on Sunday. For all of our Paris navigation, we'll
+use the train system. It's likely a 90 minute
+train ride to the rowing center. And about a 
+30 minute train ride from the hotel to the
+Eiffel Tower for Sunday. 
+
+## Normandy
+In Normandy we anticipate that we'll need a car
+to get around to the various landmarks. Given the
+need for the car, I think we'll plan to rent a 
+car in Paris on Monday morning to drive 3 hours 
+west to Normandy. We get some flexibility from this and 
+are not beholden to the train schedule when we
+come back on Tuesday night. We have a hotel
+booked just outside of Bayeaux (the town closest
+to the D-Day beaches) for Monday night.
+
+We've considered taking a train to Normandy from
+Paris, but it seems logistically harder and 
+probably more expensive because:
+- need to stay somewhere close to the train station
+in Bayeaux (unless we look for more public transit)
+- need to carry all of our bags with us on Tuesday
+after we've already checked out of the hotel
+- probaby need to find a bus tour or some other
+form of public transportation to actually make it
+to the D-Day beaches.
+
+Though it'd be more relaxing if we rode the train
+from Paris and then rented
+a car in Normandy to see everything, we'd still 
+have to pay for the car for a day. 
+
+In the end,
+it seems like the most cost effective and convienent
+option to just rent a car. We'll drive back to 
+Paris on Tuesday night and stay in a hotel 
+close to the airport so that we're right there
+on Wednesday for our flight back home.
