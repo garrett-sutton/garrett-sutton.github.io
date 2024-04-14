@@ -9,10 +9,11 @@ categories: [ parenting ]
 Long before Grace was pregnant with Gwen, I
 was warned about how long it takes to 
 get a baby into daycare. So when we found
-out Grace was expecting, one of our early
+out we were expecting, one of our early
 stresses was to find a daycare. To our 
 suprise, we were able to get into a daycare
-for March 1. This beats the seemingly forever
+for March 1 (Gwen would be ~5 months old). 
+This beats the seemingly forever
 wait lists that we heard about at other
 places. Even though we were getting into a 
 daycare with relative ease, it still wasn't
@@ -25,17 +26,23 @@ aunt, her parents (for 2 weeks), my aunt,
 and my mom. And I got to fill in for 
 2 separate weeks too! 
 
+The focus of this post is largely to recap
+the 2 weeks that I spent at home with Gwen.
+
 ### week 1
 Gwen had just turned 4 months old. This was
-a good week. Several walks. I have notes on 
-this in issue.
-I feel like this was a bit of an eye opening
-week. I definitely did some battling with
-her to sleep during the day. It's certainly 
-difficult. I feel like I was trying to check
-off some boxes around the house while she slept, 
-but it was difficult to get going at times
-if Gwen only sleeps for 30-40 minutes.
+a good week. We went on several walks and Gwen 
+was generally pretty happy while she was awake. 
+
+At the same time, this was a bit of an eye opening
+week. There's not a lot of down time with a 4 month
+old. I was trying to check a few boxes during this 
+week that turned out to be hard to check when
+Gwen only slept for 30-40 minutes at a time. I 
+also had to work for some of that sleep too, trying a
+few times to actually get her asleep. In the
+same breath, she did give me some longer naps
+that no one else was able to get out of her.
 
 <p align="center"><img src="/assets/images/gwenInSwingFeb2024.jpg" alt="Gwen hanging out in her swing for some Gwen time. Feb 6, 2024" height="auto" width="50%"></p>
 
