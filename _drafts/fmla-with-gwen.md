@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Taking time off with Gwen"
+title:  "At home with Gwen"
 date:   2024-4-8 12:30:02 -0600
 categories: [ parenting ]
 ---
 
-## why did i do this? circumstances?
+## getting Gwen into daycare
 Long before Grace was pregnant with Gwen, I
 was warned about how long it takes to 
 get a baby into daycare. So when we found
