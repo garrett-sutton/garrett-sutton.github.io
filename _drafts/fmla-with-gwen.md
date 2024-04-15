@@ -57,7 +57,7 @@ about this week, but I wouldn't say it went
 to stretch her food a bit longer and keep her
 awake until she was definitely tired. I 
 had lower expectations on what I wanted to 
-get done this week. I think we still made it out 
+get done this week though. I think we still made it out 
 for a few walks that helped her get some
 sleep later in the day.
 
@@ -66,7 +66,7 @@ sleep later in the day.
 ## wrap up
 As a new dad, I'm really glad that the 
 opportunity to stay home with Gwen for a few
-weeks presented itself the way that it did.
+weeks presented itself in the way that it did.
 With only being off for 2 weeks after she
 was born, I don't think I had the time to fully
 shut off from work then. I distinctly remember
