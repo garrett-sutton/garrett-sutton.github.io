@@ -35,7 +35,8 @@ a good week. We went on several walks and Gwen
 was generally pretty happy while she was awake. 
 
 At the same time, this was a bit of an eye-opening
-week. There's not a lot of downtime with a 4-month-old. I was trying to check a few boxes during this 
+week. There's not a lot of downtime with a 4-month-old. 
+I was trying to check a few boxes during this 
 week that turned out to be hard to check when
 Gwen only slept for 30-40 minutes at a time. I 
 also had to work for some of that sleep too, trying a
