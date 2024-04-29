@@ -104,5 +104,62 @@ months older than she was when we traveled over Christmas, and she was
 much easier this time around too. 
 
 ## Family and friends
-conceptualize and give "credit" to all of the people that
-we got to see.
+Each time we make a trip to my parents, there are always a number 
+of people to see in a short amount of time. My mom and dad are both 
+from big families, so there are a lot of aunts, uncles, and cousins.
+Add in a few friends from high school and it's a packed schedule. 
+This trip followed the same theme but with it being Gwen's first 
+trip to PA, it was to the Nth degree. One cousin
+was at my parents when we arrived at 9:30 PM on Saturday. Another
+cousin and her family -- plus grandma -- came for dinner on Sunday (and 
+another uncle popped in for a second to say hi too).
+2 Aunts & Uncles, plus Granny again, came over for dinner on Wednesday
+(for Granny's 89th birthday). Another cousin and her kids came to play
+on Thursday morning. And then some family friends were over 
+during the day on Thursday. On Friday, the cousin who was over for
+dinner on Sunday came back with her 2 little girls to play with
+Gwen again. Then another aunt, uncle, and cousin swung by around 
+dinner time. Saturday was a friend day. A group of close friends
+came to my parents for breakfast and then Grace and I went to play 
+games with those friends later that night. On Easter Sunday, yet
+another Aunt and her kids came for dinner. 
+
+In addition to the constant flow of people at my parent's house, we
+made the daytrip to my sister-in-laws - remember? This was also
+really nice. Grace's parents made the trip down from NY while her
+brothers came up from D.C. for Monday evening. Sharing a couple of nice 
+dinners, exploring their new house and surrounding area, and getting to 
+share some laughs with everyone made the trip well worth it. 
+
+Those details are likely
+way more than you've probably cared to read, but I highlight it
+for my own sake. We're very blessed to have these people in our lives 
+and I'd be remiss to not remember them all as part of how nice this
+trip was. 
+
+Gwen did extremely well with all of the new faces over the course
+of the trip. She played well from all over the place. My aunt
+shared a baby bouncer for Gwen to use and she absolutely loved
+it. Outside of the bouncer, she was rolling over and nearly sitting up 
+unassisted by the end of the week. She even did her first tummy to
+back roll (on 3/29)!. She ate super well and continued to 
+love the solid food she was given -- I think she just had peas and 
+carrots.  
+
+## One small hiccup
+There is one small piece worth noting that didn't go so well this week. 
+I call it small now -- writing this over a month later -- but it
+certainly didn't feel small at the time. Gwen's bad night of sleep 
+the night before we left for PA seemed to somehow stick with her 
+for the entirety of the trip and for about a week when we got back
+home. I suspect this is due to a variety of factors (in no particular
+order of significance). First, with the constant attention and 
+stimulation I've highlighted above, I think she may have just been 
+wired. Next, she was getting over a cold and so naturally, her sleep 
+was going to be a bit off. Then she was sleeping in the same room
+as Grace and I again. We had just moved her to her
+crib about 2 weeks prior to this trip. All of this (and I'm sure other 
+factors) feel like they contributed to the poor sleep she got during
+and after this trip. Even with the poor sleep though, she was a 
+really good baby. She was a champ throughout traveling and seemed
+really happy all week long.
