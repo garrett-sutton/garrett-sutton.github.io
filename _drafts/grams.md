@@ -19,14 +19,12 @@ I feel like this is the exact scenario that
 everyone talks about with grandparents - 
 showing up basically unannounced in an effort to
 see grand babies. Because we're 10+ hours away
-from either of our families, we likely get a few
-weeks of buffer rather than no notice at all. 
-In any case, there's got to be a really good
-reason to say no. And in this scenario, we had no 
-excuses. I should also call out that I am by no 
-means saying that I was against my mom and 
+from either of our families, we're a bit  
+insulated from impromptu drop-ins. I should also 
+call out that I wasn't against my mom and 
 mother-in-law coming to visit. It's always nice
-to have people come to visit. And with more hands
+to have people come to visit. I was largely just 
+surprised. With more hands
 in the house -- espeically Grandma hands -- to help
 with Gwen, Grace and I's lives get a bit easier too.
 
@@ -46,7 +44,7 @@ families live so far away. For 99% of our time, we
 live in a reality were we can do things as we see
 fit without pressure from our parents' influence.
 So when they do come to visit every so often, there is
-an inevitable fear that they can exert some 
+an inevitable feeling that they can exert some 
 sort of influence over Gwen. In other words, this is 
 a situation we just aren't used to and it feels like
 there are unknown unknowns.
@@ -57,9 +55,9 @@ front of mind with none other than my Grandma. The
 motives behind why my Grandma brought this up while
 we were on the phone is another subject entirely, but
 as we were talking, she said something along the lines of
-She is your kid (referring to Gwen) and you need to 
-put your foot down with her Grand mothers if you see 
-fit. I sort of laughed this off at the time, but it 
+"She is your kid (referring to Gwen) and you need to 
+put your foot down with her Grandmothers if you see 
+fit". I sort of laughed this off at the time, but it 
 does continue to ring in my head a bit. I think by the 
 nature of the relationship between grandparents, parents,
 and children, there is likely to always be at least
@@ -105,7 +103,7 @@ We kept with the standard GS Saturday routine and hit up
 a coffee shop on the way home. 
 
 My mother-in-law has been raving about playing disc 
-golf recnetly, and brought along her discs. Neither Grace, nor
+golf recently, and brought along her discs. Neither Grace, nor
 my mom, nor I had ever played before, so we went
 to the disc golf course nearby to try it out. Like I mentioned 
 before, Grace and I's lives do get a bit easier when we have 
@@ -116,15 +114,15 @@ I wasn't very good. I don't think I've every been great at
 throwing a frisbee, so this experience simply reaffirmed that. 
 It was fun to play though. It was nice to be outside and have
 a low stakes activity to keep us preocuppied with. 
-All while we played frisbee, Grace managed to get Gwen to sleep 
-in the jogging stroller, so we were nicely able to push her along 
+Grace managed to get Gwen to sleep in the jogging stroller 
+at the beginning of our round, so we were nicely able to push her along 
 the course and keep playing. 
 
 After making it back from disc golf, we all got ourselves together
 and made it to 5 pm mass at Queen of Peace. This was some new
 territory for Grace and I as parents. Typically we are trying to
-get Gwen to sleep through mass because it's at 8:30 - usually 
-a well suited for her to sleep. On the other hand,
+get Gwen to sleep through mass because it's at 8:30 -  
+a well suited time for her to nap. On the other hand,
 there isn't probably a much worse time for her to sleep than at or
 after 5 pm. So we had Gwen out of her seat for most of mass. She 
 happily bounced with me, sat between Grace and I in the pew, and 
@@ -134,5 +132,3 @@ Gram and Grammy were on their way
 the next morning. They seemed to have had a really nice week
 with Gwen. Gwen sure loved the attention. And Grace and I 
 enjoyed the company and a bit of a repreive. 
-
-
