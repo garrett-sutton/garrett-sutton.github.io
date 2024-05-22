@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Grams are coming to visit"
-date:   2024-4-30 12:30:02 -0600
+date:   2024-5-21 12:30:02 -0600
 categories: [ parenting ]
 ---
 
@@ -83,6 +83,8 @@ Also on Friday, Grace took a half of a day
 and they ventured out to the Chazen Art Museum for a 
 full cultural experience.
 
+<p align="center"><img src="/assets/images/gramGwenFeedApr2024.jpg" alt="Gram holding Gwen and Gwen holding bottle" height="auto" width="50%"></p>
+
 With the additional help, Grace and I were able to 
 have a nice evening out for our 3rd wedding anniversary.
 We do get a decent amount of time to
@@ -97,7 +99,7 @@ meandered through the trees with her grams, eventually
 finding a nice spot to play under a beautiful magnolia
 tree.  
 
-<TODO: add picture of Gwen under the trees>
+<p align="center"><img src="/assets/images/grammyGwenArbApr2024.jpg" alt="Grammy and Gwen under magnolia tree in UW arboretum" height="auto" width="50%"></p>
 
 We kept with the standard GS Saturday routine and hit up
 a coffee shop on the way home. 
