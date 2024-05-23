@@ -57,9 +57,8 @@ as we were talking, she said something along the lines of
 "She is your kid (referring to Gwen) and you need to 
 put your foot down with her Grandmothers if you see 
 fit". I sort of laughed this off at the time, but it 
-does continue to ring in my head a bit. I think by the 
-nature of the relationship between grandparents, parents,
-and children, there is likely to always be at least
+does continue to ring in my head a bit. Though
+always in the interest of love, there is likely to always be at least
 a bit of a tension in how grandparents and parents seek
 to influence children. 
 
