@@ -51,9 +51,33 @@ production, and execution
 
 ## What are my takeaways?
 ### there wasn't just one thing
+I haven't necessarily read anything about WW2 that
+says a single factor or thing led to Allied victory,
+but this book really emphasizes how many different
+factors played a role. I found it interesting that,
+from what I understood, it really was quite the
+opposite; there are so many different pieces that
+fit into the puzzle of victory. The leaders, the
+planners, the actual soldiers, and the engineers of
+the weapons used in the field all play a vital role
+in the human aspect of the war. At the same time,
+the natural resource rich US, and technology that
+utilized those resources cannot be understated. And 
+then, there's the situational factors like weather
+and geography that I never considered prior to 
+reading this book. Some of these factors are more
+concrete than others. Some contributed to Allied
+success and did so entirely out of good fortune. This
+is the prime example of it takes many parts to
+make up the whole.  
 
--- the book does a great job of 
-highlighting the parallel nature of the war
+### Parallel War
+Often when I have read about WW2, it has been about
+the European theater or the Pacific theter. The part
+that I never really considered until now is that 
+these theaters of war are intimately connected to 
+one another. The US must allocate resources to 
+serve both interests.
 
 -- interconnectedness of everything and
 the management of that everything is applicable
@@ -65,3 +89,4 @@ operationalize - let it not be forgotten
 that the engineers in ww2 are absolutely vital to 
 allied victory. American resources coupled
 with ingenuity made for a formiddable foe.
+This book left me inspired to make an impact.
