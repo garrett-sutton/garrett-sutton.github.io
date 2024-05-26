@@ -217,3 +217,199 @@ two-fold win too. They could spot German planes from 100 miles
 away. And they didn't need to use valuable fuel, planes, or 
 manpower to do the surveillance. At a time when Britian was
 worried about their fuel reserves, this mattered tremendously.
+
+# appendix
+Below are the notes I took while reading the book. It's
+largely a summary and you can probably find a better
+summary elsewhere on the internet, but I'll leave them here
+for completeness.
+
+### Battle of the Atlantic
+
+interesting how tech advanced happened so fast and that the US/Allies were able to get 
+the right ones at the right time. When Germany was pushing for more Uboats, the US was 
+figuring out a bunch of different things to better equip ships and planes to combat them.
+crazy how pivotal this is to future success of the war effort. Without it, we don't have 
+a landing ground in Britain to take back France and push for Berlin
+some things aren't that big of tech improvements, more of optimization. Hedgehogs on 
+front of ships (i.e l. Grenade launchers), giving planes more fuel tanks, etc
+
+### Command of the air
+
+this talks about the fact that air warfare is new and innovative. Similar to what I read 
+in Bomber Mafia
+
+interesting point that British were "ready" for Germans. Germans sort of just went for 
+it as a way to eliminate UK.
+
+Radar crazy important during battle of Britain. Can see Nazis from 100 miles out. 
+1) Don't need to use jet fuel for recon
+2) men can rest while waiting for orders
+though the British figured out how to fend off they failed to recognize some of the 
+advantages they had in defending themselves when they attacked Germans
+    - the morale bit. Thinking they could just crack the Germans
+    - the homeland bit. Airplanes take a non-trivial amount of time to go back across 
+    the channel to refuel
+
+As Rolls Royce got the merlin engine out, there was tension with the US about adopting 
+it into the P-51. Seemingly a political game that the US wanted our planes to be 
+entirely ours even though adding a Merlin to the P-51 would make it even better than the 
+spitfire.
+This reality of increasing the range of the P51 fighter was a huge advantage when it 
+came to needing to fly from Britian to Berlin and back. No other fighter could do it.
+It was absolutely paramount that the fighters were there to escort the long range 
+bombers. Otherwise the bombers were sitting ducks.
+Strategic bombing became more of a thing as the Allies has the resources and 
+technologies to carry it out.
+They still do the indiscriminate bombing of civilians and that is really not all that 
+effective.
+But hitting key strategic points within Germany are vital to the turning the tide. For 
+example; the German war industry was still outputting a ton of planes and u boats, but 
+the allied bombing that inhibitted oil production rendered these products useless. By 
+hitting railways, they (Germans) also couldn't get things to the battlefield
+
+### How to stop a blitzkreig
+
+This chapter goes into depth on how the Nazi blitzkreig was so successful in some 
+circumstances and how it faultered on the Eastern Front. It's interesting because yes, 
+there were operational failures, but the Wehrmacht were stretched so thin that they 
+couldn't overcome those failures. And as they were continuing to fight a war on 3 fronts 
+(i.e. pulling soldiers from the Eastern Front), the Russians continued to pile soldiers 
+into the fight.
+
+The blitzkreig tactic was so successful in other places because of smaller countries, 
+more favorable geography and less prepared armies. In Russia, they took heavy heavy 
+losses and were pushed back substantially, but they had the luxury of moving their 
+industrial war complex further to the east. And they laid out mine fields all along 
+their path. So the nazis strategy of moving very very fast was slowed significantly by 
+these minefields. Then the geography. Interestingly, the Russian land could become so 
+muddy that German panzer units (the key to their blitzkreig strategy) could end up stuck 
+in the mud. The war on the Eastern Front seems to resemble the very stagnant battles of 
+WW1 - a reality the blitzkreig tried to avoid.
+
+I mentioned this above, but it's particularly interesting to add that the total war 
+aspect of the war on the eastern front seems to particularly hurt the Nazis. The author 
+highlights there are many times where german tank divisions are forced to sit idly 
+because they are simply out of fuel. Like soldiers moving to other fronts, this is fuel 
+that they either don't have or can't allocate to the eastern front.
+
+I've always heard about "don't go into Russia in the winter" but it really plays a major 
+role in the German defeat on the Eastern Front.
+
+Also interestingly, the point about a Soviet Tank that was originally developed by US 
+engineer (the T-34). It had many flaws early on, but with additional changes to address 
+these flaws, it was a formidable opponent. And most interestingly, the Soviet's used it 
+as a case for Communism (i.e. we can built the best tank in the world because we are 
+communist).
+
+The magnitude of the loss of life on the Eastern front is staggering.
+
+### How to land on an enemy held beach
+
+This is the chapter of the book that I came for and it's fascinating.
+
+This is largely the culmination of the previous chapters, especially command of the air 
+and command of the sea. Without either of these, DDay is impossible.
+
+For years into the war, the Allies seemed to struggle mightily with amphibious warfare. 
+There are a decent amount of failures and a few successes that proceeded Overlord. Even 
+the successful missions were sometimes unfair examples to learn from. They'd come across 
+the Vichy French, a small German force or the Italians. All of these to say they weren't 
+the most formidable foes. And even with that, the invaders often overestimated how many 
+people they were fighting against because of the chaos of landing on an enemy held 
+beach. (One person I think estimated something like 5,000 guns on a beach and there were 
+only 50?? I'd have to check that). So they could take small tidbits from those wins.
+
+There were collosal failures too. Even missions they had no strategic purpose but to be 
+used as a dry run (to the fury of getting the Canadians into the war). Dieppe I believe 
+is the place.
+
+The sheer volume of Operation Overlord is staggering. But even with that massive 
+advantage, the dug in Germans were still quite 
+effective. It was no easy mission.
+
+It truly required command of the sea - being able to shelter the landing craft, have a 
+place for operational command to be, and a way to determinsitically fire on the beaches 
+to provide cover for the landing forces.
+
+It truly required command of the air - the landing forces needed to be able to focus 
+straight ahead and have confidence that the planes overhead were there planes.
+
+And then the biggest gamble. The Allies were fearful that land forces against the 
+Germans would be very difficult. The Germans were magnificent at land battles and they 
+were even banking on the fact that they were so good at the land battles.
+
+Other interesting pieces to victory:
+
+- deception: fooling the Germans into where the invasion would happen. With inflatable 
+armies, moving Pattona post
+- airborne landing all over the place was really hard to do their mission but it had an 
+unintended benefit. The Germans were confused and surprised by people being everywhere
+- timing: the speed of the attack was particularly advantageous to the allies because 
+the Germans couldn't move their best infantry into the area in time to make a difference.
+
+Author concludes that the biggest piece is the the operationalization of it all. Joint 
+command of air, sea and land can't be underestimated. This idea wasn't one of the figure 
+heads of WW2 but instead the planners before hand
+
+Weather impacting Overlord. Massive storm hit like a week after the landing and if it 
+was earlier it could have completely derailed the op. Germans would have moved people in 
+while more people couldn't land for the allies. The Allies wouldn't have been able to 
+land people because of how bad the water was.
+
+Also the weather was so bad in the days leading into the landings that it was postponed 
+several times. But June 6 was the first or second day that it was sailable. It was so 
+quick that the Germans thought it would be Ludacris that the allies would invade. So 
+much so that some prominent German officers left and went back to German for a few days
+
+The tanks that the British had were labeled as funny. They would do these crazy things 
+like make them carry logs or have chains that they'd use as tentacles to set off land 
+mines or others that would literally eat hedges
+
+### The pacific theater
+
+Japan's overly ambitous imperial expansion prompts US involvement in the Pacific. The 
+japanese had ambitions to be labeled as a "greater" nation - in line with the great 
+powers of europe post ww1. They were expanding into China and the world seemed to turn a 
+blind eye to it. However, after a while, this expansion prompted the US to quit selling 
+oil to the Japanese, a vital resource to keeping the island nation going. This prompted 
+them to attack Pearl harbor with the intention of being able to get oil from places that 
+they conquered in the Pacific. They figured that if they could eliminate the US navy 
+from Hawaii, they could more easily expand and obtain the resourced they needed to 
+continue their expansion into China.
+
+They don't eliminate the US Navy from the Pacific after pearl harbor though.
+
+Some of Japan's operational failures and the United State's operational and technical 
+successes shape the rest of the war in the pacific.
+
+Japan's operation failures:
+
+- not having a unified front between their army and navy
+- expanding far beyond what their resources could handle
+
+Contributions to the US success story:
+
+- Putting some resources in China that would occupy the substantial Japanese forces 
+while focusing a large effort on the Central Pacific theater (The Gilberts, Caroline, 
+and Mariana Islands) as means to get to the Japanese mainland
+- The marines and their specific training around amphibious warfare
+- The fast carrier groups. These absolutely massive aircraft carriers were remarkably 
+effective in transporting planes to allow the US to launch aerial attacks from all over. 
+The F6F hellcats were designed to land and take off from the Essex class carriers and 
+they were extraordinarily effective at controlling the skis above these aircraft 
+carriers.
+- The b-29s. These bombers were crazy. They could fly much higher than any other plane 
+of the time. They could fly faster than most all other Japanese fighters too. We used 
+them for altitude bombing and the low bombing that was used to absolutely devastate 
+Tokyo. And B29s were used to carry the A bombs too.
+- The seabees -- The Construction Battalions. These groups of older service members 
+(those who were impressive construction workers in the US - building the NYC skyscrapers 
+and the like) were able to build airstrips, piers, lodging, hospitals, and fuel tanks at 
+astonishing rates.
+- The submarine service - They operated as part of but also independent of the navy.
+All of the above coming together at the right time. These pieces took time to design, 
+build, test and deploy. But they all seemed to be ready to go around late 1943 - at 
+which point we could use all of the above to overwhelm the Japanese forces. It didn't 
+make it easy, but it certainly gave us a huge advantage against an enemy that had no 
+intention on surrendering.
