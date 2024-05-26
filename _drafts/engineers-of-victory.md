@@ -47,7 +47,7 @@ makes a strong effort to emphasize these dependencies
 while also highlighting that each aspect is by no
 means sequential. Winning World War 2 required an
 immense amount of parallel strategic planning,
-production, and execution
+production, and execution.
 
 ## What are my takeaways?
 ### there wasn't just one thing
@@ -85,11 +85,11 @@ for the job with the right equipment at the right
 place at the right time for any war effort. Now add
 in the fact that though happening in parallel, 
 each theater of war is drastically different (geography, 
-enemy, and consequent planning).
+enemy, necessary weapons, and consequent planning).
 
 ### social engineering
-I recently heard the world social engineering and how
-it is used for modern day cybersecurity attacks. My 
+I recently heard the word social engineering and how
+it is used in modern day cybersecurity attacks. My 
 understanding is that a threat actor decieves someone 
 into doing something that allows them to infiltrate a 
 system. This concept is likely old as dirt - people 
@@ -114,6 +114,59 @@ military chess - trying to read the Axis moves while
 also making moves themselves that the Axis may take
 as bait.
 
+I mentioned Band of Brothers at the onset of this post.
+It's the story of the 101st Airborne Division's
+Easy Company and their fight from D-Day to VE Day.
+They jumped over Normandy during the night hours before
+the actual landings began. And the show highlights how
+it was sort of chaos. Many men were lost or displaced
+and it took a long time for them all to regroup on the 
+ground. To the eye, this would appear to be advantage
+Germans. However, this book describes that the 
+chaos of the paratroopers being everywhere may actually
+have been advantageous to the Allies. It was (likely
+unintentionally) deceiving to the Germans. 
+As US paratroopers were trying
+to regroup, the Germans were unable to identify where
+any of them were coming from because they were coming
+from everywhere. It made responding to the attack 
+difficult. 
+
+### winning complex operations
+The macro view of the war presented in this book highlights 
+how important having a clear operational plan is to the solution
+to a problem. In my own work, I can definitely see the value
+in this. Someone may have a solid understanding of a problem,
+good ideas to solve the problem and the know-how to execute on 
+those ideas, but none of that really matters if we aren't 
+able to manage the many moving parts that are necessary to
+produce a solution in a timely fashion. The book attributes a lot 
+of careful thought and a clear vision of the desired outcome to 
+successful operations. Specifically related to operationalizing
+a plan, it also highlights the importance of areas of ownership. 
+The best plan includes owners of each piece of the plan. This 
+allows individuals to remain focused on the particular 
+piece of the plan they are responsible for (likely their area of
+expertise too) without needing to worry about other parts. It's
+the epitome of the old New England Patriots addage - "just do
+your job."
+
+### engineers matter
+The Allies definitely had superior resources in the latter 
+years of the war, but it is the efficient and creative use 
+of these resources that truly make a difference in the war. 
+And in order to achieve efficient and creative use of 
+resources, it requires a culture of continuous innovation. 
+You try, you make mistakes and you learn from those mistakes. 
+That isn't done by the people history remembers. It's done by 
+the mid level folks that are actually doing the designing, 
+and building. The ones who are solving problems related to 
+the state of the current technology.
+I found this to be rather inspirational for my day-to-day. 
+Though I am an entry level software developer right now, 
+that might be enough to make an impact on my team, the company,
+the industry, and maybe even the world.  
+
 ### tech wins
 I want to use this section just to list off a few 
 pieces of technology that I stuck out to me.
@@ -121,8 +174,8 @@ pieces of technology that I stuck out to me.
 operated by the British and got the "Funnies" 
 nickname because they weren't standard at all. They
 were effective at what they were designed to do 
-though. The one example that sticks out to me is that
-there was a tank with long tentacle like chains 
+though. One example shined amongst the others to me. 
+There was a tank with long tentacle like chains 
 attached to it that would simply thrash the ground
 as the tank moved forward in an effort to set off any
 mines that were in the path of the tank. 
@@ -158,35 +211,9 @@ I think both of these examples simply highlight that we likely
 aren't going to get it completely right the first time
 and we need to leave the door open for future improvements
 because you never know - the world may depend on it someday.
-
-### winning complex operations
-The macro view of the war presented in this book highlights 
-how important having a clear operational plan is to the solution
-to a problem. I see this in work enough that someone may
-have all of the tools to get the jobs done (i.e. ideas, 
-coding expertise, etc), but they may struggle to execute 
-on the many moving parts that need to eventually get to a 
-solution in a timely fashion. The book attributes a lot 
-of careful thought and a clear vision of the desired outcome to 
-successful operations.
-
-### engineers matter
-I always remember Elon Musk saying something along the 
-lines of "stop the MBA-izaton of 
-America. We still need engineers to create a product that
-is actually worth selling."  I've admittedly always liked
-the quote because as an egineering, it feels empowering. It
-feels contrary to how I understand a lot of businesses 
-operate; putting a lot of effort into financials rather
-than the product. 
-The conclusion of this
-book nicely highlights that many of the things that 
-played a big role in the outcome of WW2 are a direct result
-of engineers coming up with creative solutions to problems.
-Though leaders are very important for prioritization, 
-motivation and operationalization, someone will always need
-to design solutions to the problems that one must lead through. 
-I found this to be rather inspirational for my day-to-day. 
-Though I am an entry level software developer right now, 
-that might be enough to make an impact on my team, the company,
-and maybe even the industry as a whole.  
+- Radar. Radar was extraordinarily important in to the British
+as they defended themselves in the Battle of Britian. It's a 
+two-fold win too. They could spot German planes from 100 miles
+away. And they didn't need to use valuable fuel, planes, or 
+manpower to do the surveillance. At a time when Britian was
+worried about their fuel reserves, this mattered tremendously.
