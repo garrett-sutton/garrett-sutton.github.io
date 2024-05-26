@@ -252,8 +252,8 @@ Germans sort of just went for it as a way to eliminate UK.
 Radar crazy important during battle of Britain. Can see 
 Nazis from 100 miles out. 
 
-1) Don't need to use jet fuel for recon
-2) men can rest while waiting for orders
+1. Don't need to use jet fuel for recon
+1. men can rest while waiting for orders
 
 though the British figured out how to fend off they 
 failed to recognize some of the advantages they had in 
