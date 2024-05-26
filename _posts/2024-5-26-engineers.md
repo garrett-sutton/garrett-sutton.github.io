@@ -5,7 +5,7 @@ date:   2024-5-26
 categories: [ zz_books ]
 ---
 
-## why did I start it?
+## Why did I start it?
 With our upcoming trip to France, I've been
 trying to make an effort to learn what I 
 wasn't taught or have just forgotten since
@@ -23,7 +23,7 @@ told not to do with books -- I judged it by its
 cover. But it worked out for me this time. This was 
 a great read.
 
-## what was it?
+## What was it?
 The author of this book attempts to dive into 
 5 distinct parts of World War 2 that eventually
 led to the Allied victory over the Axis Powers. It 
@@ -49,7 +49,7 @@ means sequential. Winning World War 2 required an
 immense amount of parallel strategic planning,
 production, and execution.
 
-## what are my takeaways?
+## What are my takeaways?
 ### there wasn't just one thing
 I haven't necessarily read anything about WW2 that
 says a single factor or thing led to the Allied victory,
@@ -218,7 +218,7 @@ away. And they didn't need to use valuable fuel, planes, or
 manpower to do the surveillance. At a time when Britain was
 worried about their fuel reserves, this mattered tremendously.
 
-## appendix
+# appendix
 Below are the notes I took while reading the book. It's
 largely a summary and you can probably find a better
 summary elsewhere on the internet, but I'll leave them here
