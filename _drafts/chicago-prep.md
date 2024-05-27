@@ -36,3 +36,27 @@ talk about the winter goals and monona 20k
 ## high level phases and ideas
 
 ## goals
+
+## general weekly plan
+| week of | minutes| long run   | workout(s)      | notable dates                       | phase     |
+|---------|--------|------------|-----------------|-------------------------------------|----------------|
+| may 27  | 300    | 80 min     | Row 1, Col 4    |                                     |Row 1, Col 6    |
+| june 3  | 300    | 80 min     | Row 2, Col 4    |                                     |Row 2, Col 6    |
+| june 10 | 300    | 90 min     | Row 3, Col 4    |                                     |Row 3, Col 6    |
+| june 17 | 300    | 90 min     | Row 4, Col 4    |                                     |Row 4, Col 6    |
+| june 24 | 300    | 100 min    | Row 5, Col 4    | in pawling                          |Row 5, Col 6    |
+| july 1  | 300    | 100 min    | Row 5, Col 4    |                                     |Row 5, Col 6    |
+| july 8  | 300    | 100 min    | Row 5, Col 4    |                                     |Row 5, Col 6    |
+| july 15 | 300    | 100 min    | Row 5, Col 4    | start sabbatical                    |Row 5, Col 6    |
+| july 22 | 300    | 100 min    | Row 5, Col 4    | on sabbatical                       |Row 5, Col 6    |
+| july 29 | 300    | 100 min    | Row 5, Col 4    | end sabbatical & bike ms            |Row 5, Col 6    |
+| aug 5   | 300    | 100 min    | Row 5, Col 4    | Grace out of town this weekend      |Row 5, Col 6    |
+| aug 12  | 300    | 100 min    | Row 5, Col 4    |                                     |Row 5, Col 6    |
+| aug 19  | 300    | 100 min    | Row 5, Col 4    |                                     |Row 5, Col 6    |
+| aug 26  | 300    | 100 min    | Row 5, Col 4    |                                     |Row 5, Col 6    |
+| sept 2  | 300    | 100 min    | Row 5, Col 4    |                                     |Row 5, Col 6    |
+| sept 9  | 300    | 100 min    | Row 5, Col 4    |                                     |Row 5, Col 6    |
+| sept 16 | 300    | 100 min    | Row 5, Col 4    |                                     |Row 5, Col 6    |
+| sept 23 | 300    | 100 min    | Row 5, Col 4    |                                     |Row 5, Col 6    |
+| sept 30 | 300    | 100 min    | Row 5, Col 4    |                                     |Row 5, Col 6    |
+| oct 7   | 300    | 100 min    | Row 5, Col 4    |                                     |taper     |
