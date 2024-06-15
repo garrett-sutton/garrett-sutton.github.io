@@ -29,7 +29,36 @@ Anyway, I had an auto-qualifier time for Chicago
 and in late 2023, I had a race on the calendar for
 a year from then.
 
-talk about the winter goals and monona 20k
+My main winter goal after signing up for Chicago was
+largely similar to what it has been in previous years.
+Stay healthy. I've had weird muscular injury issues in 
+the past and most of the time, they seem to pop up in
+the winter. A tweaked hammy, abductor/adductor pain, 
+back pain, etc. I tend to think this happens because 
+the body just isn't functioning the same in the winter.
+The footing is a bit more uncertain, so I'm probably a
+bit tense all around. It's freezing cold out, so it's
+hard for the body to loosen up on a run. And the
+stretching afterwards takes a lot of effort to feel
+remotely loose. I've felt very noticeable differences
+in how limber I am on random warm days in the winter vs
+the normal cold days. 
+
+I managed to stay healthy over the winter with a 
+steady dose of easy running, pretty low volume, and
+stretching really well after almost 
+every run. As winter turned to spring, I started
+thinking it would be a good idea (& something fun) to 
+run a race in the spring before really thinking
+about Chicago. I found the Monona 20k. I didn't have
+high expectations going into this race after a 
+winter that didn't melt any snow, but our spring 
+was nice enough that I was able to have a nice run
+of workouts leading into the race. By race day,
+I felt fit enough to not embarass myself and had
+a good time with embracing the suck. It works out 
+nicely to take a little break before getting into
+the swing of marathon training.
 
 ## sources for my plan
 
