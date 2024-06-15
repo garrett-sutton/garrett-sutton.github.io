@@ -60,7 +60,65 @@ a good time with embracing the suck. It works out
 nicely to take a little break before getting into
 the swing of marathon training.
 
-## sources for my plan
+## how am I generating my plan
+In my first marathon - 2022 Twin Cities Marathon - I 
+largely followed a program that I had made for Grace
+in 2021. It had worked well for her and I was bias
+to my own plan. This plan was loosely similar to 
+Jack Daniel's training plan that was largely geared
+toward 10k-half marathon running. It had 4 phases.
+Phase 1 was largely easy running. Phase 2 was tempo
+runs and hills. Phase 3 was tempo running and vo2 
+max intervals. Phase 4 was the taper. In each phase
+of the plan, there were intentional long run efforts
+at around marathon pace too. Admittedly, I started
+training for this marathon a bit late. I was intentionally
+getting after it starting in July for an early October
+race. So take some of this with a grain of salt. But
+when I finished that first marathon, I specifically noted
+that I would have liked to have been better about more
+marathon paced running. On race day, I had felt like
+I wasn't actually confident enough to run the pace
+that I needed to. Specifically, my goal pace was 6:30,
+so in reality, you are going to need to run some miles
+in the 6:20s. I was consistently running in the 6:30s
+during the race, but that isn't going to bring home the
+bacon. I was also a bit suspect on how much the vo2 max
+intervals that I did were helping me for the marathon. 
+For my Chicago buildup, I determined that I 
+wanted to try something a bit different. There's also
+a reality that with a baby at home, it was going to 
+have to be a bit different.
+
+My search for a marathon training plan started as it
+would for most people - by googling "marathon training
+plans." This searching felt like it left a lot to be
+desired though. Plans seemed overly generic or they
+seemed like they were perscribing a ton of hard running
+that felt like it would be difficult for me to keep up
+with. In reading about other running things, I was 
+consistently hearing the concept used by the Norwegains
+called Double Treshold Training. The idea is pretty simple -
+run 2 threshold workouts in a single day. This apparently
+encourages an athlete to not overcook their threshold workouts
+and accumulate a really large volume of threshold work.
+This seemed interesting though I wouldn't have time to 
+run 2 workouts in a day. I plan to write another post about
+this type of training in the future. Stay tuned for that.
+
+In reading the Jack Daniel's Running Formula, it seemed 
+apparent that everyone has specific marathon training needs. 
+In all other distances he has a pretty one sized fits all 
+approach. For the marathon, he provides 5 different 
+approaches. Though I don't actually know my "marathon sweet
+spot", I didn't feel like any of those plans met my needs
+either. With these things in mind, I started to formulate a picture
+of what I wanted my plan to look like for this 
+marathon cycle.
+
+
+
+
 
 ## high level phases and ideas
 
