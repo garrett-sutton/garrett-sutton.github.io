@@ -116,7 +116,115 @@ either. With these things in mind, I started to formulate a picture
 of what I wanted my plan to look like for this 
 marathon cycle.
 
+## high level plan
+There are 2 big things I want to implement in this training
+block. 
+1. Do more long runs that emphasize running at or better
+than marathon pace. I'd like to do an every other week 
+pattern of long run workout and then a longer long run
+that is entirely easy. The long run workouts should 
+try to get as many 10-20 minute intervals (with maybe 5 
+minutes rest) at marathon pace during the run as possible.
+The goal of these workouts is to gain confidence in the 
+pace without going to the well (hence the decent rest).
+1. Try my own flavor of double threshold. I don't have the
+time or desire to double at all, let alone do two workouts
+in a single day. I want to adapt the popularized approach
+to do threshold workouts on back-to-back days. I think
+this will suit me well. With Grace also running in the 
+mornings, I don't necessarily have time to run long
+marathon workouts without getting up earlier than what
+seems reasonable. And because I know that I'm going to
+have these back-to-back workouts, it probably helps me 
+to keep each workout in check, while accumulating more
+threshold volume that I would have in a single workout.
 
+I'll plan to use a 4 phase approach to this marathon block.
+
+### phase 1
+This is the most simple phase. I took a small break after
+the Monona 20k and need a few weeks to get my legs back
+into the swing of things. This phase may include some
+strides, but otherwise - no workouts.
+
+### phase 2
+This phase is meant to build general fitness and strength.
+I plan to start doing 
+workouts during this phase. In the early weeks, I'll 
+plan to do a single workout during the week. Once I feel
+comfortable in how much tempo volume I am doing, I'll
+split it into 2 workouts on back-to-back days. When I 
+start doing 2 workouts, I plan on day 1 being longer
+tempo intervals (think 5-10 mins T w/ 1-2 mins off) 
+and day 2 being shorter but faster intervals with shorter 
+rest (think 30-90 sec @ 5k-10k pace w/ 30 sec off). I 
+would like to do some hill repeats during these workouts
+as well. 
+
+I won't designate a day specifically for hills 
+because I feel like they could go on either day. There's 
+the case to do them on day 1 so that my legs get some
+good turnover and really change speeds. 
+This could also mean some extra something
+in my legs that makes the next day's workout more difficult
+than it should be. It could
+also be better from a time standpoint to do these with 
+the shorter intervals (day 2) because the workouts are likely 
+shorter. I air on the side of day 1 and using 
+these hills as a strides of sorts at the time of writing, 
+but will need to be cognizant of how I'm feeling. 
+
+I'd also like to build long runs into the every other week
+pattern (mentioned above) during this phase. Ideally,
+I can build the volume of my long runs up so that the
+easy ones are around 2 hours and the workout ones are 
+about 90 minutes long. This will be a gradual build
+in long run volume though. I don't want to jump in too 
+fast.  
+
+I anticipate that this phase should start the week of June
+17 and continue for 8 weeks. During these 8 weeks, we are 
+going to France for 2 weeks. I hope to keep running on target
+during the trip, but it may be difficult to get everything
+in like I would from home. The goal during this trip 
+should largely be to do what I can and not try to force
+anything. This is a really unique trip and I need to 
+embrace that above running. The last week of this phase will
+start on August 5. I should also have at least 1 "down" 
+week during this phase. I think that week likely means a 
+shorter easy long run and only 1 workout.
+
+### phase 3
+This phase is meant to cover marathon specific training.
+I plan to continue doing the back-to-back workout days
+during this phase. The workouts start to include marathon
+paced running on day 2 of the back to back. I think day 1 could be
+either the shorter or longer tempo intervals (like what
+is mentioned in phase 2). Day 2 should include marathon paced
+running with traditional tempo pace (i.e. those I can do with 5:1
+on/off ratio) mixed in. I think these day 2 workouts should
+have no rest and be continous efforts navigating between
+marathon pace and tempo pace. The tempo pace time doesn't necessarily
+need to be 5 minutes long - just the pace I'd run for a 
+5 min tempo interval.
+
+Long runs during this phase should be the longest that they'll
+every be. I'd really like to get 2 or 3 runs in of 2.5 hours.
+Assuming I can get to the 2.5 hour mark, I think the other
+weeks would be 2 hour long runs with marathon pace intervals
+during the run.
+
+This phase should start the week of August 12 and continue for
+6-7 weeks. The last
+week should be the week that starts September 16 or 23. I don't think
+I should have any notable disruptions from the standard 
+routine during this phase.
+
+### phase 4
+This is the taper. During this phase, I anticipate continuing
+to do marathon specific work to continue gaining confidence in
+the pace. I'll also gradually decrease the long run duration
+to 10 miles the week before the race. 
 
 
 
