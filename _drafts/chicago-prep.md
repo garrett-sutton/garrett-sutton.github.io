@@ -226,6 +226,68 @@ to do marathon specific work to continue gaining confidence in
 the pace. I'll also gradually decrease the long run duration
 to 10 miles the week before the race. 
 
+### wrapping up
+It's pretty obvious that I didn't specify specific mileage
+totals, specific workouts, or long run durations in the plan
+above. In an early draft edition of this post, I did have 
+those things, but decided against including them here. I think
+that having a high level idea is probably a better approach for
+me. I have had a tendency in the past to be so committed to the
+plan that I end up not listening to my body, potentially a
+bit burnt out, and maybe even hurt. This will also be helpful
+in not putting too much pressure on myself when some of the
+normal disruptions to the routine occur. And ultimately,
+I'll be able to feel out the specifics as I go rather than try
+to stick to specific workouts and volume numbers that couldn't
+take into account how I would be feeling when I'd actually get 
+there. 
+
+Using the guidelines and goals that I mentioned above for each
+phase, I think I'll create a workout plan for each week when
+I get there. Each week, I'll likely have a minutes target as 
+well that makes sense based on the time I have that week and
+how I was feeling over the previous weeks at whatever volume. 
+The advantage here is that I don't have to guess weeks/months 
+in advance on when I will need an easier week. 
+
+When training
+for the Twin Cities Marathon in 2022, I didn't necessarily
+set mileage goals and it felt like it worked pretty good for me.
+I was able to do my workouts and fill in the blanks on easy days
+without pressure (from myself) to hit an arbitrary mileage
+number. Of course, consistency is key, but a few weeks here
+and there of varying mileage will happen and that
+can be a good thing. I hope that by starting training for 
+Chicago earlier than I did 2 years ago, in addition to having
+a better base of miles in my legs to start training that I'll
+naturally be able to run some more miles this time around. 
+
+Below I made a really simple table just to visualize 
+the plan at a high level. It relies on understanding the
+phases that I outlined above.
+
+| week of | notable dates                       | phase           |
+|---------|-------------------------------------|-----------------|
+| may 27  |                                     | easy            |
+| june 3  |                                     | easy            |
+| june 10 |                                     | easy            |
+| june 17 |                                     | p2              |
+| june 24 | in pawling Thurs -> Mon             | p2              |
+| july 1  |                                     | p2              |
+| july 8  |                                     | p2              |
+| july 15 | start sabbatical                    | p2              |
+| july 22 | on sabbatical                       | p2              |
+| july 29 | end sabbatical & bike ms            | p2              |
+| aug 5   | Grace out of town this weekend      | p2              |
+| aug 12  |                                     | p3              |
+| aug 19  |                                     | p3              |
+| aug 26  |                                     | p3              |
+| sept 2  |                                     | p3              |
+| sept 9  |                                     | p3              |
+| sept 16 |                                     | p3              |
+| sept 23 |                                     | taper           |
+| sept 30 |                                     | taper           |
+| oct 7   |                                     | taper (sun race)|
 
 
 ## high level phases and ideas
