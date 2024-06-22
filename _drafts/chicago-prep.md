@@ -289,31 +289,60 @@ phases that I outlined above.
 | sept 30 |                                     | taper           |
 | oct 7   |                                     | taper (sun race)|
 
+## when race day gets here
+I've now spent a lot of time not talking about the race itself.
+Part of that is becasue "it's all about the journey", but it's
+also that I have always enjoyed training more than actual racing.
+It's generally less pressure to just show up every day rather than to 
+show up and perform on a single day. 
 
-## high level phases and ideas
+In effort to perform on a single day, you spend way too much 
+time thinking about the race (i.e. evidenced
+from the above) and then spend many hours over months and months for 
+hopefully under 3 hours of running. And there's a tendency leading
+into race day to feel like all of the time that you've put in is
+wasted time if the race doesn't go as you wanted. It's a really
+vulnerable position to put yourself in. You risk having
+spent a ton of time to ultimately fail to reach your goal.
 
-## goals
+The marathon adds another element to this. It's generally
+a "you've got one shot" type of race -- partially 
+because there might not be another race and partially because
+there's a good chance you're still wrecked even after a bad day.
+And a bad day may be entirely out of your control. A bad day of 
+weather, a bad day for your stomach, or a bad day for your legs 
+can all end up the same, with a missed goal and a feeling of a lot
+of wasted time. With the risk, it can feel like it can't possibly 
+be worth it to pour yourself into something when there are 
+so many unknowns.
 
-## general weekly plan
-| week of | minutes| long run   | workout(s)      | notable dates                       | phase     |
-|---------|--------|------------|-----------------|-------------------------------------|----------------|
-| may 27  | 300    | 80 min     | Row 1, Col 4    |                                     |Row 1, Col 6    |
-| june 3  | 300    | 80 min     | Row 2, Col 4    |                                     |Row 2, Col 6    |
-| june 10 | 300    | 90 min     | Row 3, Col 4    |                                     |Row 3, Col 6    |
-| june 17 | 300    | 90 min     | Row 4, Col 4    |                                     |Row 4, Col 6    |
-| june 24 | 300    | 100 min    | Row 5, Col 4    | in pawling                          |Row 5, Col 6    |
-| july 1  | 300    | 100 min    | Row 5, Col 4    |                                     |Row 5, Col 6    |
-| july 8  | 300    | 100 min    | Row 5, Col 4    |                                     |Row 5, Col 6    |
-| july 15 | 300    | 100 min    | Row 5, Col 4    | start sabbatical                    |Row 5, Col 6    |
-| july 22 | 300    | 100 min    | Row 5, Col 4    | on sabbatical                       |Row 5, Col 6    |
-| july 29 | 300    | 100 min    | Row 5, Col 4    | end sabbatical & bike ms            |Row 5, Col 6    |
-| aug 5   | 300    | 100 min    | Row 5, Col 4    | Grace out of town this weekend      |Row 5, Col 6    |
-| aug 12  | 300    | 100 min    | Row 5, Col 4    |                                     |Row 5, Col 6    |
-| aug 19  | 300    | 100 min    | Row 5, Col 4    |                                     |Row 5, Col 6    |
-| aug 26  | 300    | 100 min    | Row 5, Col 4    |                                     |Row 5, Col 6    |
-| sept 2  | 300    | 100 min    | Row 5, Col 4    |                                     |Row 5, Col 6    |
-| sept 9  | 300    | 100 min    | Row 5, Col 4    |                                     |Row 5, Col 6    |
-| sept 16 | 300    | 100 min    | Row 5, Col 4    |                                     |Row 5, Col 6    |
-| sept 23 | 300    | 100 min    | Row 5, Col 4    |                                     |Row 5, Col 6    |
-| sept 30 | 300    | 100 min    | Row 5, Col 4    |                                     |Row 5, Col 6    |
-| oct 7   | 300    | 100 min    | Row 5, Col 4    |                                     |taper     |
+I acknowledge that this negativity comes from fear. But I think 
+the key thing for me to keep in mind during this training
+cycle is that the race doesn't have to be validation of all of 
+the time I've spent leading into race day. I'll most likely
+continue running after this marathon and I'll most likely try
+to run another marathon in the future. So sure, having a good
+race day will be awesome, but I would likely still be running
+whether this race was on the calendar or not. Getting outside
+most mornings regardless of the weather, and feeling
+something every once and a while are what make it worth it. 
+
+There's also the reality that I've faced many times in the past.
+That is - good training does not equate to a good race, at 
+any distance. It's the classic correlation does not equal 
+causation situation. It feels really important to keep this in 
+mind during training but also on race day. Running in general,
+but especially the marathon, is as much mental as it is physical. 
+Keeping calm and staying positive go a long way during the long 
+slow burn of 26.2 miles.
+
+To put something on paper, my goal for this year's Chicago Marathon
+is to run under 2:50. This was my goal 2 years ago and I don't know
+how good of a shot I really had. I was off pace through the half
+and eventually had some bad cramping in both legs that I claim
+lost me 2+ minutes. I eventually made it across the line in 
+2:55. This time around, I'd like to give myself a shot through half-way, 
+do a better job of fueling before and during the race and see what happens
+after that. 
+
+Book it!
