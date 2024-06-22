@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "prepping for Chicago"
+title:  prepping for chicago
 date:   2024-6-22
 categories: [ preoccupations ]
 ---
@@ -39,8 +39,8 @@ the body just isn't functioning the same in the winter.
 The footing is a bit more uncertain, so I'm probably a
 bit tense all around. It's cold out, so it's
 hard for the body to loosen up on a run. And the
-stretching afterward takes a lot of effort to feel
-remotely loose. I've felt very noticeable differences
+stretching afterward takes a lot of effort to do
+the trick. I've felt very noticeable differences
 in how limber I am on random warm days in the winter vs
 the normal cold days. 
 
@@ -53,10 +53,11 @@ run a race in the spring before really thinking
 about Chicago. I found the Monona 20k. I didn't have
 high expectations going into this race after a 
 winter that didn't melt any snow, but our spring 
-was nice enough that I was able to have a nice run
-of workouts leading into the race. By race day,
+was nice enough that I was able to put together 
+some decent workouts in the weeks leading 
+up to the race. By race day,
 I felt fit enough to not embarrass myself and had
-a good time with embracing the suck. It works out 
+a good time with embracing the suck. It also worked out 
 nicely to take a little break before getting into
 the swing of marathon training.
 
@@ -236,7 +237,7 @@ me. I have tended in the past to be so committed to the
 plan that I end up not listening to my body, potentially a
 bit burnt out, and maybe even hurt. This will also be helpful
 in not putting too much pressure on myself when some of the
-normal disruptions to the routine occur. And ultimately,
+disruptions to my routine occur. And ultimately,
 I'll be able to feel the specifics as I go rather than try
 to stick to specific workouts and volume numbers that couldn't
 take into account how I would be feeling when I get 
@@ -266,28 +267,29 @@ Below I made a really simple table just to visualize
 the plan at a high level. It relies on understanding the
 phases that I outlined above.
 
-| week of | notable dates                       | phase           |
-|---------|-------------------------------------|-----------------|
-| may 27  |                                     | easy            |
-| june 3  |                                     | easy            |
-| june 10 |                                     | easy            |
-| june 17 |                                     | p2              |
-| june 24 | in pawling Thurs -> Mon             | p2              |
-| july 1  |                                     | p2              |
-| july 8  |                                     | p2              |
-| july 15 | start sabbatical                    | p2              |
-| july 22 | on sabbatical                       | p2              |
-| july 29 | end sabbatical & bike ms            | p2              |
-| aug 5   | Grace out of town this weekend      | p2              |
-| aug 12  |                                     | p3              |
-| aug 19  |                                     | p3              |
-| aug 26  |                                     | p3              |
-| sept 2  |                                     | p3              |
-| sept 9  |                                     | p3              |
-| sept 16 |                                     | p3              |
-| sept 23 |                                     | taper           |
-| sept 30 |                                     | taper           |
-| oct 7   |                                     | taper (sun race)|
+
+| week of | phase            | notable dates                       |
+|---------|------------------|-------------------------------------|
+| may 27  | easy             |                                     |
+| june 3  | easy             |                                     |
+| june 10 | easy             |                                     |
+| june 17 | p2               |                                     |
+| june 24 | p2               | in pawling Thurs -> Mon             |
+| july 1  | p2               |                                     |
+| july 8  | p2               |                                     |
+| july 15 | p2               | start sabbatical                    |
+| july 22 | p2               | on sabbatical                       |
+| july 29 | p2               | end sabbatical & bike ms            |
+| aug 5   | p2               | Grace out of town this weekend      |
+| aug 12  | p3               |                                     |
+| aug 19  | p3               |                                     |
+| aug 26  | p3               |                                     |
+| sept 2  | p3               |                                     |
+| sept 9  | p3               |                                     |
+| sept 16 | p3               |                                     |
+| sept 23 | taper            |                                     |
+| sept 30 | taper            |                                     |
+| oct 7   | taper (sun race) |                                     |
 
 ## when race day gets here
 I've now spent a lot of time not talking about the race itself.
@@ -307,7 +309,7 @@ spent a ton of time to ultimately fail to reach your goal.
 
 The marathon adds another element to this. It's generally
 a "you've got one shot" type of race -- partially 
-because there might not be another race and partially because
+because there might not be another race to sign up for and partially because
 there's a good chance you're still wrecked even after a bad day.
 And a bad day may be entirely out of your control. A bad day of 
 weather, a bad day for your stomach, or a bad day for your legs 
