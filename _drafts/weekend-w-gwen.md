@@ -23,7 +23,7 @@ went out to run (2 times). She was also very
 well-behaved in mass on Sunday - despite wanting 
 to be out of her seat for the entirety of mass. 
 
-The 2 notable things for this weekend from
+The 3 notable things for this weekend from
 a Gwen standpoint:
 1. She started rolling all over the place. On a 
 couple of nights, she rolled all around 
@@ -35,6 +35,9 @@ stay awake a little longer than she should have
 but she didn't necessarily seem upset leading
 up to either of these points. It was really cute 
 to find her sleeping like this.
+1. Huggies diapers were inept at containing Gwen's
+#2s. We made a special trip to Target on Monday 
+to get back on the Pampers train. 
 
 ## how did dad do?
 From the beginning of Grace talking about 
@@ -53,7 +56,7 @@ Grace for help with the little things. She
 makes sure Gwen is off to a good start in the
 morning, takes inventory of the milk situation,
 and provides a real break when she arrives home. 
-And nighttime is a whole separate beast. Grace
+And nighttime is another story. Grace
 typically goes into Gwen's room to 
 console her when she wakes up in the middle of 
 the night. Any time Gwen is going through a 
@@ -73,7 +76,7 @@ necessarily outside the realm of possibility.
 
 Time moved quickly and suddenly, the weekend was 
 here. And as I mentioned above, Gwen did really well.
-Many of the fears I was stressing about never
+Many of the fears I was stressing about thankfully never
 came to life. They still lingered in the back
 of my mind when Gwen had a small spat or
 demanded that I stay close by for a while.
@@ -88,7 +91,7 @@ We didn't just survive this weekend
 either. I'll speak for myself (hard to speak for the
 now 9-month-old), but I did have a lot of fun.
 Gwen seemingly grew before my eyes. And she is so
-expressive at this point in her short life that
+expressive at this point in her short lifetime that
 it felt like the 2 of us bonded a lot more than we 
 had previously. I wouldn't be thrilled if Grace made
 a habit of being gone for days at a time, but at least
