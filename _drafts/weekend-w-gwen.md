@@ -14,26 +14,27 @@ evening on Monday. Gwen and I were tasked with
 holding down the fort for the weekend.
 
 ## how did Gwen do?
-I won't bore you with all of the nitty
-gritty details on how Gwen did for this weekend.
+I won't bore you with all the nitty-gritty details 
+of how Gwen did this weekend.
 As you can imagine, she did fine. She played
-well, slept well, napped well and ate well.
-She did great during the couple of runs we
-were able to get out for in the jogging stroller
-and was well behaved in mass on Sunday - despite
-not hanging in her seat at all. 
+well, slept well, napped well, and ate well.
+She did great in the jogging stroller when we 
+went out to run (2 times). She was also very 
+well-behaved in mass on Sunday - despite wanting 
+to be out of her seat for the entirety of mass. 
 
 The 2 notable things for this weekend from
 a Gwen standpoint:
 1. She started rolling all over the place. On a 
-couple of nights, she would just roll around 
-her room and giggle away as I crawled around her.
+couple of nights, she rolled all around 
+her room and giggled away as I crawled around her.
 It was really fun.
 1. She fell asleep in her playpen and on her
-floor in the same day. I may have pushed her to 
+floor on the same day. I may have pushed her to 
 stay awake a little longer than she should have
 but she didn't necessarily seem upset leading
-up to either of these points.
+up to either of these points. It was really cute 
+to find her sleeping like this.
 
 ## how did dad do?
 From the beginning of Grace talking about 
@@ -44,13 +45,13 @@ lot of it was a lack of confidence that I could
 shoulder that responsibility.
 
 I've spent a day at home with Gwen before, but
-Grace was only a 20 minute 
+Grace was only a 20-minute 
 drive away and she was going to be home in
 time for dinner at the latest. Even on these
 days at home, I still feel pretty reliant on 
 Grace for help with the little things. She 
 makes sure Gwen is off to a good start in the
-morning, takes inventory on the milk situation,
+morning, takes inventory of the milk situation,
 and provides a real break when she arrives home. 
 And nighttime is a whole separate beast. Grace
 typically goes into Gwen's room to 
@@ -71,11 +72,11 @@ would I sleep? These fears may sound dramatic
 necessarily outside the realm of possibility.
 
 Time moved quickly and suddenly, the weekend was 
-here. And like I mentioned above, Gwen did really well.
+here. And as I mentioned above, Gwen did really well.
 Many of the fears I was stressing about never
 came to life. They still lingered in the back
 of my mind when Gwen had a small spat or
-demanded that I stay close by for a period of time.
+demanded that I stay close by for a while.
 But as the weekend progressed, it felt like my
 confidence continued to grow. I came to realize 
 that there were going to be points in time that
@@ -85,11 +86,11 @@ but she was going to be OK.
 
 We didn't just survive this weekend
 either. I'll speak for myself (hard to speak for the
-now 9 month old), but I did have a lot of fun.
+now 9-month-old), but I did have a lot of fun.
 Gwen seemingly grew before my eyes. And she is so
 expressive at this point in her short life that
 it felt like the 2 of us bonded a lot more than we 
-have prevously. I wouldn't be thrilled if Grace made
+had previously. I wouldn't be thrilled if Grace made
 a habit of being gone for days at a time, but at least
 now I know that I can do more than just hold down
 the fort. 
