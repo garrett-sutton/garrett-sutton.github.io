@@ -7,7 +7,7 @@ categories: [ preoccupations ]
 
 ## what is this?
 From fall 2022 through spring 2023, Grace and I
-regularly attended an hour long talk each Wednesday
+regularly attended an hour long talk on Wednesday
 night with Father Enan at Saint Maria Goretti.
 Each week of the month had a different flavor - 
 an element of the Faith, a random Catholic topic from
@@ -15,11 +15,11 @@ a guest speaker and a week focusing on a sacrament
 (Reconciliation in the fall and Holy Communion in the
 spring). I'm creating this post in an effort to keep 
 this information alive in my head and easily accessible.
-So below are the notes that had been hanging
+So, below are the notes that had been hanging
 out on my phone. I didn't modify any of the content from when
 I originally wrote them over a year ago. Some of these notes 
 might make no sense but when I come back to it some day, I 
-hope it gives me a good enough starting point.I've made some 
+hope it gives me a good enough starting point. I've made some 
 tweaks to my original phone note formatting for easier 
 reading here and made headings for each date so the lines
 between topics are clear. 
@@ -95,6 +95,7 @@ and now no longer yearn
 ### 12/14/22
 - Carigma - fundamental proclamation of the Gospel
 - Pentacost Sunday - acts 2:36
+
 #### part 1
 God created everything out of nothing and everything is 
 good. He made us in His image and likeness. Means we have a 
@@ -110,7 +111,8 @@ Christ event as rescue mission. God sends His son to
 save us. Does this in 3 ways: 
 1. incarnation 
 2. through his ministry & teaching
-3. His Death & resurrection (firefighter analogy).
+3. His Death & resurrection (firefighter analogy).  
+
 #### part 4
 our response to the above. Strive to serve him as he has 
 served me. Moving from minimal to maximum. What can I do? 
