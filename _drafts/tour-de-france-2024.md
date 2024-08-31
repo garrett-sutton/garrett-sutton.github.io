@@ -130,9 +130,66 @@ youthful exuberance.
 
 TODO: add pic in Isola
 
+### la colmiane  - stage 20
+Lucky for us, we didn't have to do any driving for Stage 20.
+We were staying in an airbnb located at the top of the second
+to last climb of the stage - la colmiane. 
 
-## isola
+After our surprise expereince with the caravan yesterday,
+we made it a priority to see again. We set up shop in what seemed
+like a decent spot right before the king of teh mountains 
+banner. Prior to the caravan even coming through, we were
+gifted with another surprise. The polka dot sponsor and this 
+orange soda sponsor came through handing SO MUCH STUFF. The 
+polka dot sponsor had a whole truck full of polka dot shirts
+and I estimate they gave away thousands of them. When I asked for
+2, they handed them over without question. I suspect they hand
+out all of these shirts to make the TV shot look really good
+at the top of the moutains with everyone in polka dots.
+And then the Orangina truck was a similar story. They initially 
+started handing out 
+individual cans but that was overwhelming for the distributors.
+It was a ton of people crowding around with arms outreached hoping 
+for one to be handed to them. As time went on, they just started
+handing out full cases of orange soda. I managed to snag one of
+these. It was quite funny. As I walked back to Grace and Gwen,
+I managed to get rid of the whole thing, save the 2 that I kept
+for Grace and I. While we continued waiting for the actual caravan,
+we met some women from the US which was a welcome conversation.
+The caravan passed through with more excitement. We snagged
+a lot less goodies today, but it was still a fun time. 
 
-## la colmiane
+In an effort to explore a little bit, we walked our way down the 
+climb to see if there was a better spot to watch
+the race come through. What we found was the quntesential 
+Tour de France viewing spot - within the masses, near the top of
+a major climb, shaded grassy area in the woods right next to the
+road. So rather than needing to stand next to the course to 
+maintain a spot in the baking sun, we could sit in the shade
+and relax while we waited for the race to come through. It was 
+really cool to look up and down the climb from our spot and see
+all of the other fans packed along the road also waiting for
+the race. 
+
+When the race came through, it was all strung out. They passed
+us a little bit slower today but they were still flying. You
+could catch glimpses of most everyone. With the race being 
+strung out, it wasn't a big deal to be out in the road. You 
+simply took a step back when the polic motorbikes came through
+and then a single file line of riders would fly past. This continued
+for a little while. And then the groupetto came through. I 
+sort of panicked becasue I had to actually jump off the road to
+get out of the way instead of just taking a step backwards. 
+
+TOdo: ADD PICTURE OF THE CLIMB
+
+Once the whole race came through, we walked up to the top of the
+climb where another big screen had been set up that was showing 
+the race. It was really cool to see everyone else also make their
+way up and find a spot to watch the last climb. It became
+a small stadium of sorts where everyone was glued to the tv.
+Again, everyone seemed to be cheering for Tadej and again Tadej 
+delivered - this time out deuling Jonas in the last few hundred 
+meters.
 
 ## nice
