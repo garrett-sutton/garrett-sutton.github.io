@@ -192,4 +192,59 @@ Again, everyone seemed to be cheering for Tadej and again Tadej
 delivered - this time out deuling Jonas in the last few hundred 
 meters.
 
-## nice
+### nice - stage 21
+Stage 21 was a time trial from Monaco to Nice. This was
+the first time ever that the Tour didn't finish in Paris.
+And it was also the first time since 1989 that there was a 
+final day time trial - a particularly exciting day for American
+fans. In 1989, Greg LeMond came from behind to win during
+that final stage time trial.
+
+To continue with the routine of the past few days, we made an effort
+to go see the caravan again. Our goal for the day was to snag 
+the covetted yellow cycling hat from the yellow jersey sponsor car. 
+We found a spot along the Nice promenade at the 4km to go banner.
+Honestly, any spot along the the course likely would have been 
+great today, but this fit right into our day of exploring around
+Old Nice and seeing Castle Hill park. When the caravan eventually
+cambe thorugh, we lucked out! Actually, Grace and I both caught 
+one, but Grace gave hers away. Mission accomplished! Like the other
+days, the caravan for today was a ton of good energy. 
+
+After the caravan, we had a long long time to hang around. The thing
+with spectating a time trial is that it's literally the opposite of
+spectating the other days. On other days you wait and wait for the 
+race to come through and then they are gone. But with the time trial
+it takes over 4 hours for everyone to even get started. And because 
+we really only cared about the last probably 15 guys in the GC, we
+had 3+ hours to kill until we wanted to be along the route
+to see the top guys finish. We made good use of this tme though - 
+navigating our way through Old Nice, getting some good food, 
+going to the beach, and grabbing a beer. Eventually it was time 
+for us to get on the course. Somewhat unfortunately for us, 
+everyone and their mother also thought the same.
+
+Figuring that we wouldn't find a better spot, we set up shop
+about 3 people deep from the barrier at the 250m to go sign.
+To set the stage, you can imagine the end of the day's route 
+as heading east on the promenade (beach side), making a U-turn
+to come back westbound (city side), and then making a turn north
+into the city with about 300m to go to the finish. From our spot, 
+we could catch a glimpse of riders as they passed going east 
+and could see them appear around the corner as they headed up
+to the finish. We got to see the likes of Matteo, Remco, Jonas, 
+and Tadej fly past. The energy around us was incredible. With every 
+single rider, fans start banging on the barrier to cheer them on
+to the finish. As the names got bigger, so did the cheering. 
+A group of Danish fans were chanting "JONNAASSS, JONNASSS, 
+JONNASSS" and banging away as they waiting anxiously for their 
+national treasure. And with Tadej, the banging started even
+earlier. The media helicopter was overhead and everyone was 
+locked in as the yellow jersey flew past. After he finished, it
+was a sea of humanity with media helicopters overhead and the
+sun starting to set - truly a picturesque moment. I couldn't help
+but smile and try to take it all in.
+
+TODO: Add picture of us @ 250m to go and the picture after the finish
+
+
