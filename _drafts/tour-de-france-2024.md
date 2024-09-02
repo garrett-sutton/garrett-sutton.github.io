@@ -3,7 +3,86 @@ layout: post
 title:  It's the Tour de France!
 date:   2024-08-25
 categories: [ travel, zz_sabbatical-2024 ]
+images:
+  - path: /assets/images/familyIsolaTour2024.jpg
+    alt: "At the base of the final climb for stage 19 in Isola village"
+  - path: /assets/images/GraceGwenIsolaTour2024.jpg
+    alt: "Grace and Gwen in Isola Village"
+  - path: /assets/images/colmianeCrowdTour2024.jpg
+    alt: "Crowd near the top of La Colmiane - Stage 20"
+  - path: /assets/images/GraceGwenWaitingColmianeTour2024.jpg
+    alt: "Hanging out in woods next to La Colmiane - Stage 20"
+  - path: /assets/images/topColmianeTour2024.jpg
+    alt: "Top of La Colmiane - Stage 20" 
+  - path: /assets/images/nice250mToGoTour2024.jpg
+    alt: "Under the 250m to go sign - Stage 21" 
+  - path: /assets/images/niceAfterTour2024.jpg
+    alt: "Sun sets on 2024 Tour de France in Nice" 
+  - path: /assets/images/caravanGoodsTour2024.jpg
+    alt: "Stuff acquired from caravan at tour 2024" 
 ---
+{% assign isola_images = "" %}
+{% assign colmiane_images = "" %}
+{% assign nice_images = "" %}
+{% assign caravan_images = "" %}
+
+{% for image in page.images %}
+    {% if image.path contains "Isola" or image.path contains "isola" %}
+        {% assign isola_images = isola_images | append: image.path | append: "," %}
+        {% assign isola_images = isola_images | append: image.alt | append: "|" %}
+        {% continue %}
+    {% endif %}
+    {% if image.path contains "Colmiane" or image.path contains "colmiane" %}
+        {% assign colmiane_images = colmiane_images | append: image.path | append: "," %}
+        {% assign colmiane_images = colmiane_images | append: image.alt | append: "|" %}
+        {% continue %}
+    {% endif %}
+    {% if image.path contains "Nice" or image.path contains "nice" %}
+        {% assign nice_images = nice_images | append: image.path | append: "," %}
+        {% assign nice_images = nice_images | append: image.alt | append: "|" %}
+        {% continue %}
+    {% endif %}
+    {% if image.path contains "Caravan" or image.path contains "caravan" %}
+        {% assign caravan_images = caravan_images | append: image.path | append: "," %}
+        {% assign caravan_images = caravan_images | append: image.alt | append: "|" %}
+        {% continue %}
+    {% endif %}
+{% endfor %}
+
+{% assign isola_images = isola_images | split: "|" | where_exp: "item", "item != ''" %}
+{% assign colmiane_images = colmiane_images | split: "|" | where_exp: "item", "item != ''" %}
+{% assign nice_images = nice_images | split: "|" | where_exp: "item", "item != ''" %}
+{% assign caravan_images = caravan_images | split: "|" | where_exp: "item", "item != ''" %}
+
+<script>
+  var slideIndex = 1;
+  showSlides(slideIndex,"isola-pics");
+  showSlides(slideIndex,"colmiane-pics");
+  showSlides(slideIndex,"caravan-pic");
+  showSlides(slideIndex,"nice-pics");
+  
+
+
+  function plusSlides(n, type) {
+    showSlides(slideIndex += n, type);
+  }
+
+  function currentSlide(n, type) {
+    showSlides(slideIndex = n, type);
+  }
+
+  function showSlides(n, type) {
+    var i;
+    const query = '[aria-label*="' + type + '"]';
+    var slides = document.querySelectorAll(query) 
+    if (n > slides.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = slides.length}
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+    }
+    slides[slideIndex-1].style.display = "block";
+  }
+</script>
 
 I started watching the Tour de France as something
 to do during covid. That also happened to be the 
@@ -127,8 +206,24 @@ he is also a real fan favorite. People -- myself included --
 really seem to love his uncanny ability on a bike and
 youthful exuberance. 
 
-
-TODO: add pic in Isola
+<div class="slideshow-container">
+  <div class="mySlides fade" >
+    <p align="center">
+      <a style="font-size:-webkit-xxx-large; padding:10px" 
+      onclick="plusSlides(-1,'isola-pics')">&#10094;</a>
+      <a style="font-size:-webkit-xxx-large; padding:10px" 
+      onclick="plusSlides(1,'isola-pics')">&#10095;</a>
+    </p>
+    {% for image in isola_images %}
+    {% assign img = image | split: "," | where_exp: "item", "item != ''" %}
+    <p align="center" aria-label="isola-pics">
+      <img src="{{ img[0] }}" 
+        style="width:50%;"
+        alt="{{ img[1] }}">
+    </p>
+    {% endfor %}
+  </div>
+</div>
 
 ### la colmiane  - stage 20
 Lucky for us, we didn't have to do any driving for Stage 20.
@@ -181,7 +276,24 @@ for a little while. And then the groupetto came through. I
 sort of panicked becasue I had to actually jump off the road to
 get out of the way instead of just taking a step backwards. 
 
-TOdo: ADD PICTURE OF THE CLIMB
+<div class="slideshow-container">
+  <div class="mySlides fade" >
+    <p align="center">
+      <a style="font-size:-webkit-xxx-large; padding:10px" 
+      onclick="plusSlides(-1, 'colmiane-pics')">&#10094;</a>
+      <a style="font-size:-webkit-xxx-large; padding:10px" 
+      onclick="plusSlides(1, 'colmiane-pics')">&#10095;</a>
+    </p>
+    {% for image in colmiane_images %}
+    {% assign img = image | split: "," | where_exp: "item", "item != ''" %}
+    <p align="center" aria-label="colmiane-pics">
+      <img src="{{ img[0] }}" 
+        style="width:50%;"
+        alt="{{ img[1] }}">
+    </p>
+    {% endfor %}
+  </div>
+</div>
 
 Once the whole race came through, we walked up to the top of the
 climb where another big screen had been set up that was showing 
@@ -210,6 +322,19 @@ Old Nice and seeing Castle Hill park. When the caravan eventually
 cambe thorugh, we lucked out! Actually, Grace and I both caught 
 one, but Grace gave hers away. Mission accomplished! Like the other
 days, the caravan for today was a ton of good energy. 
+
+<div class="slideshow-container">
+  <div class="mySlides fade">
+    {% for image in caravan_images %}
+    {% assign img = image | split: "," | where_exp: "item", "item != ''" %}
+    <p align="center" aria-label="caravan-pic">
+      <img src="{{ img[0] }}" 
+        style="width:50%;"
+        alt="{{ img[1] }}">
+    </p>
+      {% endfor %}
+  </div>
+</div>
 
 After the caravan, we had a long long time to hang around. The thing
 with spectating a time trial is that it's literally the opposite of
@@ -245,6 +370,68 @@ was a sea of humanity with media helicopters overhead and the
 sun starting to set - truly a picturesque moment. I couldn't help
 but smile and try to take it all in.
 
-TODO: Add picture of us @ 250m to go and the picture after the finish
+<div class="slideshow-container">
+  <div class="mySlides fade">
+    <p align="center">
+      <a style="font-size:-webkit-xxx-large; padding:10px" 
+      onclick="plusSlides(-1, 'nice-pics')">&#10094;</a>
+      <a style="font-size:-webkit-xxx-large; padding:10px" 
+      onclick="plusSlides(1, 'nice-pics')">&#10095;</a>
+    </p>
+    {% for image in nice_images %}
+    {% assign img = image | split: "," | where_exp: "item", "item != ''" %}
+    <p align="center" aria-label="nice-pics">
+      <img src="{{ img[0] }}" 
+        style="width:50%;"
+        alt="{{ img[1] }}">
+    </p>
+    {% endfor %}
+  </div>
+</div>
 
+## takeaways
+The tour was probably my favorite part of the trip. It was different
+from what I expected and in the best way possible. We were really 
+fortunate to have good weather and very few logistical hurdles to 
+overcome. And because the race comes through later in the day, we
+didn't have to be in a huge hurry at any point, which gave us a good
+opportunity to explore the surrounding areas (by foot of course).
 
+Though the US is sports crazed, especially with football for nearly
+half of the year, this felt different. There's another cultural
+component to the tour. People of all sorts are there. People that
+I'm sure do not care at all about the bike race. And because
+it's free and with a new stadium every day, it seems like each 
+day welcomes a ton of new people. The French clearly take pride in
+hosting this race every year. Towns, cities, and villages are 
+transformed overnight to prep for each stage. There is an unspoken
+energy all around. Though some people are there for a day, it 
+seems that others follow the tour around for several days or even
+it's entirety, camping along the road to get a mere glimpse of 
+the riders as they fly by. But given the riders in the tour aren't 
+only from France, there's world interest in the race too. We saw 
+people from all over there to cheer on their nation's riders.
+Regardless of where people were from, it appeared that 
+everyone cheered for every rider, knowing that they were witnessing
+one of the hardest races in the world. There's a collective 
+understanding that the riders are suffering through this 
+otherworldly endeavor - even though they make it look so easy.
+
+Depending on the type of experience, I think great 
+times can be things that you're OK with doing just once
+in your life or there are things that you're left wanting to do
+again. I'd air on the tour experience being more of the latter
+for me. I definitely had a lot of fun while we were there. But as
+we made our way around France, I got to see and even ride some 
+other areas the tour commonly goes through. I think seeing the
+tour going through a new area would be an entirely new experience,
+a whole new adventure. And though it's cool for us to say that 
+we saw the tour finish outside of Paris for the first time ever,
+the TV images of the Champs Elyses and the fact that you'd see the 
+race wizz past 8 times seems so cool. As an added bonus, I 
+listended to a podcast when we got back that said the caravan
+on the Champs is also a sight to behold. All of this is to say,
+I think going back would be a lot of fun. Though it wouldn't happen
+for some time, I'd hope a next time includes 
+more bike riding (maybe even the L`Etape du Tour de France) 
+and seeing the finish on the Champs in Paris.
