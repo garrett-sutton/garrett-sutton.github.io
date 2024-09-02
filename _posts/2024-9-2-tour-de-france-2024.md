@@ -54,34 +54,6 @@ images:
 {% assign nice_images = nice_images | split: "|" | where_exp: "item", "item != ''" %}
 {% assign caravan_images = caravan_images | split: "|" | where_exp: "item", "item != ''" %}
 
-<script>
-  var slideIndex = 1;
-  showSlides(slideIndex,"isola-pics");
-  showSlides(slideIndex,"colmiane-pics");
-  showSlides(slideIndex,"caravan-pic");
-  showSlides(slideIndex,"nice-pics");
-  
-  function plusSlides(n, type) {
-    showSlides(slideIndex += n, type);
-  }
-
-  function currentSlide(n, type) {
-    showSlides(slideIndex = n, type);
-  }
-
-  function showSlides(n, type) {
-    var i;
-    const query = '[aria-label*="' + type + '"]';
-    var slides = document.querySelectorAll(query) 
-    if (n > slides.length) {slideIndex = 1}
-    if (n < 1) {slideIndex = slides.length}
-    for (i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";
-    }
-    slides[slideIndex-1].style.display = "block";
-  }
-</script>
-
 I started watching the Tour de France as something to do during covid. That 
 was the year that Tadej Pogacar burst onto the scene and made up over a minute 
 on an epic stage 20 time trial to beat Primoz Roglic and win the tour. I’ve 
@@ -362,11 +334,11 @@ from France, there’s world interest in the race too. We saw people from all
 over who were there to cheer on their nation’s riders. Regardless of fandom, 
 it appeared that everyone cheered on every rider, knowing that they were 
 witnessing one of the hardest races in the world. There's a collective 
-understanding that the riders are suffering through this otherworldly endeavor 
-- even though they make it look easy. In addition to the crazed cycling fans, 
-I'm sure many in attendance do not care at all about the bike race. Because 
-it's free and with a new stadium for every stage, there are always new faces 
-in the crowd. Each day is truly an adventure.
+understanding that the riders are suffering through this otherworldly 
+endeavor - even though they make it look easy. In addition to the crazed 
+cycling fans, I'm sure many in attendance do not care at all about the 
+bike race. Because it's free and with a new stadium for every stage, there 
+are always new faces in the crowd. Each day is truly an adventure.
 
 Depending on the type of experience, I think great times can be things that 
 you’re OK with doing just once in your life or there are things that you’re 
@@ -382,3 +354,31 @@ we got back that said the caravan on the Champs is also a sight to behold. All
 of this is to say, I think going back would be a lot of fun. Though it won’t 
 happen for some time, I hope a next time includes more bike riding (maybe even 
 the L`Etape du Tour de France) and seeing the finish on the Champs in Paris.
+
+<script>
+  var slideIndex = 1;
+  showSlides(slideIndex,"isola-pics");
+  showSlides(slideIndex,"colmiane-pics");
+  showSlides(slideIndex,"caravan-pic");
+  showSlides(slideIndex,"nice-pics");
+  
+  function plusSlides(n, type) {
+    showSlides(slideIndex += n, type);
+  }
+
+  function currentSlide(n, type) {
+    showSlides(slideIndex = n, type);
+  }
+
+  function showSlides(n, type) {
+    var i;
+    const query = '[aria-label*="' + type + '"]';
+    var slides = document.querySelectorAll(query) 
+    if (n > slides.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = slides.length}
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+    }
+    slides[slideIndex-1].style.display = "block";
+  }
+</script>
