@@ -23,8 +23,29 @@ makes it such that the guy finishing last really may not be the
 worst rider in the tour. 
 
 ## how hard is the tour
-The book goes through the origin stories of the tour and how
-the founders of the tour
+The book goes through the origin stories of the tour. And with
+those stories, it highlights that the founder wanted the race
+to be extremely hard to finish. Allegedly, his ideal tour would
+have been one where only 1 rider could finish. This alleged
+dream never came to fruition, but the sentiment is what
+matters. It's hard to imagine riding nearly 100 miles per
+day in all types of weather conditions, over huge mountains,
+at ridiculous speeds for three weeks. I'd like to think I'm 
+a relatively fit individual, but each year I have done the MS ride 
+(i.e. not a race - with lots of snacks and breaks), I have found
+myself in a hole. And this ride is only ever a maximum of 100 
+miles. The confidence I gain from watching the tour quickly
+disappears in the form of humble pie.
+
+Cycling also has a dark past. And the book does acknowledge it 
+for a chapter. But interestingly, the author highlights that
+even with doping, you weren't a guarantee to be at the front. The
+media commonly focuses on the riders who won while on drugs, but
+it doesn't highlight the fact that drugs can also put you at
+the back of the race. Some riders were into more than PEDs and
+they paid for it in the form of suffering endlessly over the course
+of the tour. Given that even cheating couldnt' keep them out of 
+last, it speaks again to just how hard the race is.
 
 ## value from the back
 talk sponsors and such
@@ -38,9 +59,14 @@ finishers to a stage on a tv, but I have a sense of how hard
 it is for these guys to finish the race. I think it's pretty easy 
 to watch the race on tv, see a guy like Tadej seemingly fly
 up mountains in effortless fashion, and think everyone else is
-slow or not trying. That's simply not true. These guys at the 
+slow or not tryingi hard enough. That's simply not true. 
+These guys at the 
 back are fighting each and every day to make it to the line
-within the time cut.
+within the time cut. And even though they have sponsorships
+and financial incentives to finish the tour, there is truly
+a sense of pride in just getting to the finish line.
+
+
 
 
 ## quotes from the book
