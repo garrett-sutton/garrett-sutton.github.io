@@ -86,8 +86,21 @@ back are fighting each and every day to make it to the line
 within the time cut. And even though they have sponsorships
 and financial incentives to finish the tour, there is truly
 a sense of pride in just getting to the finish line.
+A good example was aptly Mark Cavendish this year. Cav scored
+his record 35th stage win on stage 5 of this year. It would
+have been easy for him to just be done at that point. He's
+made all of his money in the sport. He's accomplished all
+that you could accomplish in the sport. But he continued on
+and finished in Nice.
 
-
+I've likely said it on this blog before, but I think it's 
+important for people to do hard things. The way we react in times
+of adversity shapes how we carry ourselves generally. Additionally,
+the book highlights a NYT article that argues it's good for
+kids to lose. This is similar to doing hard things. Sometimes
+things aren't going to go your way you need to have the 
+mental fortitude to stick it out and keep trying. This type of
+persistence is the reality of the lanterne rouge. 
 
 
 ## quotes from the book
