@@ -45,11 +45,32 @@ it doesn't highlight the fact that drugs can also put you at
 the back of the race. Some riders were into more than PEDs and
 they paid for it in the form of suffering endlessly over the course
 of the tour. Given that even cheating couldnt' keep them out of 
-last, it speaks again to just how hard the race is.
+last, it speaks again to just how hard the race is. This feels like
+it only reaffirms the old Netflix documentary called Icarus. 
+You still need a lot of things to go right in order for the
+doping effort to pay off.
 
 ## value from the back
-talk sponsors and such
-talk combativity
+The book talks through several ways that the rider at the back
+creates monetary value. First, for the rider himself. Commonly,
+there are crit races throughout Europe in the weeks after the
+tour that invite the biggest names from the tour. Because riding
+the tour is still impressive, they would sometimes include the
+lanterne rouge as well because it's likely the name at the very
+bottom of the GC was more distinguishable than the second or 
+third to last guy. These crit races offered big appearance prizes
+for these riders, making it desirable in a way to finish in last.
+
+Next, for the sponsors of the riders. In a similar way that the
+name at the back of the race is valuable for the rider, it can 
+also be valuable for the sponsors. There was at least 1 instance 
+were the guy finishing last also finished last on the Champs 
+Elysees - doing so in dramatic fashion. He walked his bike over the
+last several meters of the race. This gives a ton of air time to 
+the sponsor. At the same time, other stories mentioned guys
+who, despite their GC ranking, were constantly attacking day-after-
+day. This pursuit of a stage win as part of the breakaway
+also gives a ton of air time to for the sponsors as well.
 
 ## my takeaways
 Now, as I write this post after being at the tour for a few days
