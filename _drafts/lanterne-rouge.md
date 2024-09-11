@@ -103,7 +103,23 @@ mental fortitude to stick it out and keep trying. This type of
 persistence is the reality of the lanterne rouge. 
 
 ## quotes from the book
-
-
-
-
+A few quotes from the book stuck out to me. I just copied and
+pasted them below.
+- "The public humiliation of finishing last was, for him, easier
+than the private pain of surrender" - something wrote about
+Lance after he finished dead last in his first ever pro race.
+- "bad moments he had riding made him remember the good things
+he felt during the Tour. These momentsmade him stronger, not only
+for riding the bike, but for his life. He says I know I can, I
+have to, work to do things better, to be better, to be happy."
+- Dialogue around does the spectating public understand what
+sprinters go through in the mountains:
+   - "It doesn't get easier, you just get faster"
+   - Some people say you just need to look around to see the
+  suffering. It doesn't take a crystal ball or some outpouring
+  of emotion on behalf of the riders.
+   - "I raced the world's best bike races for 200 km over the
+  Galibier in a storm." There's a weight to the statement that
+can't be denied. And there might not even be insight to be
+gained. The remarkable thing is the rider's persistence to keep
+going.
