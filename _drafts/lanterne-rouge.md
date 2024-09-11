@@ -102,6 +102,17 @@ things aren't going to go your way you need to have the
 mental fortitude to stick it out and keep trying. This type of
 persistence is the reality of the lanterne rouge. 
 
+At the end of the day, I hope I take away the value of making it
+to the finish line from this book. To the best of my knowledge,
+I've never DNF'd a running race. I hope to keep it that way. 
+No matter how bad of a day it might be or how far off the goal
+pace I might be, finishing is still better than not finishing.
+Finishing is still an accomplishment in and of itself. And I 
+think that loosely
+translates to real life. There is tremendous value in working 
+hard to whaetver your finish line is, even if it wasn't pretty
+to get there. 
+
 ## quotes from the book
 A few quotes from the book stuck out to me. I just copied and
 pasted them below.
