@@ -102,7 +102,6 @@ things aren't going to go your way you need to have the
 mental fortitude to stick it out and keep trying. This type of
 persistence is the reality of the lanterne rouge. 
 
-
 ## quotes from the book
 
 
