@@ -8,4 +8,63 @@ categories: [ preoccupations ]
 I commonly say that I think doing hard things
 is good for us. And I even get at least a little
 bit of enjoyment out of doing some hard things.
+I also really enjoy spending time riding my bike
+as a way to indulge in a "hard thing."
 
+For the past 3 years, I've been able to get a
+group together to take part in Bike MS - a 
+charity bike ride that supports the National MS
+Society. This is a cause that is close to me
+because my mom has MS. It's an honor to raise 
+money for a good cause and awesome to be able 
+to spend time with others doing an activity
+that I enjoy.
+
+Typically this ride takes place over the
+course of a weekend and we ride anywhere from 
+50-100 miles each day. Given it's not a race, 
+the "hard things" part of this is largely just
+the battle of attrition.
+
+For this year's ride, my dad made the trip to
+Wisconsin for us to do the ride near Wisconsin 
+Dells (~ an hour from home). Both days offered 
+3 loops that were around 25 miles each. You could
+ride any number of loops that you wished. On day
+1, my dad and I did all 3 loops. This was pretty
+miserable by the end. It was super humid, full sun
+and 90 degrees for a good portion of the ride. It's
+the type of heat that feels suffocating. By the end,
+it felt like I couldn't put anything in my body
+that would put any type of power in the pedals. 
+Thankfully we made it, but I was crazy tired and sore
+by the night. Surprisingly, day 2 went much better -
+maybe influenced the fact that we only did 2 loops. 
+But also, we hopped on the back of a group and let them do
+nearly all of the work for the first 25 miles. It was
+also a bit more cloudy, so it didn't feel nearly as
+hot. It was nice to get done earlier, beat the heat,
+and give my dad and I some additional time to spend with
+Gwen and my mom respectively.
+
+This year, more than other years of doing the ride, felt
+like it was really about supporting those with MS. A lot
+of announcements were made at the beginning of each day
+about the impact of our collective fundraising and 
+progress that has been made with MS research and treatment.
+Throughout the ride, I interacted with several people
+that rode with MS. Each of them expressed their thanks
+for us riding. In addition to the fundraising impact,
+I hadn't previously considered what it means to these
+folks to just show up. I've only been concerned with 
+my mom in the past, but it was really nice to do something
+that provided a smile to complete strangers too. 
+
+One guy riding with MS shared his story with my dad and I. 
+He had been unable to walk for 18 months early on in his
+time with MS. But after starting to exercise he slowly
+regained his ability to walk and now, 20+ years later 
+he continues to exercise and it able to participate in
+the MS ride every year. It was really impressive and
+inspiring. I felt humbled after struggling
+my way through day 1 of the ride.
