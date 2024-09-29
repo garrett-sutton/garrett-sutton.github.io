@@ -9,9 +9,104 @@ For our trip to France in summer 2024, we went from the Tour
 de France finish in Nice to a small town in the Alps called
 Briancon.
 
-## What did we do?
+## what did we do?
 While in Briancon, we had a few "bigger" activites that we wanted
-to do but no real plan on when to do them. 
+to do but no real plan on when to do them. We had 3 big things
+planned and essentially 3 full days, so it worked out well to have
+1 thing on our agenda each day and not push Gwen too hard.
+
+### Day 1
+This was a "just me" excursion. Briancon is a common point along the
+Tour de France because almost all ways out of the town are iconic
+climbs - the col de izolard, the col de granon, the col de laudaret,
+and the col de galibier. With my interest in the tour and riding
+bikes, I wanted take on one of these legendary
+climbs to actually see how difficult it was. It worked out best
+for me to choose the hardest of all of the above - the col de 
+granon. The Granon is closest to Briancon, but also the steepest.
+It's 11k with an average gradient of over 9%. This is also the 
+climb that Jonas broke open the 2022 Tour de France. I've watched
+the replay for htat stage several times while doing a winter
+indoor trainer ride. On that day, the race passed over the col 
+de telegraphi (categroy 1), the col de galibier (beyond 
+categorization), and finished at the top of the
+col de granon (beyond categorization). Needless to say, I was 
+going to have a much easier day. At the same time, I'm a
+regular guy that enjoys occassionally riding around my flat home 
+roads in Wisconsin. 
+
+I rented a bike from a local shop, got a pack of oreos from the
+local grocery store, and set off. At the base of teh climb, I 
+stopped for a picture and an oreo before taking on the beast. 
+On the lower slopes, it wasn't terribly steep. I was
+still on some of the lowest gears, but I could comfortably pedal at 
+7-8 mph. Then I got above treeline. By that time, I was starting
+to feel the sustained grade of the lower slopes and now slightly 
+steeper slopes. By now, I was working for 5-6 mph. I found some 
+motivation in the remnants of painted messages on the road, still
+visible from the 2022 stage. 
+
+I wasn't actually sure if I could pedal the entire way without not
+stopping. And though I had been eating my oreos along the way, I
+made a stop 6 km into the climb to take a break, get some more fuel
+in me and take in some scenery. This was also at the start of the
+steepest km of the entire climb. Lucky for me, I didn't fall over when
+I started again. However, that felt like no small feat at the time. 
+Being so steep, it's near impossible to pedal with one foot clipped,
+so I would have almost certainly fallen over if I didn't manage
+to get my other foot clipped realy quickly. If I ever did this again,
+I would take the unfortunate step of riding down the mountain long 
+enough to get my other foot clipped in and then pull a u turn to take
+on the grade with 2 feet.
+
+The rest of the climb went by slowly and steadily, with 
+limited excitement and beautiful scenery all around. 
+Near the top, I could tell that it got a little less steep, but in
+general I made good friends with the largest cog and 
+just had to keep on keeping on.
+
+Eventually, nearly 75 minutes later, I made it to the top - the end of 
+the road. At the top, there is a cool little cabin restaurant
+with sun chairs and a patio. I snagged a coke and sparking water
+and took in the view from one of the sun chairs. Needless to say,
+the ride down was much quicker than the ride up. It was a lot 
+more bumpy too. I guess you just don't notice how not smooth the
+road is when you're going so slow. I hung onto the
+brakes and let gravity do its thing. 
+
+After returning the bike, I met up with Gwen and Grace at a park
+next to our AirBnb. This was a nice spot. Many kids around playing,
+a ropes course, a glacial pond with a small beach and paddleboards, 
+and a snack shack. 
+Gwen was super happy. This felt different than many parks that 
+I've seen in the US; largely due to teh volume of peopel around
+at 3 in the afternoon, but also how simple it all seemed. I have
+never seen a park in the US with so many free activities. In the US,
+it feels like this sort of place would have to cost money and you'd
+definitely have to sign waviers to take part.
+
+For the first night in some time, we had NOT pizza for dinner. 
+Grace made a really good chicken stir fry dinner at the Airbnb. 
+Throughout the whole trip we struggled a bit with food. We 
+typically couldn't eat out because most places (especially in
+small towns) didn't start dinner until 7 pm, but Gwen needed
+to get to bed soon after that. After dinner, Grace and I finished
+the night playing some cards (i.e. Grace beating on me bad).
+
+#### Aside on the bike
+For my sake, I'm calling out some details on the bike that I rented.
+I rented a full carbon Scott bike with a Shimano 105 groupset. I 
+regret that I didn't check out the actual model of the bike. I
+can guess it was the 2022 Scott Addict 30.
+
+I usually ride a 56 cm bike, but the guy at the bike shop encouraged 
+me to get a 54 because that would be more helpful for climbing. I'm
+glad I trusted him because the bike seemed to work really well for
+me.
+
+### Day 2
+
+### Day 3
 
 
 ## what was it like?
