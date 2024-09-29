@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Bike MS 2024"
-date:   2024-8-24 
+title:  "Bike MS 2024"
+date:   2024-8-24 
 categories: [ preoccupations ]
 ---
 
 I commonly say that I think doing hard things
 is good for us. And I even get at least a little
-bit of enjoyment out of doing some hard things.
+enjoyment from doing some hard things.
 I also really enjoy spending time riding my bike
 as a way to indulge in a "hard thing."
 
@@ -32,7 +32,7 @@ Dells (~ an hour from home). Both days offered
 3 loops that were around 25 miles each. You could
 ride any number of loops that you wished. On day
 1, my dad and I did all 3 loops. This was pretty
-miserable by the end. It was super humid, full sun
+miserable by the end. It was super humid, with full sun
 and 90 degrees for a good portion of the ride. It's
 the type of heat that feels suffocating. By the end,
 it felt like I couldn't put anything in my body
@@ -44,10 +44,12 @@ But also, we hopped on the back of a group and let them do
 nearly all of the work for the first 25 miles. It was
 also a bit more cloudy, so it didn't feel nearly as
 hot. It was nice to get done earlier, beat the heat,
-and give my dad and I some additional time to spend with
+and give my dad and me some additional time to spend with
 Gwen and my mom respectively.
 
-This year, more than other years of doing the ride, felt
+<p align="center"><img src="/assets/images/bikeMS_2024.jpg" alt="Dad and I in action at Bike MS" height="auto" width="50%"></p>
+
+This year, more than in other years of doing the ride, felt
 like it was really about supporting those with MS. A lot
 of announcements were made at the beginning of each day
 about the impact of our collective fundraising and 
@@ -57,14 +59,14 @@ that rode with MS. Each of them expressed their thanks
 for us riding. In addition to the fundraising impact,
 I hadn't previously considered what it means to these
 folks to just show up. I've only been concerned with 
-my mom in the past, but it was really nice to do something
-that provided a smile to complete strangers too. 
+my mom in the past, but it was nice to do something
+that could make strangers smile too. 
 
 One guy riding with MS shared his story with my dad and I. 
 He had been unable to walk for 18 months early on in his
 time with MS. But after starting to exercise he slowly
 regained his ability to walk and now, 20+ years later 
-he continues to exercise and it able to participate in
+he continues to exercise and is able to participate in
 the MS ride every year. It was really impressive and
 inspiring. I felt humbled after struggling
 my way through day 1 of the ride.
