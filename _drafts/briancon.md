@@ -105,6 +105,24 @@ glad I trusted him because the bike seemed to work really well for
 me.
 
 ### Day 2
+Today we went for a long hike. The town of Briancon has now grown
+since it's infancy, but the exiting original city was fortified. 
+And there
+were a number of fortifications that surrounded the city in an
+effort to alert of any invaders. These forts still exist today
+and are a world heritage site. There is a nice trail 
+network that connects many of them. 
+We put together a route that navigated between several of them 
+from our airbnb and set off with water, snacks, Gwen's necessities 
+and Gwen in the carrier. 
+
+It was a really nice hike. A good portion of it was shaded and
+we got to see some beautiful vantage points of the fortified city
+and the valley below. Gwen was also a champ. She took a nap at a
+point and was generally happy for most of the time!
+I did get spooked at a point by a very large dog that came toward us
+at a point, but it's owners called it back quickly and thankfully
+there is nothing else to write about it.
 
 ### Day 3
 
