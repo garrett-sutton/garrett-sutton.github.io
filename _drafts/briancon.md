@@ -125,7 +125,41 @@ at a point, but it's owners called it back quickly and thankfully
 there is nothing else to write about it.
 
 ### Day 3
+High above Briancon is the Serre Chevalier ski resort. There
+is a small chapel near the top of the resort called the 
+Notre Dame des Neiges (Our Lady of the Snows). We planned on
+taking the cheater way up by riding a gondola to the top 
+of the resort to check out the chapel. When we got to the top,
+we also decided to make a little excursion of it and do take the 
+long way to the chapel. It was a beautiful hike with views of the 
+valleys below and the Alps looming above. We even got to navigate
+through a bit of semi-technical terrain. Grace handled Gwen in the
+carrier really well. And Gwen was just a doll for the whole time. 
 
+When we got back to our Airbnb, we got lunch and decided we had 
+time in the afternoon to go for a little drive up one of the climbs
+that goes out of Briancon. Because I rode the Granon, and the 
+Izolard seems less popular, we chose the Galibier. The galibier 
+was in this years tour and is pretty commonly crossed over by 
+the tour. To get to the Galibier, we had to take the
+long and beautiful ride up the valley (aka the  col de laudaret)
+to then turn
+up the steeps of the galibier. On the Galibier, it's quite long 
+and steep. There were cyclists everywhere. Near the top, there's 
+a tunnel that goes through the top of the mountain but there is a
+road that also goes over the very top too. I suspect that the
+road over the top is used almost exclusively for cyclists and
+the tour. 
+
+At the top of the Galibier, there's a little parking lot
+and a stunning landscape on both the north and south side of
+the pass. It's super cool to see the road snake it's way up 
+to the top and read the messages painted on the road by fans
+cheering on their favorite riders. In addition to the beautiful
+climbs up to the top fo the Galibier, there's again views of the
+massive Alps across the valley that seem to go on forever. 
+This was a suprise part of our tiem in Briancon and it really is
+a highlight. This was stunning.
 
 ## what was it like?
 TODO: talk language barrier. food. coffee. breakfast
