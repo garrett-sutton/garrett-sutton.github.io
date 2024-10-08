@@ -162,6 +162,59 @@ This was a suprise part of our tiem in Briancon and it really is
 a highlight. This was stunning.
 
 ## what was it like?
-TODO: talk language barrier. food. coffee. breakfast
+I feel like our time in Briancon was a lot of what we imagined out 
+of a town in the Alps. It's a small town with beautiful views all 
+around, bakeries, and easy to walk around to everything you could
+need. We were able to keep a good balance of busy and relaxed. 
+I'd say that much lived up to our expectations. Being in a 
+foreign country, and especially a small town, I feel like you're
+truly immersed in the culture. We definitely struggled with it
+at a few points. Probably an obvious point but we certainly
+overlooked it until we got there - the language barrier. In 
+the remote areas of France, English is much less common. We never
+got into any situations that were unsolvable because of a 
+language barrier, but many interactions required careful 
+consideration in what you said. 
+
+Additionally, food wasn't nearly as easy as we would have expected.
+As part of our routine weekends in thate US, we'll go to a coffee
+shop and commonly get a coffee and breakfast sandwich. In Briancon,
+this was never the case. I've heard on podcasts that breakfast in
+France is a coffee and a cigarette. I can now believe that. 
+On multiple occassions we went to a nice cafe and could only get
+a coffee (no fancy lattes either) and a croisant or chocolate
+bread. It was always good, but we all felt like we could have
+used some more protein.
+
+We made trips to the grocery store most days, and because it was 
+in walking distance, it wasn't too bad. We ultimately had to 
+get most of our food to cook at the airbnb. We could have done
+lunch out but ended up eating quickly on most days at the airbnb.
+Dinner was next to impossible to get out because it seemed 
+common for restaurants to not open for dinner until 7 pm. Many
+peopel coudl be seen sititng otuside the restaurants before 7 pm,
+but they all only had a drink with them. For us, Gwen needed to be
+getting close to bedtime by that time. It was better for us
+to just eat at the airbnb.
+
+On a few occasions when we were out, we maybe even felt like
+we were quietly being watched. One afternoon, we went to the 
+town square to get a drink and take in the scene. It was nice
+to enjoy the afternoon warmth from under an umbrella and
+have Gwen chill in her stroller. I also felt like the couple
+next to us was paying close attention to us. If this is even
+true, it could be for a variety of reasons - the fact that
+we spoke english, but also maybe just that Gwen can be noisy
+at points. They never said anything to us, but I never got 
+a necessarily nice look from them either. On the occassion of taking
+the gondola to the top of the ski resort, we had a lift 
+attendant respond to me asking "Can you explain in English?" with
+something along the lines of "We are in France, so I speak French"
+before finishing her instructions for us in English. It 
+felt like an unneccessary snarky response at the time. Both of 
+these situations are maybe more to highlight the fact
+that I was insecure of the fact that I didn't fit in in this
+foreign place. It was truly a unique experience for me.
+
 ## Did it live up to expectations?
 
