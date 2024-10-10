@@ -161,12 +161,8 @@ massive Alps across the valley that seem to go on forever.
 This was a suprise part of our tiem in Briancon and it really is
 a highlight. This was stunning.
 
-## what was it like?
-I feel like our time in Briancon was a lot of what we imagined out 
-of a town in the Alps. It's a small town with beautiful views all 
-around, bakeries, and easy to walk around to everything you could
-need. We were able to keep a good balance of busy and relaxed. 
-I'd say that much lived up to our expectations. Being in a 
+## a few small difficulties
+Being in a 
 foreign country, and especially a small town, I feel like you're
 truly immersed in the culture. We definitely struggled with it
 at a few points. Probably an obvious point but we certainly
@@ -216,5 +212,14 @@ these situations are maybe more to highlight the fact
 that I was insecure of the fact that I didn't fit in in this
 foreign place. It was truly a unique experience for me.
 
-## Did it live up to expectations?
-
+## did it live up to expectations?
+I feel like our time in Briancon was a lot of what we imagined out 
+of a town in the Alps. It's a small town with beautiful views all 
+around, bakeries, and easy to walk around to everything you could
+need. We were able to keep a good balance of busy and relaxed. 
+I'd say that much lived up to our expectations. As mentioned above,
+there were definitely a few points where we struggled, largely
+due to the cultural differences. We had the big things planned
+like you would for any other trip, but it's some of the little
+things that I definitely neglected because I had never traveled
+abroad before. 
