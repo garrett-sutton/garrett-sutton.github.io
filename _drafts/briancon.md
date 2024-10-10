@@ -74,6 +74,8 @@ more bumpy too. I guess you just don't notice how not smooth the
 road is when you're going so slow. I hung onto the
 brakes and let gravity do its thing. 
 
+[Here is a link to my strava activity from the ride](https://www.strava.com/activities/11960682610). 
+
 <p align="center"><img src="/assets/images/topOfGranon2024.jpg" alt="Just off the top of the Granon" height="auto" width="50%"></p>
 
 After returning the bike, I met up with Gwen and Grace at a park
