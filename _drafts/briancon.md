@@ -74,6 +74,8 @@ more bumpy too. I guess you just don't notice how not smooth the
 road is when you're going so slow. I hung onto the
 brakes and let gravity do its thing. 
 
+<p align="center"><img src="/assets/images/topOfGranon2024.jpg" alt="Just off the top of the Granon" height="auto" width="50%"></p>
+
 After returning the bike, I met up with Gwen and Grace at a park
 next to our AirBnb. This was a nice spot. Many kids around playing,
 a ropes course, a glacial pond with a small beach and paddleboards, 
@@ -84,6 +86,8 @@ at 3 in the afternoon, but also how simple it all seemed. I have
 never seen a park in the US with so many free activities. In the US,
 it feels like this sort of place would have to cost money and you'd
 definitely have to sign waviers to take part.
+
+<p align="center"><img src="/assets/images/graceGwenBrianconPark2024.jpg" alt="Grace and Gwen at the park coffee shack" height="auto" width="50%"></p>
 
 For the first night in some time, we had NOT pizza for dinner. 
 Grace made a really good chicken stir fry dinner at the Airbnb. 
@@ -124,6 +128,8 @@ I did get spooked at a point by a very large dog that came toward us
 at a point, but it's owners called it back quickly and thankfully
 there is nothing else to write about it.
 
+<p align="center"><img src="/assets/images/graceGwenBrianconFortHike2024.jpg" alt="Grace and Gwen on the Briancon fort hike" height="auto" width="50%"></p>
+
 ### Day 3
 High above Briancon is the Serre Chevalier ski resort. There
 is a small chapel near the top of the resort called the 
@@ -161,6 +167,8 @@ massive Alps across the valley that seem to go on forever.
 This was a suprise part of our tiem in Briancon and it really is
 a highlight. This was stunning.
 
+<p align="center"><img src="/assets/images/graceGwenGalibier2024.jpg" alt="Grace and Gwen at the top of the Galibier" height="auto" width="50%"></p>
+
 ## a few small difficulties
 Being in a 
 foreign country, and especially a small town, I feel like you're
@@ -181,6 +189,8 @@ On multiple occassions we went to a nice cafe and could only get
 a coffee (no fancy lattes either) and a croisant or chocolate
 bread. It was always good, but we all felt like we could have
 used some more protein.
+
+<p align="center"><img src="/assets/images/graceGwenBrianconCafeJuly2024.jpg" alt="Grace and Gwen at a nice cafe in Braincon" height="auto" width="50%"></p>
 
 We made trips to the grocery store most days, and because it was 
 in walking distance, it wasn't too bad. We ultimately had to 
