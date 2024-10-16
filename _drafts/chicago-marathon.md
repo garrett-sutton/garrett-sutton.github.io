@@ -123,5 +123,49 @@ standing by himself on the other side of the finishing rail
 and he said hi to me and gave me a fist pump. That was pretty
 cool. 
 
-## now that the race is over
+## atmosphere and experience
+Running the chicago marathon is by far the biggest race that I've
+ever been a part of. It's truly a unique experience. We had a
+nearly perfect day for the marathon - upper 50s/lower 60s, mostly
+cloudy and CALM. The city of Chicago certainly showed out all
+over the course. There were fans from all over the world - notably
+Mexican fans. They were by far the loudest/most excited.
+Some points had a lot more energy than other
+but I don't think I ever felt like I was alone. I'd even go so
+far as to highlight the fact that, annoyingly, many many fans 
+ran out right in front of me as they were trying to cross streets.
+All of the fans are obviously out for a reason - the race is
+ginormous. 
 
+This year's field was over 52,000 runners. It was cool to be a 
+part of so many people. It was also difficult. Especially in the
+first half when I was still passing people, I felt like I was 
+constantly weaving in and out of people, missing out on any sort of 
+straight line. 
+
+## small things to do differently
+I'd like to highlight a few small things that with hindsight I might
+do differently next time.
+
+### get new shoes
+I wore a pair of Saucony Endorphin Pro 2s for the race. I had wore 
+these shoes for TCM 2 years ago and felt like I had not worth them
+enough in order to justify a new pair of shoes. These things are
+quick expensive, and I was feeling like my current pair would be
+just fine. And maybe on a better day, I would have been just fine. 
+I only note this because when I was slogging through the second half,
+my feet started to feel it. 
+
+### take some time off
+I arrived in Chicago from Madison at around 1 pm on Saturday and left
+town by 4 pm on Sunday. The drive back wasn't necessarily 
+pleasant either. The problem here is that I woke up on Sunday morning
+fretting about the drive home and how tired I would be. I think it
+would have served me a bit better to take at least the morning off on
+Monday after the race so that I could feel like I could relax and
+not need to make a rushed and tired 2-3 hour drive home. It was
+really great to get home on Sunday night when I eventually did,
+but I think the looming feeling of the drive was in the back
+of my head at points in time. 
+
+## whaat would I do differently?
