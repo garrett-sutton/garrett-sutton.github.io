@@ -168,4 +168,79 @@ really great to get home on Sunday night when I eventually did,
 but I think the looming feeling of the drive was in the back
 of my head at points in time. 
 
-## whaat would I do differently?
+## what would I do differently?
+There are 3 pieces that come to mind around what I could do better
+for my next marathon:
+
+### 1. More mental preparation
+I think some physical things went wrong for me during this race,
+but I would point the biggest finger at my own head for how this
+race went. In hindsight, I'm not fully convinced how ready I was
+to actually go hurt for this race. The marathon seems like the
+type of thing that will always go poorly if you are trying to
+get out of hurting. More specifically, I let the distance 
+itself get into my head pretty early. I think in previous races 
+(TCM & the virtual marathon I did), I did a good job of getting
+to checkpoints during the race. I could get to 10, then just 3 miles
+to half way, then 3 more miles to 16, then 4 miles to 20, etc. 
+Instead, I was just thinking about having 16 miles to go at mile
+10. That's not a winning mentality. 
+
+Having a better pacing plan would also probably be beneficial for
+me. Grant and Brian are constantly talking about their pacing
+techniques and when i hear how much they intend to negative split,
+it seems too hard to me. It feels like that to me because of how
+much you actually need to speed up. I'd like to think that I'm a
+bit better served by starting a more honest pace and being
+consistent. However; for the second straight marathon, I think
+I just didn't do a great job being intimately aware of the 
+pace. And some of that may be fear on race day. Some might be
+a lack of execution of the pace during training. 
+
+### 2. Emphasize the long run effort
+When I finished TCM in October 2022, I left a note to myself that
+I wanted to run more at marathon pace because it felt liek I didnt'
+know how to execute on it very well during the race. So for this
+build up, I incorporated workouts into the last phase of trianing
+to have marathon paced running and I did long run workouts every
+other week with marathon paced intervals. 
+
+After running Chicago, I'll acknowledge that I didn't do a 
+very good job with the long run workouts during this build. I was
+pretty consistently missing paces but I always had an excuse for it
+- running on dirt that is slower, it's hot, etc.
+
+After having a conversation with Grant, I'm feeling like I didn't
+get this quite right. Grant mentioned that he uses the long
+run workout as the foundation of his marathon training. To make 
+training less stressful, I intentionally did what I did for this
+build. I wanted to be aware of waht marathon pace felt like and 
+feel confident in that pace on race day. The reality is that
+I'm not sure how confident I ever really felt in the pace.
+
+If I were to do things differently, I would likely try to 
+incorporate harder running into the long run workouts that I was
+doing. Maybe 20 minute M pace intervals just turned into a semi-easy
+run, especially when I was laxed about the pace. This should 
+probably include some hard running with maybe shorter half 
+marathon paced intervals or longer progression runs or fast
+finish long runs. I'd also skip out on the M paced running
+during the weekday workouts. That seems like a place better
+suited for V02 max intervals (no matter how much I hate 
+them) or longer tempo. 
+
+In my conversation with Grant, he went so far as mentioning he
+uses the long run workout as the foundation of his training. I
+don't think I was doing that during this build. I think I had
+a good build but I don't think I did any workouts that truly 
+pushed the limits that would ultimately give me some more 
+confidence on race day.
+
+TODO: tie confidence in the long run into stomaching how long
+we have to go
+
+### 3. Have a clear plan on fuel
+I mentioned this above, but I'll reiterate here. I need to have a 
+clear plan on fueling going into the next marathon. I don't think
+this was the end-all for me, but it certainly doesn't feel like
+a path to success.
