@@ -116,3 +116,12 @@ one. I heard Grant cheering for me at just after 25 miles. And
 at that point, my legs finally locked up. I walked a few steps
 and was able to miraculously start back up again and run for the
 last mile. This was painful.
+
+As the sole bright spot to this otherwise forgetable race, when
+I crossed the finish line, I spotted Meb Keflezghi. He was 
+standing by himself on the other side of the finishing rail
+and he said hi to me and gave me a fist pump. That was pretty
+cool. 
+
+## now that the race is over
+
