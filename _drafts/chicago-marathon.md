@@ -25,7 +25,9 @@ the race splits were sayign another thing. That led me to some
 feeling of "I'm on pace" but hte reality is that I was off pace
 a little bit each mile. Anyway, I got started and I missed
 the very first mile split. I don't think that was detrimental,
-but it was weird. I did start out a bit slower than i may have 
+but it was weird. 
+
+I did start out a bit slower than i may have 
 wanted. I think the starting slow point is hard to grapple with. 
 There's a certain point where I was convincing myself that I 
 could make up for it later on and that I shoudl just ease into
@@ -235,9 +237,6 @@ don't think I was doing that during this build. I think I had
 a good build but I don't think I did any workouts that truly 
 pushed the limits that would ultimately give me some more 
 confidence on race day.
-
-TODO: tie confidence in the long run into stomaching how long
-we have to go
 
 ### 3. Have a clear plan on fuel
 I mentioned this above, but I'll reiterate here. I need to have a 
