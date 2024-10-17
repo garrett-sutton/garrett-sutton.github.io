@@ -47,9 +47,10 @@ then settle into the cadence of taking gels. I did take a gel
 at ~3, but the problem is that I then took another one at 
 like 6 miles, and then another one at like 9 miles. 3 points to
 make of this:
+
 1. I think this was too many gels in this short of time. I didn't
-have a strict plan going in and I honestly think I misjudged
-the math of when I needed to take them after took the first one.
+have a strict plan going in and I honestly think I did the 
+the math wrong of when I needed to take them after the first one.
 1. I think I was a bit pannicked and I definitely did similar
 things in training. When things got hard, i would go to a gel 
 and because of how I did long run workouts (long M paced intervals),
@@ -61,7 +62,7 @@ going down. I recall this feeling in training, but i largely
 ignored it.
 
 Around the 10k mark, I felt like I needed to pee and I decided it was
-best to pull off really quick around 10k and pee. Again, I felt
+best to pull off really quick to pee. Again, I felt
 calm about that decision and that it was a good decision. After
 peeing, I could see my friend Brian otu in frnt of me and I made
 my way back up to him. It was nice to have someone to run with for a 
@@ -78,7 +79,7 @@ about the finish rather than intermediate checkpoints along the way.
 Around mile 11, I saw Grant cheering for us and then Brian started
 to pull away from me. Also at this point, I think I recovered a 
 little bit. I saw a sign that said "Who's gonna carry the boats?" 
-This David Goggins reference got me goign for a few miles. And 
+This David Goggins reference got me going for a few miles. And 
 I came through the halfway mark at ~1:28, not particularly good,
 but I wasn't completely out of it either. Mentally, I think
 I was really already starting to fade by now though.
@@ -112,7 +113,8 @@ leg muscles. Miles continued to get slower. After mile 20, i told
 myself it was definitely no longer worth it to take splits on 
 my watch. I eventually made it to Michigan ave and made the turn 
 south - a rather demoralizign move as you see the 24 mile marker
-on the other side of the road and all of the runners ahead of you.
+on the other side of the road and all of the runners ahead of you
+going north.
 I continued slogging along, each mile feeling slower than the last
 one. I heard Grant cheering for me at just after 25 miles. And
 at that point, my legs finally locked up. I walked a few steps
@@ -151,7 +153,7 @@ do differently next time.
 
 ### get new shoes
 I wore a pair of Saucony Endorphin Pro 2s for the race. I had wore 
-these shoes for TCM 2 years ago and felt like I had not worth them
+these shoes for TCM 2 years ago and felt like I had not worn them
 enough in order to justify a new pair of shoes. These things are
 quick expensive, and I was feeling like my current pair would be
 just fine. And maybe on a better day, I would have been just fine. 
