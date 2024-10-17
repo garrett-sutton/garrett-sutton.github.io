@@ -115,6 +115,7 @@ my watch. I eventually made it to Michigan Ave and made the turn
 south - a rather demoralizing move as you see the 24-mile marker
 on the other side of the road and all of the runners ahead of you
 going north.
+
 I continued slogging along, each mile feeling slower than the last
 one. I heard Grant cheering for me at just after 25 miles. And
 at that point, my legs finally locked up. I walked a few steps
@@ -174,7 +175,15 @@ of my head at points in time.
 
 ## what would I do differently?
 There are 3 pieces that come to mind about what I could do better
-for my next marathon:
+for my next marathon. All of this neds to be taken with a grain of
+salt too. I'll certainly own having a bad day and my head not being
+entirely in it for a big portion of the race. At the same time, I 
+do think it's at least somewhat fair
+to highlight that the marathon is a beast of a race. And when things
+go wrong, there's a high probability for them to go really wrong. 
+I'll definitely try to work on the following in the future, but
+even nailing these things doesn't guarantee a good race the next 
+time. The marathon is a mystery.
 
 ### 1. More mental preparation
 I think some physical things went wrong for me during this race,
@@ -187,8 +196,8 @@ itself get into my head pretty early. I think in previous races
 (TCM & the virtual marathon I did), I did a good job of getting
 to checkpoints during the race. I could get to 10, then just 3 miles
 to half-way, then 3 more miles to 16, then 4 miles to 20, etc. 
-Instead, I was just thinking about having 16 miles to go at mile
-10. That's not a winning mentality. 
+Instead, I was just thinking about having 16 miles to go at mile 10.
+That's not a winning mentality. 
 
 Having a better pacing plan would also probably be beneficial for
 me. Grant and Brian are constantly talking about their pacing
@@ -211,11 +220,12 @@ other week with marathon-paced intervals.
 
 After running Chicago, I'll acknowledge that I didn't do a 
 very good job with the long-run workouts during this build. I was
-pretty consistently missing paces but I always had an excuse for it
-- running on dirt that is slower, it's hot, etc.
+pretty consistently missing paces but I always had an excuse for
+it - running on dirt that is slower, it's hot, etc.
 
 After having a conversation with Grant, I feel like I didn't
-get this quite right. Grant mentioned that he uses the long-run workout as the foundation of his marathon training. To make 
+get this quite right. Grant mentioned that he uses the long-run 
+workout as the foundation of his marathon training. To make 
 training less stressful, I intentionally did what I did for this
 build. I wanted to be aware of what marathon pace felt like and 
 feel confident in that pace on race day. The reality is that
