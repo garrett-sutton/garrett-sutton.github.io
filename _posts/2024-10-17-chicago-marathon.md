@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  2024 chicago marathon
-date:   2024-10-15
+date:   2024-10-17
 categories: [ preoccupations ]
 ---
 
-I ran the 2024 Chicago marathon. This post goes through
+I [ran the 2024 Chicago marathon](https://results.chicagomarathon.com/2024/?content=detail&fpid=search&pid=search&idp=9TGG96382A242F&lang=EN_CAP&event=MAR&event_main_group=runner&search%5Bname%5D=Sutton&search%5Bfirstname%5D=Garrett&search_event=MAR). 
+This post goes through
 how the race went and what I would consider doing differently.
 
 ## how did the race go?
@@ -16,6 +17,7 @@ empty, got into the start area, gear check, and almost into the
 corral. Not getting into the corral was also not a big deal. 
 We eventually funneled in after the first corral was let loose. 
 
+### early miles
 Then I got started. I tried a new approach of shutting off 
 auto-lap for the race. This meant that I had to take my own
 splits (i.e. see the mile split signs and press the split button).
@@ -61,6 +63,7 @@ necessarily sit badly with me, but I didn't love how it felt
 going down. I recall this feeling in training, but I largely 
 ignored it.
 
+### getting to halfway
 Around the 10k mark, I felt like I needed to pee and I decided it was
 best to pull off really quick to pee. Again, I felt
 calm about that decision and that it was a good decision. After
@@ -84,6 +87,7 @@ I came through the halfway mark at ~1:28, not particularly good,
 but I wasn't completely out of it either. Mentally, I think
 I was really already starting to fade by now though.
 
+### a sufferfest
 For what felt like the entire second half of the race, I just
 struggled. I definitely considered a DNF early into the second half
 just by the nature of how close to the finish I was at that point.
@@ -116,6 +120,7 @@ south - a rather demoralizing move as you see the 24-mile marker
 on the other side of the road and all of the runners ahead of you
 going north.
 
+### finally 
 I continued slogging along, each mile feeling slower than the last
 one. I heard Grant cheering for me at just after 25 miles. And
 at that point, my legs finally locked up. I walked a few steps
@@ -173,7 +178,7 @@ really great to get home on Sunday night when I eventually did,
 but I think the looming feeling of the drive was in the back
 of my head at points in time. 
 
-## what would I do differently?
+## bigger things to do differently
 There are 3 pieces that come to mind about what I could do better
 for my next marathon. All of this neds to be taken with a grain of
 salt too. I'll certainly own having a bad day and my head not being
