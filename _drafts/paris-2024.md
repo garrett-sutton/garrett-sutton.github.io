@@ -10,3 +10,11 @@ to Paris on the first day of the Olympics. We
 didn't attend the opening ceremony, but watched
 on French TV from our hotel room after we got 
 Gwen to sleep.
+
+## what did we do?
+
+### Saturday
+
+### Sunday
+
+## feelings on Paris
