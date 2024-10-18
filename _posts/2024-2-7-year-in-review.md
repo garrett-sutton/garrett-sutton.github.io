@@ -45,7 +45,7 @@ first 10 with me and Eric did the whole thing.
 in my lifetime.
 * I navigated the craziness of Boston on Patriot's Day with my
 in-laws to watch Grace absolutely crush the Boston Marathon
-at nearly 3 months pregnant.
+at nearly 4 months pregnant.
 
 ## May
 
