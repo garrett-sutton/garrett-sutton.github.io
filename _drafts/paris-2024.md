@@ -22,8 +22,22 @@ until Monday morning when we headed off for Normandy.
 ### Saturday
 I think this was the only day of the entire trip that it
 rained, and it also may have been the longest day that we
-were out for the whole trip. Our goals for today were:
-- Miraculous Medal Chapel
+were out for the whole trip. We set off from our hotel
+bought a few umbrellas from the grocery store and stopped 
+at a cafe get breakfast and coffee. This was unique compared
+to other cafe's that we had found on the trip. Most others
+would only have pastries, but this one had a bunch of 
+different breakfast sandwiches and beautiful pastries. It
+was a welcoming feeling to get away from the standard French
+breakfast - coffee and a cigarette. 
+
+Upon finishing breakfast, we made our way toward 
+the Chapel of our Lady of the Miraculous Medal. At this chapel
+in the heart of Paris, now Saint Catherine Laboure saw the Virgin
+Mary.
+
+Our goals for today were:
+- The Chapel of our Lady of the Miraculous Medal
 - the Louvre area
 - 
 
