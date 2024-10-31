@@ -33,20 +33,59 @@ breakfast - coffee and a cigarette.
 
 Upon finishing breakfast, we made our way toward 
 the Chapel of our Lady of the Miraculous Medal. At this chapel
-in the heart of Paris, now Saint Catherine Laboure saw the Virgin
-Mary.
+in the heart of Paris, the Virgin Mary appeared to Saint 
+Catherine Laboure - whose body rests incorrupt in this very
+chapel. We stopped by the gift shop and then went into
+the end of the daily mass to the few things we bought to be
+blessed. The chapel itself was beautiful and it was
+enlightening to read Saint Catherine Laboure's story. 
 
-Our goals for today were:
-- The Chapel of our Lady of the Miraculous Medal
-- the Louvre area
-- 
+I'd like to call out what I percieve to be a little bit of 
+God's work around our visit to the chapel. Prior to getting
+to the chapel, we had been walking for a
+while and Grace was in serious need of a bathroom. In France,
+there are public toilets along some streets. These things 
+function sort of automatically. You press a button for the 
+door to open, go in and the door closes behind you and then
+you press a button to leave. For Grace though, the 
+one bathroom we found kept opening the door every time she
+went in. Fortunately for us, a nice woman walking by told us
+about a nearby store that had a public bathroom. We found the
+bathroom and made it over to the chapel, nothing too crazy.
+However, after mass ended the same nice woman that helped us
+in the street came strolling out of daily mass. She checked 
+in to make sure we found the bathroom and then continued on. 
+This is maybe just a strange coincidence, but it begs you to
+see a His goodness as well. We hardly interacted with anyone
+while we were on the trip. Then we see a stranger who went
+out of her way to help us on the street again at mass in a 
+very holy place. At the very least, He works in mysterious
+ways.
 
+After leaving the chapel, we wandered for a while. In our
+meandering we walked through the Louvre gardens, came across
+a few coffee shops, the River Siene, and La Concord at the east
+end of the Champs Elyssees (the typical end of the Tour de
+France). Rain continued on and off through the day, but our
+umbrellas and few stops worked really well. Gwen slept peacefully
+in the carrier as needed and we enjoyed the sights along the way.
 
-I'm not sure it makes sense to set "goals" for today. 
-Generally speaking we just sort of wandered. I can 
-highlgiht were we started wandering to and then go
-from there.
+As the day wore on, we did need to find a quiet place for Gwen
+to eat. We were also looking for a place along the route for the
+Olympic Time Trial in order to eat and watch some of the riders
+pass by. Ultimately, we determined that the restaurants were
+probably a bit too busy for Gwen to eat and we ended up coming
+across a massive church - the Basillica of Saint Clotilde. It was
+empty and we figured that if anywhere was going to be sympatheic
+of a baby feeding, it should be in the Catholic Church. After 
+Gwen ate, we found a perfect restaurant along the route and 
+popped a squat. The cafe scene in Paris is truly incredible. To
+be able to sit outside, on a sidewalk of a busy street and
+take it in is something I'm just not used to. We watched Remco
+win the time trial, asked for the bill and then made the 20 
+minute walk back to our hotel. What a truly nice day.
 
 ### Sunday
 
 ## feelings on Paris
+talk about American culture.
