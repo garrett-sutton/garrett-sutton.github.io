@@ -90,7 +90,6 @@ take it in is something I'm just not used to. We watched Remco
 win the time trial, asked for the bill, and then made the 20 
 minute walk back to our hotel. What a truly nice day.
 
-
 <p align="center"><img src="/assets/images/dinnerOnOlympicTTCourseJuly2024.jpg" alt="Dinner along the Olympic Time Trial course." height="auto" width="50%"></p>
 
 ### Sunday
@@ -169,7 +168,7 @@ a fantastic job of setting this whole thing up. It was
 deligthful - low stress, a great atmosphere, and an incredible 
 vantage point of the Eiffel Tower.
 
-TODO: insert a picture
+<p align="center"><img src="/assets/images/olympicsEiffelTowerJuly2024.jpg" alt="Olympic beach volleyball stadium under the Eiffel Tower." height="auto" width="50%"></p>
 
 ## feelings on Paris
 
