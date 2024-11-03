@@ -90,6 +90,9 @@ take it in is something I'm just not used to. We watched Remco
 win the time trial, asked for the bill, and then made the 20 
 minute walk back to our hotel. What a truly nice day.
 
+
+<p align="center"><img src="/assets/images/dinnerOnOlympicTTCourseJuly2024.jpg" alt="Dinner along the Olympic Time Trial course." height="auto" width="50%"></p>
+
 ### Sunday
 
 Sunday was an absolutely gorgeous day. Cool temps, partly
