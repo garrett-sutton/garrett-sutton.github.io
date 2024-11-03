@@ -170,6 +170,11 @@ vantage point of the Eiffel Tower.
 
 <p align="center"><img src="/assets/images/olympicsEiffelTowerJuly2024.jpg" alt="Olympic beach volleyball stadium under the Eiffel Tower." height="auto" width="50%"></p>
 
+For the way too detailed type, we saw 3 beach volleyball games.
+- Womens - Netherlands vs Lithuania (2-0 Netherlands)
+- Womens - Egpyt vs Brazil (2-0 Brazil)
+- Mens - Canada vs Czech Republic (2-0  Czech Republic)
+
 ## feelings on Paris
 
 I should start by saying that most people I talked to about
