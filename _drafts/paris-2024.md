@@ -87,7 +87,9 @@ minute walk back to our hotel. What a truly nice day.
 
 ### Sunday
 
-On Sunday, we went to mass at Saint Sulpice. This church was 
+Sunday was an absolutely goregous day. Cool temps, partly
+cloudy skies, and no more rain!
+We started our day with mass at Saint Sulpice. This church was 
 enormous. It was so big that the main church wasn't actually
 used for mass. There was a chapel behind the main alter where
 mass was held. As with many of the churches that we saw in 
@@ -99,9 +101,50 @@ rather than French. I largely don't understand the Latin, but
 it is at least a familiar sound. I would like to get better
 at this though.
 
-After mass, we went to a streetside cafe for breakfast. This was
+After mass, we went to a streetside cafe for breakfast (Le Pre). This was
 one of the most American-like spots we stopped at during the whole
-trip. 
+trip. I say that partially because it was more food that the cigarette 
+and coffee that typically fills a Frechman's stomach for breakfast. 
+They even had eggs and toast. This was by far the biggest meal we found for 
+breakfast while out, and it was a really nice to start to fuel up for 
+the day. Gwen (Grace and I too) had a grand time people watching out
+into the Paris street from the table. The cafe was also not very busy,
+which was nice for us as our blast radius (Gwen and our stuff) was 
+pretty large amongst the close tables. 
+
+After breakfast, we walked to Notre Dame. Unfortunately, it still 
+wasn't open to the public, but even walking around outside was 
+pretty cool. The external of the church is also beautiful. And 
+on the north side of the church, they had a series of visuals
+depicting the restoration process. From Notre Dame, we hopped
+a subway to the Eiffel Tower. I will admit, I wasnt' all that
+excited to see the Eiffel Tower, largely becase I assumed it 
+wasn't all that large. However; I couldn't have been more wrong. It
+was a lot bigger than I expected. We spent some time at a 
+good vantage point to get pictures before going into our
+main event for the day - 
+Olympic Beach Volleyball under the Eiffel Tower. 
+
+Both Grace and I weren't sure how putting Gwen in a stadium for
+3 hours would go. But this stadium turned out to be as good of 
+a situation as we could ahve asked for. First, there is a large 
+park that sits under the Eiffel Tower. The acutal stadium was 
+built at the far end of htat park. But rather than the typical 
+sports venue where your ticket gets you into the stadium, our
+tickets got us into the park and by extension the stadium. This
+made for a really nice experience. On several occasions, Grace 
+was able to take Gwen out into the park to play a bit. They also
+had an area with misters where you could cool off. It wasn't 
+all that hot for us (the cloud cover was perfect), but Gwen 
+really loved going through the mist. Inside the stadium was 
+probably one of the most cool sporting events I've seen in person.
+There's something really fun about football and baseball games
+in the US, but this was different. The Olympics organizers did
+a fantasic job of setting this whole thing up. It was seriously
+enjoyable - low stress, a great atmosphere, and incredible 
+vantage point of the Eiffel Tower.
+
+TODO: insert a picture
 
 ## feelings on Paris
 talk about American culture.
