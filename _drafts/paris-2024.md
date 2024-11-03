@@ -147,4 +147,71 @@ vantage point of the Eiffel Tower.
 TODO: insert a picture
 
 ## feelings on Paris
-talk about American culture.
+
+I should start by saying that most people I talked to about
+Paris that had been said things like, "overrated", 
+"underwhelming", or "should have stayed there for less time."
+I clung to at least some of this sentiment, but
+I was also hopeful that our 2 days in Paris wouldn't be so
+long that I started to wish time away. In hindsight, it 
+never got to that point though. I can honestly say that I
+didn't share the same sentiment that was shared with me. 
+Paris was an awesome place for us to visit for a few days. 
+The age combined with level of detail makes walking around
+through the streets an awe inspiring experience in an of
+itself. I really enjoyed looking at all of the historical 
+landmarks and appreciating how much work it must have been
+to build and how much work it continues to be to maintain.
+
+By the time we arrived in Paris, we had been on the road for
+just over a week. And as I've mentioned in others posts, we
+had a bit of a hard time at points fitting into French culture.
+Meals were different. Business hours were different. The 
+language was obviously different. But when we got to Paris,
+things changed a little bit. It was apparent early on that
+there was a lot of American influence throughout Paris. That's
+not supposed to be a totally snobby American comment, but 
+rather a testament to the fact that Paris is an international
+city. They have all different types of food. They're open for
+business to accomodate the many tourists. And you start to hear
+English a little bit more (that is likely more due to their
+British neighbors visiting). In short, I felt less out of 
+place in Paris than I did at any other point in the trip. 
+I felt like we were able to see things as they were and not
+have to worry about underlying cultural expectations that may
+just be different from the US and France. 
+
+Moving on, transitioning during all phases of
+our trip was difficult. We effectively had our entire lives
+on our backs or in Gwen's stroller. And the stroller was 
+particularly challenging. There were many places in Paris 
+that lacked elevators and escalators - namely the subways. 
+This could be pretty stressful when we ran 
+into these situations and it made em appreciate all of the ADA
+things that exist in the US. Though it was stressful to think
+about what accessibility challenges we might encounter, many
+Parisians' were extraordinatily helpful along the way. Random
+strangers helped us carry the stroller up/down stairs multiple
+times and talked through intercom systems to open handicap
+accessible exits. We really appreciated it. It was nice to 
+feel like we weren't entirely on our own in this big 
+foreign world. God puts good people everywhere.
+
+On a differnt note, I'll also call attention to the police
+presence in Paris. There were generally police everywhere that
+we went, but I noticed it acutely in Paris. This makes sense.
+The Olympics are one of the biggest events in the world and 
+consequently a target for bad people to do bad things. The 
+interesting part of this to me was the fact that seemingly
+the French military was on patrol through the streets of Paris
+with assault weapons. I've never seen such a thing before in 
+the US. Though meant to exude a posture of safety, I honestly 
+felt more uneasy than I do when I go to a big event in the US
+and don't see this presencef. My speculative feeling here is certainly
+a level of confidence in US intelligence over others, but it also
+feels like a hope and a prayer to have soldiers on foot patrol.
+I don't know anything about intelligence or maintaining public 
+safety for that matter, but I largely call this out to highlight
+what feels like an obvious difference in appraoch to public
+safety between France and the US. For what it's worth, I never
+had any reason to actually feel unsafe while we were in Paris.
