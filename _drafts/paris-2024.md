@@ -87,5 +87,21 @@ minute walk back to our hotel. What a truly nice day.
 
 ### Sunday
 
+On Sunday, we went to mass at Saint Sulpice. This church was 
+enormous. It was so big that the main church wasn't actually
+used for mass. There was a chapel behind the main alter where
+mass was held. As with many of the churches that we saw in 
+France, the level of detail at this scale and age is hard
+to imagine. For a small mass that I didn't understand, it was
+beautiful too. They sang gregorian chants, and I could 
+understand a few points of that because it was in Latin
+rather than French. I largely don't understand the Latin, but
+it is at least a familiar sound. I would like to get better
+at this though.
+
+After mass, we went to a streetside cafe for breakfast. This was
+one of the most American-like spots we stopped at during the whole
+trip. 
+
 ## feelings on Paris
 talk about American culture.
