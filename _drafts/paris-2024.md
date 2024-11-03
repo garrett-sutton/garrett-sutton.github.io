@@ -38,7 +38,10 @@ Catherine Laboure - whose body rests incorrupt in this very
 chapel. We stopped by the gift shop and then went into
 the end of the daily mass to the few things we bought to be
 blessed. The chapel itself was beautiful and it was
-enlightening to read Saint Catherine Laboure's story. 
+enlightening to read Saint Catherine Laboure's story. Fun fact.
+Based on what I read, the Virgin Mary's apparition to Saint 
+Catherine Laboure established the foundation of the Dogma of
+the Immaculate Conception.  
 
 I'd like to call out what I percieve to be a little bit of 
 God's work around our visit to the chapel. Prior to getting
@@ -116,7 +119,23 @@ After breakfast, we walked to Notre Dame. Unfortunately, it still
 wasn't open to the public, but even walking around outside was 
 pretty cool. The external of the church is also beautiful. And 
 on the north side of the church, they had a series of visuals
-depicting the restoration process. From Notre Dame, we hopped
+depicting the restoration process. At Notre Dame, we had our first
+real public bathroom dilema. we'd heard that in France it's not 
+common to have public bathrooms and in the places that do
+have them, you have to pay for them. With this in our minds but
+also a need to pee, we went ot these public restrooms below 
+Notre Dame. It cost 2.50 euro per person and they almost also
+charged us for Gwen as well. That felt steep, but complaining
+about it wasn't going to change it. It got commically weird
+when the turnstiles to let people in seemingly didn't work and
+there were these 2 guys that had to use a card reader to 
+let you in. The comical part was that none of this was clear
+and I don't recall these guys saying a word to anyone as people
+were trying to figure it out. Fortunately for us, we were able 
+to go to the bathroom, Gwen could get changed, and we were
+able to move along quickly enough.
+
+From Notre Dame, we hopped
 a subway to the Eiffel Tower. I will admit, I wasnt' all that
 excited to see the Eiffel Tower, largely becase I assumed it 
 wasn't all that large. However; I couldn't have been more wrong. It
