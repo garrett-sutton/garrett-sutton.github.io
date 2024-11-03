@@ -99,7 +99,8 @@ enormous. It was so big that the main church wasn't actually
 used for mass. There was a chapel behind the main altar where
 mass was held. As with many of the churches that we saw in 
 France, the level of detail at this scale and age is hard
-to imagine. For a small mass that I didn't understand, it was
+to imagine. The Marian chapel in particular was breathtaking.
+For a small mass that I didn't understand, it was
 beautiful too. They sang Gregorian chants, and I could 
 understand a few points of that because it was in Latin
 rather than French. I largely don't understand Latin, but
