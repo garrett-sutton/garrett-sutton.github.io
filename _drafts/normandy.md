@@ -87,8 +87,35 @@ the message at the garden for the American armed forces
 at this museum: _From the heart of our land flows the 
 blood of our youth given to you in the name of freedom._
 I think it's important that we - 
-as a nation and as citizens of this great nation - 
+as a nation and as citizens of this nation - 
 recognize the good that the United States has promoted and 
 continues to promote throughout the entire world and
-the responsibility that comes with it. 
+the responsibility that comes with it.
 
+### Airborne Museum
+
+While in Normandy, we found there was an airborne museum 
+that was dedicated to the US paratroopers that jumped
+on the night before D-Day. I wanted to go to this musuem
+for 2 reasons. We watched Band of Brothers - the show about
+the 101st Airbone. And this feels like an overlooked part
+of the D-Day landings. 
+
+This museum was pretty cool. They had a few separate 
+buildings where each one had a different focus. One was 
+on the French people's resistance to the German occupation.
+Another focused solely on the planes used to deliver the 
+paratroopers hte night before the land invasion. There was
+also a building on the technology used by each soldier when
+jumping and after they landed. And finally, there was a 
+building exhibiting the entire Overlord operation. 
+
+Being able to put some of the things shown in the Band
+of Brothers show into context made this museum a worthwhile
+stop. Had we not been in a hurry to check off other boxes,
+I'm sure we coudl have spent even more time here.
+
+### Utah Beach
+
+Utah Beach sits the furthest to the west of all of the
+landing beaches. 
