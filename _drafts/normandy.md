@@ -115,7 +115,85 @@ of Brothers show into context made this museum a worthwhile
 stop. Had we not been in a hurry to check off other boxes,
 I'm sure we coudl have spent even more time here.
 
+### Dick Winters Memorial
+
+While out in this area, we also found the Dick Winters
+memorial. He is one of the men that is highlighted throughout
+the Band of Brothers show. I found his quote on the memorial
+to be one worth sharing. _Wars do not make men great, but
+they do bring out the greatness in good men._ Humbling to
+say the least. The men that led the way on D-Day are 
+truly incredible. 
+
 ### Utah Beach
 
 Utah Beach sits the furthest to the west of all of the
-landing beaches. 
+landing beaches. Along with Ohmaha beach, this is an
+exclusively American landing beach. By the time we
+got here, we were in a bit of a rush and decided to not
+get out of the car. We were able to drive along the
+beach road for a little bit and could ultimately only 
+see the dunes because they were big enough to block
+any view of the water. There was a museum of sorts
+here and a number of flags around a memorial.
+
+
+### Pointe du Hoc
+
+Point du Hoc is area between Utah beach and Ohmaha beach
+where US Army rangers scaled these 90 foot cliffs to
+overtake heavily fortified German soldiers. Though 
+rushed, we did get out of the car for this and took 
+a little walk out to the area near the bunkers and cliffs.
+
+Walking through this area left me with a strange feeling. 
+On one hand you can look up and down the coast at these 
+enormous cliffs and appreciate the courage of those American
+soldiers that triumphed here 80 years ago. On another hand,
+we were able to walk down into the German bunkers. Getting 
+into these bunkers made me appreicate the bravery of the
+American soldiers that much more, but at the same time, it
+was eerie to walk on the same ground where the Germans
+would have been staked out. On that same ground, blood was
+certainly shed. It's a somber feeling knowing that my
+own feet were sharing the same floor as those who did
+true evil 80 years ago.  
+
+### Ohmaha Beach
+
+By the time we made it to Ohmaha Beach, it was getting to 
+be pretty close to time for us to head back to Caen to get
+our train that evening. Given the time crunch, we didn't
+have time to get out of the car and really take in the 
+scene. Grace and Gwen got out of the car to get a quick
+reset while I turned around at a point, but no prolonged 
+walk. There weren't large dunes like there were
+at Utah beach, so you could clearly see where sand meets 
+water. 
+
+Let me set the scene.
+You drive down a road with a few campsites to get to a road
+that parallels that coastline. The road has some restaurants
+and feels pretty normal. And then the beach was populated 
+with a lot of people having a beach day. I was sort of 
+surprised by this easygoingness on what I would have thought
+of as hallowed ground. Seemingly it's been normalized by 
+the locals. I just don't think I could feel comfortable 
+going for a beach day in a place where so much life was
+lost. I should call out that don't mean to entirely downgrade 
+the French here. There were more American flags throughout
+the Normandy region than I typically see at home. They were 
+everywhere - business, houses, barns, city streets. I also 
+would have to think that spending time on this beach for the
+locals is potentially a bit of closure about the war. I'm sure
+that folks would have used this beach for fun before the war
+and by continuing to use the beach for fun they have maybe 
+been able to move on from the devestating times of WW2. 
+
+You may be thinking, what about the American cemetary? For 
+months leading up to the trip we had every intention of 
+going to the American cemetary which is close to Ohmaha 
+beach. Unfortunately, in the rush of getting through
+everything and heading back to Caen for our train, I 
+completely forgot about it. In hindsight, I don't think 
+we had time for it, but I simply forgot.  
