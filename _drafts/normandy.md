@@ -197,3 +197,56 @@ beach. Unfortunately, in the rush of getting through
 everything and heading back to Caen for our train, I 
 completely forgot about it. In hindsight, I don't think 
 we had time for it, but I simply forgot.  
+
+## the feelings
+
+While in the Normandy region, I think I was expecting to 
+walk around with goosebumps for hours on end. The reality
+was much different. Each piece of history that we saw had
+its own significance and evoked its own feeling. But the
+key point of that is that it is a piece of history. The 
+Normandy region looks a lot like rural areas of the United
+States - farmland, small towns, small roads, etc. And
+given that "familiarity" it's honestly difficult to imagine
+what life in this region of the world would have been like
+around the time of June 6, 1944. The region pays homage
+to the entire war effort and respects the amount 
+of allied support they recieved during those difficult times. 
+But as a visitor who was there for only a day, I'd be
+lying if I said this was the most moving experience of 
+my life. And I think you could get even more out
+of it by:
+1. Doing a lot of research. I read 
+[Engineers of Victory]({% link _posts/2024-5-26-engineers-of-victory.md %}) in
+the months leading up to our trip and watched Band of Brothers
+but of course, more context on the situation could never be
+a bad thing.  
+1. Hiring a tour guide. We went back and forth on doing this 
+and ultimately decided against it because we wanted the 
+freedom to do as we wished with Gwen being so little. It felt
+like we could have gotten into a pickle if she was having a 
+bad day and we were on everyone else's time. However, in 
+hindsight, this would have been really beneficial. I think 
+that someone worth their salt helps a ton with #1 above but
+also has a much better idea of how long to spend at the 
+various sights. I can't overstate how many memorials are in
+this area. It was a bit overwhelming to pick the ones that
+we did.
+1. Spending more time. I ultimately think the pieces above
+could be limited if we had more time while we were in the
+region. It was unfortunate that by the time we got even to 
+Utah beach that we felt like we had to do drive bys for 
+everything. Museums make this sort of thing especially 
+difficult. They are the epitome of you get out waht you 
+put in. In an effort to pay respect to our ancestors
+that fought so bravely on this land, I felt like I had to 
+care a lot about the content of the museums. But with limited
+time, this quickly ate into time that we could have spent
+at other sights. 
+ 
+With all of this being said, I think that any
+American who has the opportunity to visit this region
+definitely should. Even in the short time we had, I can 
+confidently say this experience deepened my appreciation 
+of D-Day as a pivotal moment in shaping the world's 
+future for the better.
