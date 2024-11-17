@@ -67,3 +67,22 @@ actually did just need a binky.
 A bit crazy for a Saturday night, but all is good. It's ironic 
 that I was touting this weekend as a weekend we had nothing 
 to do for the first time in over a month.
+
+## a relatively normal Sunday
+
+Gwen was a bit picky with food. She had some pancake before 
+Church and threw up some of it but not that much. Later on 
+she had a few saltines and threw those up too. But during 
+all of this she never seemed that upset. She took a long 
+nap in the morning and a short one in the afternoon, but 
+again nothing too out of the ordinary other than she wasn't 
+eating that much. Eventually we got to dinner time and she 
+ate great. Grace made a really good sausage and squash soup. 
+Gwen went to bed just a little bit after eating and we 
+figured we were in the clear.
+
+Grace wasn't feeling that great after church this morning. 
+She took a long nap while Gwen slept too and complained of 
+being nauseous a little bit but she didn't ever throw up. 
+I think by the end of the day she was feeling pretty much 
+fine.
