@@ -30,9 +30,9 @@ that I could clean things up. Taht worked well. After cleaning
 up, I put her in the bath for a long time and she had fun as 
 usual. She got into a sleeper, and I did notice that as I was 
 killing some time for her to go to bed, she spit up again 
-(mostly watery this time). Thinking about to her younger days, 
+(mostly watery this time). Thinking back to her younger days, 
 I just stood with her on my shoulder and patted her back to 
-hopefully get something out of necessary before she went to 
+hopefully get something out if necessary before she went to 
 bed. Nothing ever came out and she fell asleep on my shoulder. 
 I laid her down in her crib.
 
@@ -46,7 +46,7 @@ puke with a burp cloth and then stripped her down to start
 the cleaning process. Needing to put her somewhere while I 
 got her situated, I just sat her on the ground in her diaper. 
 I was trying to calm her down and figure out what to do next. 
-She was exhaused. At a point, I was rubbing her back and she 
+She was exhausted. I was rubbing her back and she 
 laid her head down on my foot and started to fall asleep. So 
 I put her in a new sleeper, laid a blanket out on the floor 
 with the hope that she would throw up on that rather than 
@@ -54,7 +54,7 @@ the floor if she needed to again, and she passed out
 immediately.
 
 I got to work with cleaning up stuff and luckily Grace got 
-home. We worked to get her pack'n'plat set up (the mattress 
+home. We worked to get her pack'n'play set up (the mattress 
 cover in her crib was in serious need of the washer) and 
 covered the pad with plastic so that if she did spit again 
 only the sheet would be gone. Grace moved Gwen off of the 
@@ -99,10 +99,10 @@ back in bed because every time I moved a lot and then
 laid down I would just need to throw up again. Water 
 was not helpful to me at all. In fact, I felt like it 
 was making me throw up. I just sort of sat on the 
-bathroom floor for upwards of 3 hours. I had to go 
+bathroom floor for upwards of 3 hours. I had to go #
 2 a few times and that would subsequently be followed 
 by needing to throw up. The throw up became a lot less 
-numerous and a lot more painful. It was seemingly just
+numerous. It was seemingly just
 bile that I was getting out - GROSS and painful.
 
 By around 8 am, I think i got back into bed and propped
@@ -146,7 +146,15 @@ miserably on the couch. Grace is a hero for eventually
 bathing Gwen and getting her dressed for bed. Gwen 
 was super good after this. Playing with her books 
 and moving about. Eventually you could tell she was 
-tired and I laid her down to go to sleep.
+tired and I laid her down to go to sleep. Grace hit
+the hay soon after and luckily I was able to eat a little
+bit before I went to sleep too. GG stomach bug.
 
-What a day. The tag team effort while both Grace and 
-I felt horrible was something.
+What. A. Day. The tag team effort while both Grace and 
+I felt horrible was something. It's one thing to take
+care of yourself when you're sick or even try to take
+care of another adult. But when everyone is sick and
+you have a little one that needs caring for, it's
+a whole new ballgame. I'd like to think I added a little
+bit to the mental toughness bank by getting through
+this day. 
