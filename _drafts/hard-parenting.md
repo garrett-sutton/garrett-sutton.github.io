@@ -86,3 +86,67 @@ She took a long nap while Gwen slept too and complained of
 being nauseous a little bit but she didn't ever throw up. 
 I think by the end of the day she was feeling pretty much 
 fine.
+
+## a not so normal Monday
+
+I woke up to pee at about 3 am. And after returning 
+to bed I laid there for a while (maybe slept a bit), 
+I started to realize that my stomach was not in a 
+good way. I got up to go to the bathroom knowing that I 
+needed to throw up. And sure enough, I threw up a lot. 
+This continued for a long time. I couldn't ever get 
+back in bed because every time I moved a lot and then 
+laid down I would just need to throw up again. Water 
+was not helpful to me at all. In fact, I felt like it 
+was making me throw up. I just sort of sat on the 
+bathroom floor for upwards of 3 hours. I had to go 
+2 a few times and that would subsequently be followed 
+by needing to throw up. The throw up became a lot less 
+numerous and a lot more painful. It was seemingly just
+bile that I was getting out - GROSS and painful.
+
+By around 8 am, I think i got back into bed and propped
+myself on some pillows and continued to sleep on and 
+off until noon. I don't think I have ever done such a 
+thing. Grace and Gwen also stayed home, largely as a 
+precautionary measure to make sure Gwen didn't get 
+anyone at daycare sick.
+
+I woke up to find that Grace had also threw up during 
+the morning when changing one of Gwen's diapers. This 
+was bad news. Somehow she championed on through some 
+more work and let me sleep.
+
+I eventually got out of bed and was feeling a bit better. 
+Grace handled Gwen most of the way through lunch until 
+she made her an egg that set her over the edge. I filled 
+in for a little while. Grace came back out and did more 
+with Gwen while I laid on the couch until she put her 
+to sleep for an afternoon nap. Then Grace also went to 
+sleep.
+
+Gwen awoke after maybe an hour. Her and I played in 
+her room for a while. Seh lost it as a point when she 
+bumped herself in the face with a book, Grace came 
+over and suggested that we eat some food. Around this 
+point, I was starting to feel worse again. All I 
+could bring myself to put together was crackers and 
+cheerios. I could hear Grace get up to throw up at a 
+point and ran over to check on her. Gwen was seriously 
+freaked. No poop or throw up for me but just achey 
+all over and generally tired. I got Gwen into her 
+playpen and laid with her for a while trying to close 
+my eyes as she played. She did a really nice job of it, 
+but eventually needed to eat again. I heated up that oh 
+so good sausage and squash soup for dinner and it was 
+painful to get her to eat. It couldn't have seemed less 
+apetizing this time around. Gwen finished eating and 
+played around for a while as Grace and I both sat 
+miserably on the couch. Grace is a hero for eventually 
+bathing Gwen and getting her dressed for bed. Gwen 
+was super good after this. Playing with her books 
+and moving about. Eventually you could tell she was 
+tired and I laid her down to go to sleep.
+
+What a day. The tag team effort while both Grace and 
+I felt horrible was something.
