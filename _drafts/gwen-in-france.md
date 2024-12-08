@@ -101,7 +101,81 @@ TODO: consider mentioning what we left behind and other things of what
 we brought. Feels helpful to call out that we could buy things along the
 way and that we didn't need to have EVERYTHIGN
 
-## On the ground
+## In action
+
+### Bassinets are not real
+
+During our preparation, we found various blogs and even the American
+Airlines website mentioning of bassinets that could be used for
+free on a first-come-first-serve basis. We figured this would be really
+nice for Gwen to sleep comfortably and have a little bit more space 
+than her car seat. 
+
+I talked with folks from
+American at an airport on a previous trip to try to get some insight
+on how the whole bassinet thing worked. The answer that I consistently
+got was that I would have to talk with people at the airport on the day
+of travel. On arriving at the Madison airport, Grace went to the 
+baggage counter to have that conversation and the attendant looked at
+her like she had 3 heads. Grace was told we would have to wait to talk
+to the gate agent in Philadelphia (right before the flight across the
+pond). Talk about making us wait until the last minute. In all of the 
+conversations Grace and I had and blogs that I read, no one every really
+seemed to indicate much doubt in our ability to get a bassinet. Without
+knowing any better, we figured this was just the process. 
+
+So when we arrived at the gate in Philadelphia and the gate agents pretty 
+bluntly said that we can't get a bassinet, I was a bit taken back. They
+kept saying that you needed to be in the bulk head seat (which seemingly
+we were not). Once we found out what the bulk head seat actually was, 
+it became clear that this whole bassinet thing is not nearly as
+accomodating as the American Airlines website made it out to be. When 
+you book an international flight, you need to know beforehand what row
+sits behind the bulk head. Yes - this means you need to know what model
+of plane you'll be flying on. If and only if that row is available, you'll
+have a chance of getting a bassinet. For us, we were SOL for this trip.
+We were back in economy and Gwen was going to ahve to make due in 
+her carseeat. 
+
+After finding this out but prior to boarding, we were pretty nervous.
+But those nerves never manifest into any real problems. Gwen took a 
+little while to fall asleep that night as we got on our way from
+Philly, but after she fell asleep, she stayed alseep for almost the 
+entire flight to Nice. Luckily, Grace and I were able to get some 
+rest too (as good as one can on an airplane that is).
+
+Continuing on the topic of flying, Gwen also did really really well on
+the way home too. This flight left Paris in the late afternoon and arrived 
+in Chicago in the early evening. Again, Gwen slept for a good portion of 
+the flight and was pretty content for most of the time that she was awake.
+She was a very good baby. On coming home, this is one of the biggest 
+pieces that people talk with us about and I can confidently say it
+went about as smooth as you could possibly imagine.
+
+### we just want to be home
+
+This isnt' necessarily a point of traveling with a baby, but having a 
+baby certianly played a role in how we handled ourselves when we got back 
+into the US. Unfortunately, our long layover in Chicago (to get back to
+Madison) shrunk substantially when our flight from Paris was delayed. Until
+we unloaded and made it through customs we had all but missed our flight
+to Madison.  This left us with what felt like a lose-lose situation. We
+could rely on American to get us home the next day with a 5 PM flight. They
+kindly include a nights stay (at a hotel that might not have a shuttle) 
+and a $12 meal voucher. Or we could spend $400 on a one-way rental car
+from ORD to home and return it in Madison the next day. 
+
+I think all of us just wanted to be home. At the end of the day, I didn't
+feel like our time was worth it to just sit in another hotel room for
+a day. As much as Grace and I wanted to be home, I think we both
+really wanted to get Gwen home into familiar surroundings. With that,
+we got the inorbinately expensive rental car and headed north. Yes,
+this price was not fun, but in hindsight, I will still say it was
+totally worth it. 
+
+And for what it's worth, American refunded me $30 for all of this.
+
+### 
 
 
 ## Challenges
