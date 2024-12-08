@@ -175,10 +175,31 @@ totally worth it.
 
 And for what it's worth, American refunded me $30 for all of this.
 
-### 
+### sleep
 
+I previously mentioned that we paid special attention to make sure that
+each of the places that we were staying had a place for Gwen to sleep. 
+For 6 beds in 2 weeks, I think she did a really good job sleeping
+throughout the trip. Even when we arrived, she did surprisingly well
+transitioning to the new time zone. She had slept for probably close
+to 7 hours on the flight over and was able to fall asleep relatively
+easily that night around 8 pm. She did wake up in the middle of the 
+night for a little bit and that could easily have been her body
+clock thinking that sleep was just a nap, but she eventually fell
+back asleep and transitioned over just fine. 
 
-## Challenges
+We found that Gwen did a good job on night 2 and onward in each of 
+her new environments as well. Transistions were generally challenging
+for all of us and I think Gwen probably got messed up a little bit with
+atypical days when we transitioned - lots of time in carseat or irregular
+naps.  
+
+One semi-major snaffu on nightly sleep. TODO: nice hotel situation 
+
+### sustaining a nine-month old while on the go
+
+This was a challenge at points and super easy at other points.
+Food was probably a bigger deal than sleep.
 
 ## what we wish we knew
 - packnplay in Nice
