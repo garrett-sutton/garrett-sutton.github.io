@@ -97,6 +97,10 @@ fact that we needed to do laundry. We were forunate the the one place
 we stayed that had laundry (i.e. in the airBnb in the Alps) was right
 in the middle of the trip. 
 
+TODO: consider mentioning what we left behind and other things of what
+we brought. Feels helpful to call out that we could buy things along the
+way and that we didn't need to have EVERYTHIGN
+
 ## On the ground
 
 
