@@ -326,6 +326,50 @@ at all.
 
 ### sustaining a nine-month old while on the go
 
+One thing about having a baby that has been surprising to me is
+how much I used to take eating and sleeping for granted. If I was 
+hungry, I ate some food. If I was tired, I either went to bed, 
+got another cup of coffee or took a nap (on the weekend). That
+level of flexibility just doesn't exist for a baby. They need to
+eat and sleep as part of a routine. And getting them out of the 
+routine can mean a nightmare for mom and dad. Before going further,
+Gwen has been a really flexible baby for us. She can handle some
+variance with limited impact. But while you're traveling, there
+is more than just a little variance. You're out and about with 
+places to see and it's more than a little inconvienent to have
+to go back to the hotel room for Gwen to eat and sleep. 
+
+We didn't let this be a hinderance to use throughout the trip.
+I think we maintained a nice balance of 
+longer days away from where we were staying and short expeditions
+that were close by. For food, Gwen was at a really good age. We
+were fortunate that she was still breastfeeding but also eating
+a good amount of solids - enough to know that we didn't have to
+worry about any allergies. When out and about for a day, we 
+typically had snacks packed for her. On a few occassions, we did
+need to find a conviencence store or market of sorts to get her
+a snack. There seemed to be a lot less 7-Eleven in France. 
+Specifically in Paris, we opted into an empty Catholic church
+for her to nurse and get changed. The church feels welcoming, so 
+I generally felt more comfortable than when sitting down on the 
+street somewhere. You can sit in awe of the Church and prayer rather than 
+feeling like people are staring at you.
+
+When leaving where we were staying for a 
+longer day, we always had the baby carrier so that Grace 
+or I (mostly Grace) could wear 
+Gwen. I'll contend that the carrier may be the most important thing
+we packed for the trip and we likely didn't know how much we 
+needed it. Gwen was a champion in it during days of walking around
+cities or even going for a long hike. When she seemed to get tired,
+Grace could turn her to face inwards and she took phenomenal naps.
+
+On days with short trips out from where we were staying it was nice
+for Gwen to be able to sleep in her crib.
+
+worth calling out the public bathroom situation as well
+
+Sure, we didn't move 
 This was a challenge at points and super easy at other points.
 Food was probably a bigger deal than sleep.
 
@@ -337,6 +381,13 @@ and about
 
 down time for naps on some days vs carrier
 green space for her to move around and sun protection
+
+
+### how did it go for mom & dad?
+
+TODO: things ot think about when traveling with a little one
+for the sake of yoru own enjoyment. 
+- slleeping in teh same hotel room
 
 
 ## what we wish we knew
