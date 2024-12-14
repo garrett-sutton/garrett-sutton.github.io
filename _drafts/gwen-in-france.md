@@ -222,8 +222,107 @@ After a few hours, she seemed to settle and slept for most of the
 rest of the night. Thankfully, she did a really good job with this
 less than ideal sleeping arangement for the rest of our time in Nice.
 
-TODO: add Nice hotel story to the "navigating with eveyrthing on our
-backs"
+### navigating with your life on your back
+
+I mentioned packing above. So how did it all work out? In short, 
+most of the time, it went really well. It's worth noting that this
+"carrying your life on your back" thing only happened during
+transitions from one place to another. When we were put in a place 
+for a few days, we could pick and choose what subset of stuff we
+needed for an outing and pack a bag like it was any normal day 
+back home. But this section focuses on those in between times.  
+There's already some inherient stress that comes with moving from
+place to place. Will I be on time for the plane or the train? Is
+everything packed? Am I forgetting something? And for us with a
+nine-month old, we have more than we're used to carrying while 
+traveling, so it leaves us also wondering - what weird thing is 
+going to happen because we have a ton of stuff?
+
+The airplane was really 
+smooth. There was plenty of overhead bin space for our carry-on
+bags and Gwen having her own seat gave us a lot of space to fit
+things under her seat. When we had a car, it was even easier. 
+Both of these modes of transportation are also pretty familiar
+to us. We've had some practice on plane and we get in a car with
+Gwen every day.  
+
+And then the "not most of the time" comes in. This isn't to say 
+that things went horribly, but these were arenas that we just 
+had not experienced before. We traveled on several trains during
+the trip. This was certainly different for us. Trains are 
+seemingly much less regulated from a "what you can take" standpoint
+and it feels like the expectation of train travelers is not 
+necessarily to be on vacation. This makes sense. I'm under the
+impressions that utilizing trains for common eveeryday transit 
+throughout Europe is much more common than what we do in the US. 
+But that left us with a ton of stuff and not a lot of places to
+put all of that stuff. There was space
+for bikes on the trains, and we did use some of that space if
+it was available. It just felt like we were setting someone else
+up to not have space when we did that. And after getting everything
+situated, there was the fear of getting it all back together when
+we had to get off the train.
+
+Lucky for us, we never needed to be in 
+a huge rush when getting off the train because our stop was always
+the end of the line. But I didn't exactly know that during our 
+train rides, so I spent a good portion of time stressing about 
+how I was going to collecting everything and get it off of the
+train before it headed off for the next stop. 
+
+We were fortunate on the train ride from Normandy back to Paris
+that the conductor spotted us and allowed us to sit in the 
+handicap area. This was incredible. We could keep everything in 
+one place and more importantly, we didn't have to tear everything
+down so we were a bit more mobile when it was time for us to get
+off the train in Paris. Again, the train is not a normal mode
+of transportation for us. And I was honestly really excited about
+using the trains while we were on this trip. It was going to be
+a nice time to look out the window and relax. In hindsight, I 
+think the train travel was the most difficult part of our travels.
+And I also don't know if we could have done much about it. We 
+needed to have the things that we had. Maybe paying for a handicap
+seat on every ride would have been beneficial, but I don't even
+know if we would technically be allowed to buy such a seat.
+
+Moving on, as an American traveling abroad and carrying your life
+on your back and in a stroller, you come to notice why the Americans
+with Disabilities Act exists.The ADA ensures that buildings and 
+public spaces are accessible to people with disabilities, including 
+providing ramps and elevators. This wasn't always the case throughout
+our travels. 
+
+At our hotel in Nice, there were stairs to get up to the elevator
+from the reception desk. And then the elevator was so small that
+the stroller wouldn't fit in the elevator. And the icing on the 
+cake (aside from the no crib situation) was when we got into our room,
+the stroller in the room made walkign around at all pretty hard.
+I must say the consierge
+at the hotel was really helpful in getting the stroller up
+all of the stairs to our room.
+I think it's probably safe to see see this sitaution as their
+infrastructure is generally older and smaller than waht we have
+in the US. This ultimately turned
+out fine. We returned our stroller to the car the next morning to 
+give ourselves some breathing room and enjoyed our day in Nice.
+At the time, it felt like taking the stroller into the hotel was the
+best thing for us. I think we envisioned using it to push Gwen around
+the next day, but it was just too much in the room and it probably
+would have been a pain to push around all day too. We encountered plenty
+of cobblestone sidewalks, stairs, and crowded streets. 
+
+When we got to Paris, we felt the stroller pain more acutely. It was not
+uncommon to encounter many stairs when getting in an out of the subway
+with no elevators. In these cases, I would take all of the bags out 
+of the stroller and transport them to the top or bottom of the stairs and 
+then I'd come back up and we'd carry the stroller (with Gwen in it) 
+down the stairs. This wasn't terrible, but it feels like you stick out
+like a sore thumb. Some people in the subway went out of their way to
+help us out. In a somewhat stressful moment, this was really appreciated. 
+As we kept doing this throughout the trip, I feel comfortable saying
+that we got better at it and it was less stressful. But at first, it 
+felt almost debilitating. I was certainly not expecting this wrinkle 
+at all. 
 
 ### sustaining a nine-month old while on the go
 
