@@ -192,14 +192,53 @@ We found that Gwen did a good job on night 2 and onward in each of
 her new environments as well. Transistions were generally challenging
 for all of us and I think Gwen probably got messed up a little bit with
 atypical days when we transitioned - lots of time in carseat or irregular
-naps.  
+naps. 
 
-One semi-major snaffu on nightly sleep. TODO: nice hotel situation 
+#### ope
+I did have one semi-major snaffu with nightly sleep. I must have messed
+up when I made our reservations for a hotel in Nice by not specifying
+that we actually needed a crib. I don't explicitly recall asking for
+a crib, so I must have just seen that the place had cribs available 
+and did nothing else with it. On arrival, they didn't have any more
+cribs available. And the hotel concierge, a young guy, suggested that we
+just have a bunch more blankets and pillows for Gwen. English wasn't
+his first language, so it is hard to say if I misunderstood his
+intentions. Regardless, we ended up with serveral more blankets and
+pillows.
+
+This is like don't do number 1 for children under a year. They should 
+sleep in an environment with no blankets at all to keep them safe in 
+their sleep. Knowing this, we put our engineering brains to work
+and came up with a makeshift crib. We laid the hotel room desk on its
+side so that the legs and top of the desk acted as 3 sides and the 
+wall the 4th. To add a bit of cushion (but not too much), we put the
+extra blankets in the bottom and pulled it taut using the weight of 
+the desk.   
+
+Gwen had a really rough time the first night we were there. To start,
+she had fallen asleep in the car on the way down the mountain and 
+the transition proved to be hard. Then this whole crib thing happened. 
+After a few hours, she seemed to settle and slept for most of the
+rest of the night. Thankfully, she did a really good job with this
+less than ideal sleeping arangement for the rest of our time in Nice.
+
+TODO: add Nice hotel story to the "navigating with eveyrthing on our
+backs"
 
 ### sustaining a nine-month old while on the go
 
 This was a challenge at points and super easy at other points.
 Food was probably a bigger deal than sleep.
+
+Luckily we could rely on breastfeeding and Gwen was eating 
+just about all solids (i.e. luckily no allergies). But could
+be a bit hard at times to get her to eat while we were out 
+and about
+
+
+down time for naps on some days vs carrier
+green space for her to move around and sun protection
+
 
 ## what we wish we knew
 - packnplay in Nice
