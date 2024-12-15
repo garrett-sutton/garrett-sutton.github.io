@@ -397,25 +397,7 @@ envision we'd travel to a foreign country with a nine-month old
 when I started at Epic 5 years ago, I'm so glad we did. There
 were certainly difficult times during the trip where Gwen
 was going through a rough patch. But there were also so many
-joyful times. On returnign, I've told many people that we had
+more joyful times. On returnign, I've told many people that we had
 a great trip and I think that is truly a testament to Gwen. 
-
-TODO (this sentence to finish things off): We 
-were able to see all of the things that we wanted to see. 
-
-Her flexibility as a nine-month old never left us in a state of
-"today is shot" and we were forutnate to do basically all of the
-major things that we set out to do.
-
-
-
-
-## what we wish we knew
-- packnplay in Nice
-- talk about how some things didn't end up looking as I expected
-   - trains were not super fun 
-   - bassinet on the plane
-   - navigating Paris. Just hte stroller dilema
-   - logistics of Gwen eating and sleeping (at the tour especially)
-- talk about the things that went suprisingly well
-   - her sleeping on the plane
+Her flexibility allowed us to experience everything we had
+hoped for.
