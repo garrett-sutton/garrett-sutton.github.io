@@ -383,11 +383,31 @@ changing table. We ultimately changed Gwen in many places and it
 turned out fine. It just took a bit of getting used to that this
 would be atypical by our standards. 
 
-### how did it go for mom & dad?
+## how did it go for mom & dad?
 
-TODO: things ot think about when traveling with a little one
-for the sake of yoru own enjoyment. 
-- slleeping in teh same hotel room
+Going into the trip, I was cautiously optimistic about everything.
+We had a plan for a roof over our head every night and a means
+to get to that roof over our head. I was also nervous about
+the travel, being in a foreign place, and reverting to sleeping
+in the same room as Gwen for our hotel nights. 
+
+After the fact, I'm happy. I'm grateful that we were able to
+take advantage of this unique opportunity. And though I didn't 
+envision we'd travel to a foreign country with a nine-month old 
+when I started at Epic 5 years ago, I'm so glad we did. There
+were certainly difficult times during the trip where Gwen
+was going through a rough patch. But there were also so many
+joyful times. On returnign, I've told many people that we had
+a great trip and I think that is truly a testament to Gwen. 
+
+TODO (this sentence to finish things off): We 
+were able to see all of the things that we wanted to see. 
+
+Her flexibility as a nine-month old never left us in a state of
+"today is shot" and we were forutnate to do basically all of the
+major things that we set out to do.
+
+
 
 
 ## what we wish we knew
