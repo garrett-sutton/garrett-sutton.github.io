@@ -327,9 +327,11 @@ at all.
 ### sustaining a nine-month old while on the go
 
 One thing about having a baby that has been surprising to me is
-how much I used to take eating and sleeping for granted. If I was 
+how much I used to take eating, sleeping, and going to the
+bathroom for granted. If I was 
 hungry, I ate some food. If I was tired, I either went to bed, 
-got another cup of coffee or took a nap (on the weekend). That
+got another cup of coffee or took a nap (on the weekend). If I 
+need to go to the bathroom, I went to the bathroom. That
 level of flexibility just doesn't exist for a baby. They need to
 eat and sleep as part of a routine. And getting them out of the 
 routine can mean a nightmare for mom and dad. Before going further,
@@ -363,25 +365,23 @@ we packed for the trip and we likely didn't know how much we
 needed it. Gwen was a champion in it during days of walking around
 cities or even going for a long hike. When she seemed to get tired,
 Grace could turn her to face inwards and she took phenomenal naps.
-
+During these long days, we also ran into the fact that Gwen couldn't
+just always be in the carrier. There were a few points where she 
+needed to get out but it meant her crawling around on something
+less than ideal. It wasn't all bad. We did find a park while in Nice
+that had a turflike surface that Gwen could easily crawl around on. 
 On days with short trips out from where we were staying it was nice
-for Gwen to be able to sleep in her crib.
+for Gwen to be able to sleep in a crib, so that it wasn't always chaos.
 
-worth calling out the public bathroom situation as well
-
-Sure, we didn't move 
-This was a challenge at points and super easy at other points.
-Food was probably a bigger deal than sleep.
-
-Luckily we could rely on breastfeeding and Gwen was eating 
-just about all solids (i.e. luckily no allergies). But could
-be a bit hard at times to get her to eat while we were out 
-and about
-
-
-down time for naps on some days vs carrier
-green space for her to move around and sun protection
-
+The bathroom situation is slightly different than food and sleep
+but it's still an important part of taking care of a little one. It 
+feels commonplace to me that in the US there are changing tables 
+in nearly all pubic restrooms. This wasn't necessarily the case in
+France. Part of that is the fact that public restrooms aren't nearly
+as common. But even in those restrooms, I didn't often notice a 
+changing table. We ultimately changed Gwen in many places and it 
+turned out fine. It just took a bit of getting used to that this
+would be atypical by our standards. 
 
 ### how did it go for mom & dad?
 
