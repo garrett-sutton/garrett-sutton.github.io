@@ -82,6 +82,7 @@ All total, we brought:
 - Stroller
 - Car seat
 - Diaper bag
+- Grace's pump bag
 - Grace carry-on
 - Garrett carry-on
 - Gwen carry-on (a 50L hiking backpack)
@@ -144,6 +145,8 @@ Philly, but after she fell asleep, she stayed alseep for almost the
 entire flight to Nice. Luckily, Grace and I were able to get some 
 rest too (as good as one can on an airplane that is).
 
+TODO: add in sleep prep and waiting on tarmac here
+
 Continuing on the topic of flying, Gwen also did really really well on
 the way home too. This flight left Paris in the late afternoon and arrived 
 in Chicago in the early evening. Again, Gwen slept for a good portion of 
@@ -173,7 +176,8 @@ we got the inorbinately expensive rental car and headed north. Yes,
 this price was not fun, but in hindsight, I will still say it was
 totally worth it. 
 
-And for what it's worth, American refunded me $30 for all of this.
+And for what it's worth, American refunded me $30 for all of this after
+I submitted a refund request.
 
 ### sleep
 
@@ -296,19 +300,15 @@ At our hotel in Nice, there were stairs to get up to the elevator
 from the reception desk. And then the elevator was so small that
 the stroller wouldn't fit in the elevator. And the icing on the 
 cake (aside from the no crib situation) was when we got into our room,
-the stroller in the room made walkign around at all pretty hard.
-I must say the consierge
-at the hotel was really helpful in getting the stroller up
-all of the stairs to our room.
-I think it's probably safe to see see this sitaution as their
-infrastructure is generally older and smaller than waht we have
-in the US. This ultimately turned
+it was so small that the stroller made walkign around impossible.
+This sitaution is generally a result of their older and
+consequently smaller infrastructure than the US. This ultimately turned
 out fine. We returned our stroller to the car the next morning to 
 give ourselves some breathing room and enjoyed our day in Nice.
 At the time, it felt like taking the stroller into the hotel was the
 best thing for us. I think we envisioned using it to push Gwen around
-the next day, but it was just too much in the room and it probably
-would have been a pain to push around all day too. We encountered plenty
+the next day, but it was just too much in the room and it 
+would have been a pain to push around all day too - plenty
 of cobblestone sidewalks, stairs, and crowded streets. 
 
 When we got to Paris, we felt the stroller pain more acutely. It was not
@@ -350,8 +350,8 @@ a good amount of solids - enough to know that we didn't have to
 worry about any allergies. When out and about for a day, we 
 typically had snacks packed for her. On a few occassions, we did
 need to find a conviencence store or market of sorts to get her
-a snack. There seemed to be a lot less 7-Eleven in France. 
-Specifically in Paris, we opted into an empty Catholic church
+a snack.  
+ In Paris, we even opted into a handful of empty Catholic churches
 for her to nurse and get changed. The church feels welcoming, so 
 I generally felt more comfortable than when sitting down on the 
 street somewhere. You can sit in awe of the Church and prayer rather than 
@@ -389,7 +389,9 @@ Going into the trip, I was cautiously optimistic about everything.
 We had a plan for a roof over our head every night and a means
 to get to that roof over our head. I was also nervous about
 the travel, being in a foreign place, and reverting to sleeping
-in the same room as Gwen for our hotel nights. 
+in the same room as Gwen for our hotel nights.
+
+TODO: Add our dinner situation
 
 After the fact, I'm happy. I'm grateful that we were able to
 take advantage of this unique opportunity. And though I didn't 
@@ -401,3 +403,7 @@ more joyful times. On returnign, I've told many people that we had
 a great trip and I think that is truly a testament to Gwen. 
 Her flexibility allowed us to experience everything we had
 hoped for.
+
+TODO: may be cool to mention in here a few of the particularly
+cool things tht Gwen did get to do. 
+i.e. chairlift. 
