@@ -216,7 +216,9 @@ and came up with a makeshift crib. We laid the hotel room desk on its
 side so that the legs and top of the desk acted as 3 sides and the 
 wall the 4th. To add a bit of cushion (but not too much), we put the
 extra blankets in the bottom and pulled it taut using the weight of 
-the desk.   
+the desk.
+
+<p align="center"><img src="/assets/images/gwenNiceCribJuly2024.jpg" alt="Gwen's sleeping quarters in Nice, France." height="auto" width="50%"></p>
 
 Gwen had a rough time the first night we were there. To start,
 she had fallen asleep in the car on the way down the mountain and 
@@ -349,12 +351,13 @@ a good amount of solids - enough to know that we didn't have to
 worry about any allergies. When out and about for a day, we 
 typically had snacks packed for her. On a few occasions, we did
 need to find a convenience store or market of sorts to get her
-a snack.  
- In Paris, we even opted into a handful of empty Catholic churches
+a snack. In Paris, we even opted into a handful of empty Catholic churches
 for her to nurse and get changed. The church feels welcoming, so 
 I generally felt more comfortable than when sitting down on the 
 street somewhere. You can sit in awe of the Church and pray rather than 
 feel like people are staring at you.
+
+<p align="center"><img src="/assets/images/gwenHappyNice2024.jpg" alt="Eating lunch in Old Nice with a very happy Gwen." height="auto" width="50%"></p>
 
 When leaving where we were staying for a 
 longer day, we always had the baby carrier so that Grace 
