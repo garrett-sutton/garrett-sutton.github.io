@@ -75,7 +75,8 @@ wasn't going to be feasible to have a large checked back that we
 needed to roller through cobblestone streets as we were transitioning 
 between places anyway. We did bring our big Graco stroller and that was 
 truly
-helpful. One of us coudl carry and roll what was reasonable. Then most everything else could fit either one the others back or under the 
+helpful. One of us coudl carry and roll what was reasonable. Then most 
+everything else could fit either one the others back or under the 
 stroller.  
 
 All total, we brought:
@@ -96,11 +97,8 @@ need to worry too much. A few extra layers were helpful
 though. Knowing that 2 weeks of clothes is a lot, we were cognizant of the 
 fact that we needed to do laundry. We were forunate the the one place
 we stayed that had laundry (i.e. in the airBnb in the Alps) was right
-in the middle of the trip. 
-
-TODO: consider mentioning what we left behind and other things of what
-we brought. Feels helpful to call out that we could buy things along the
-way and that we didn't need to have EVERYTHIGN
+in the middle of the trip. We definitely had to rely on getting things
+while we were over there too. Some things just weren't worth packing.
 
 ## In action
 
@@ -139,13 +137,14 @@ We were back in economy and Gwen was going to ahve to make due in
 her carseeat. 
 
 After finding this out but prior to boarding, we were pretty nervous.
-But those nerves never manifest into any real problems. Gwen took a 
-little while to fall asleep that night as we got on our way from
-Philly, but after she fell asleep, she stayed alseep for almost the 
+But those nerves never manifest into any real problems. We put Gwen
+through as normal of a late night routine as we could before boarding.
+But we ended up sitting on the tarmac for 90 minutes due to thunderstorms,
+and I think that made it hard for her to fall asleep with lights on and 
+all. Eventually, we got on our way from
+Philly, and she stayed alseep for almost the 
 entire flight to Nice. Luckily, Grace and I were able to get some 
 rest too (as good as one can on an airplane that is).
-
-TODO: add in sleep prep and waiting on tarmac here
 
 Continuing on the topic of flying, Gwen also did really really well on
 the way home too. This flight left Paris in the late afternoon and arrived 
@@ -391,7 +390,25 @@ to get to that roof over our head. I was also nervous about
 the travel, being in a foreign place, and reverting to sleeping
 in the same room as Gwen for our hotel nights.
 
-TODO: Add our dinner situation
+While we were there, we encountered some unexpected turbulence.
+Notably, our dinner situation throughout the trip was challenging
+because because Gwen needed to get to bed between 7 and 8 and 
+French restaurants don't open for dinner until 7. When
+we could cook, we just made dinner as we usually would. But when
+we stayed in hotels, we found ourselves dining like secret agents, 
+nibbling takeout in the shadowy corner of the room. And on the 
+one night that there was no takeout available, we were 
+like Augustus Gloop eating chocolate from the hotel vending machine
+for dinner, trying not to awaken Gwen with the crinkle of each 
+wrapper. In hindsight, it's more funny than anything. It's just
+that we did not expect this at all.
+
+Though she won't remember it, the pictures will be cool to share
+with future Gwen. She hit the Eiffel Tower, her first beach (at which
+she scared both of us several times trying to eat the rocks), a
+chairlift ride in the Alps, the Tour de France, the Olympics, and
+Normandy all during this trip. In the same breath, I hope she 
+forgives us for taking her when she was incapable of remembering.
 
 After the fact, I'm happy. I'm grateful that we were able to
 take advantage of this unique opportunity. And though I didn't 
@@ -403,7 +420,3 @@ more joyful times. On returnign, I've told many people that we had
 a great trip and I think that is truly a testament to Gwen. 
 Her flexibility allowed us to experience everything we had
 hoped for.
-
-TODO: may be cool to mention in here a few of the particularly
-cool things tht Gwen did get to do. 
-i.e. chairlift. 
