@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  nine-month-old world traveler
-date:   2024-11-18
+date:   2024-12-16
 categories: [ parenting, travel, zz_sabbatical-2024 ]
 ---
 
@@ -9,9 +9,9 @@ I hope this post is as much of a "how did it go" as it is a
 "Gwen did really good" during our trip to France in summer
 2024.
 
-## Preparation
+## preparation
 
-### Could we do this?
+### could we do this?
 
 We had been talking about going to France well before Gwen.
 So when Gwen came into the picture, Grace would only continue
@@ -21,7 +21,7 @@ American continent and now I was going to go to a foreign
 country where English wasn't the primary language with a
 nine-month-old. 
 
-### Gaining some confidence
+### gaining some confidence
 
 We used our Christmas time 2023 travels as a trial run for
 traveling with an infant. On that trip, we flew out of Milwaukee
@@ -44,7 +44,7 @@ to stomach, but at the same time, one of us having to hold Gwen
 for the duration of a transatlantic flight was going to be 
 hard and likely unsafe if we wanted to sleep at all. 
 
-### Planning
+### planning
 
 For actual trip planning, I pretty much planned to do most 
 all of the big things that I think we would have done even
@@ -58,7 +58,7 @@ deal with so that things went smoothly. For example, we ran into
 the unfortunate scenario that Gwen needed her own ticket to the
 Olympics.    
 
-### Packing
+### packing
 
 We were intentional about how our packing was going to impact our
 lives when on the ground. We had several transitions to account for
@@ -100,9 +100,9 @@ we stayed that had laundry (i.e. in the AirBnb in the Alps) was right
 in the middle of the trip. We had to rely on getting things
 while we were over there too. Some things just weren't worth packing.
 
-## In action
+## in action
 
-### Bassinets are not real
+### bassinets are not real
 
 During our preparation, we found various blogs and even the American
 Airlines website mentions bassinets that could be used for
