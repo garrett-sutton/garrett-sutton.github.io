@@ -416,7 +416,9 @@ envision we'd travel to a foreign country with a nine-month old
 when I started at Epic 5 years ago, I'm so glad we did. There
 were certainly difficult times during the trip where Gwen
 was going through a rough patch. But there were also so many
-more joyful times. On returnign, I've told many people that we had
+more joyful times. As I read through my daily notes from the
+trip while writing this post, time and again there's a note
+about how good Gwen did during that day. 
+On returnign, I've told many people that we had
 a great trip and I think that is truly a testament to Gwen. 
-Her flexibility allowed us to experience everything we had
-hoped for.
+We really did experience everything we had hoped for.
